@@ -1,0 +1,5225 @@
+
+{
+  "exported": "2024-09-22T15:20:39.572Z",
+  "data": {
+    "ハヤテのごとく！": [
+      {"name": "AniList", "url_id": "96794"},
+      {"name": "MyAnimeList", "url_id": "696"}
+    ],
+    "宙のまにまに": [
+      {"name": "AniList", "url_id": "42137"},
+      {"name": "MyAnimeList", "url_id": "12137"},
+      {"name": "Natively", "url_id": "76628cc497"}
+    ],
+    "恋にならないワケがない": [
+      {"name": "AniList", "url_id": "98483"},
+      {"name": "MyAnimeList", "url_id": "103428"}
+    ],
+    "ショート・プログラム": [
+      {"name": "AniList", "url_id": "31443"}
+    ],
+    "珈琲をしづかに": [
+      {"name": "AniList", "url_id": "117797"},
+      {"name": "MyAnimeList", "url_id": "131496"},
+      {"name": "Natively", "url_id": "2d3475eb1d"}
+    ],
+    "りゅうおうのおしごと！": [
+      {"name": "AniList", "url_id": "87425"},
+      {"name": "MyAnimeList", "url_id": "94818"}
+    ],
+    "ドラゴンボールSD": [
+      {"name": "AniList", "url_id": "86508"},
+      {"name": "MyAnimeList", "url_id": "23446"},
+      {"name": "Natively", "url_id": "4f904aee43"}
+    ],
+    "キャラメル シナモン ポップコーン": [
+      {"name": "AniList", "url_id": "120826"},
+      {"name": "MyAnimeList", "url_id": "130459"}
+    ],
+    "宝石の国": [
+      {"name": "AniList", "url_id": "74489"},
+      {"name": "MyAnimeList", "url_id": "44489"}
+    ],
+    "テセウスの船": [
+      {"name": "AniList", "url_id": "100129"},
+      {"name": "MyAnimeList", "url_id": "109773"},
+      {"name": "Natively", "url_id": "49766bf427"}
+    ],
+    "ばらかもん": [
+      {"name": "AniList", "url_id": "47051"},
+      {"name": "MyAnimeList", "url_id": "17051"}
+    ],
+    "舞妓さんちのまかないさん": [
+      {"name": "AniList", "url_id": "98889"},
+      {"name": "BOOK☆WALKER", "url_id": "129246"},
+      {"name": "Mangapedia", "url_id": "%E8%88%9E%E5%A6%93%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%81%BE%E3%81%8B%E3%81%AA%E3%81%84%E3%81%95%E3%82%93-lp3atvzbx"},
+      {"name": "MyAnimeList", "url_id": "107239"},
+      {"name": "Natively", "url_id": "3d3ec85d0b"}
+    ],
+    "ラストオーダー": [
+      {"name": "AniList", "url_id": "140559"},
+      {"name": "MyAnimeList", "url_id": "134045"}
+    ],
+    "炎の転校生": [
+      {"name": "AniList", "url_id": "48388"},
+      {"name": "MyAnimeList", "url_id": "18388"}
+    ],
+    "僕とルネと青嵐": [
+      {"name": "AniList", "url_id": "96057"},
+      {"name": "MyAnimeList", "url_id": "93232"}
+    ],
+    "蒼竜の側用人": [
+      {"name": "AniList", "url_id": "99617"}
+    ],
+    "怪物事変": [
+      {"name": "AniList", "url_id": "98466"},
+      {"name": "MyAnimeList", "url_id": "104076"},
+      {"name": "Natively", "url_id": "7f97425ab0"}
+    ],
+    "吹彩―SUISAI―": [
+      {"name": "AniList", "url_id": "95439"},
+      {"name": "MyAnimeList", "url_id": "91151"}
+    ],
+    "黒燿のシークは愛を囁く": [
+      {"name": "AniList", "url_id": "101663"},
+      {"name": "MyAnimeList", "url_id": "91073"}
+    ],
+    "めぞん一刻": [
+      {"name": "AniList", "url_id": "30688"},
+      {"name": "MyAnimeList", "url_id": "688"},
+      {"name": "Natively", "url_id": "296e57768e"},
+      {"name": "Natively", "url_id": "d7a00538e1"}
+    ],
+    "天然コケッコー": [
+      {"name": "AniList", "url_id": "88893"},
+      {"name": "MyAnimeList", "url_id": "59671"}
+    ],
+    "放課後のアイドルには秘密がある": [
+      {"name": "AniList", "url_id": "152235"},
+      {"name": "MyAnimeList", "url_id": "159134"},
+      {"name": "Natively", "url_id": "9039733bfb"}
+    ],
+    "花君と恋する私": [
+      {"name": "AniList", "url_id": "56945"},
+      {"name": "MyAnimeList", "url_id": "26945"},
+      {"name": "Natively", "url_id": "1472da2f7f"}
+    ],
+    "ゴジュッセンチの一生": [
+      {"name": "AniList", "url_id": "109307"},
+      {"name": "MyAnimeList", "url_id": "113667"},
+      {"name": "Natively", "url_id": "541dde40d3"}
+    ],
+    "山田くんと７人の魔女": [
+      {"name": "AniList", "url_id": "65003"},
+      {"name": "MyAnimeList", "url_id": "35003"},
+      {"name": "Natively", "url_id": "c25ccfc7c2"}
+    ],
+    "あたしの！": [
+      {"name": "AniList", "url_id": "101602"},
+      {"name": "BOOK☆WALKER", "url_id": "142138"},
+      {"name": "MyAnimeList", "url_id": "109573"}
+    ],
+    "PANDORA SEVEN -パンドラセブン-": [
+      {"name": "AniList", "url_id": "139996"},
+      {"name": "MyAnimeList", "url_id": "148801"}
+    ],
+    "新九郎、奔る！": [
+      {"name": "AniList", "url_id": "115092"},
+      {"name": "MyAnimeList", "url_id": "111744"}
+    ],
+    "境界のRINNE": [
+      {"name": "AniList", "url_id": "43558"},
+      {"name": "MyAnimeList", "url_id": "13558"},
+      {"name": "Natively", "url_id": "32458b62a1"}
+    ],
+    "久住くん、空気読めてますか？": [
+      {"name": "AniList", "url_id": "87468"},
+      {"name": "MyAnimeList", "url_id": "96050"},
+      {"name": "Natively", "url_id": "a2783d2bd3"}
+    ],
+    "カワイスギクライシス": [
+      {"name": "AniList", "url_id": "112586"},
+      {"name": "MyAnimeList", "url_id": "122854"}
+    ],
+    "極主夫道": [
+      {"name": "AniList", "url_id": "101233"},
+      {"name": "MyAnimeList", "url_id": "112922"}
+    ],
+    "ポンポコロボ　アト＆スゥ": [
+      {"name": "AniList", "url_id": "129310"}
+    ],
+    "ドリーム・ラッシュ！": [
+      {"name": "AniList", "url_id": "91705"},
+      {"name": "MyAnimeList", "url_id": "72839"}
+    ],
+    "ダーウィン事変": [
+      {"name": "AniList", "url_id": "120638"},
+      {"name": "MyAnimeList", "url_id": "130755"},
+      {"name": "Natively", "url_id": "490bbe9f34"}
+    ],
+    "コールドゲーム": [
+      {"name": "AniList", "url_id": "101650"},
+      {"name": "MyAnimeList", "url_id": "112511"}
+    ],
+    "妹先生　渚": [
+      {"name": "AniList", "url_id": "133677"},
+      {"name": "MyAnimeList", "url_id": "148369"}
+    ],
+    "大正処女御伽話": [
+      {"name": "AniList", "url_id": "96754"},
+      {"name": "MyAnimeList", "url_id": "96044"},
+      {"name": "Natively", "url_id": "21c0080e66"}
+    ],
+    "くおんの森": [
+      {"name": "AniList", "url_id": "74311"},
+      {"name": "MyAnimeList", "url_id": "44311"}
+    ],
+    "チョコタン！": [
+      {"name": "AniList", "url_id": "75237"},
+      {"name": "MyAnimeList", "url_id": "45237"}
+    ],
+    "外面男子の清水くん": [
+      {"name": "AniList", "url_id": "135050"},
+      {"name": "MyAnimeList", "url_id": "143278"}
+    ],
+    "夢で逢えたら": [
+      {"name": "AniList", "url_id": "30815"},
+      {"name": "MyAnimeList", "url_id": "815"}
+    ],
+    "ゴーストハント": [
+      {"name": "AniList", "url_id": "30158"},
+      {"name": "MyAnimeList", "url_id": "158"}
+    ],
+    "グラゼニ～東京ドーム編～": [
+      {"name": "AniList", "url_id": "92960"},
+      {"name": "MyAnimeList", "url_id": "80129"}
+    ],
+    "プルミエ・ミュゲ": [
+      {"name": "AniList", "url_id": "154859"},
+      {"name": "Natively", "url_id": "ab1b6b8ae4"}
+    ],
+    "魔女の下僕と魔王のツノ": [
+      {"name": "AniList", "url_id": "93243"},
+      {"name": "MyAnimeList", "url_id": "82281"}
+    ],
+    "あおざくら　防衛大学校物語": [
+      {"name": "AniList", "url_id": "121121"},
+      {"name": "MyAnimeList", "url_id": "98725"},
+      {"name": "Natively", "url_id": "b4109102d5"}
+    ],
+    "True Love": [
+      {"name": "AniList", "url_id": "77549"},
+      {"name": "MyAnimeList", "url_id": "47549"}
+    ],
+    "重版出来！": [
+      {"name": "AniList", "url_id": "89793"},
+      {"name": "MyAnimeList", "url_id": "63533"},
+      {"name": "Natively", "url_id": "7fd9c1d32e"}
+    ],
+    "水色時代": [
+      {"name": "AniList", "url_id": "33886"},
+      {"name": "MyAnimeList", "url_id": "3886"}
+    ],
+    "マロニエ王国の七人の騎士": [
+      {"name": "AniList", "url_id": "99855"},
+      {"name": "BOOK☆WALKER", "url_id": "132213"},
+      {"name": "MyAnimeList", "url_id": "110138"}
+    ],
+    "碧き青のアトポス": [
+      {"name": "AniList", "url_id": "88495"},
+      {"name": "MyAnimeList", "url_id": "57763"}
+    ],
+    "獣医ドリトル": [
+      {"name": "AniList", "url_id": "106686"},
+      {"name": "MyAnimeList", "url_id": "108976"}
+    ],
+    "僕だけがいない街": [
+      {"name": "AniList", "url_id": "69325"},
+      {"name": "MyAnimeList", "url_id": "39325"}
+    ],
+    "猫奥": [
+      {"name": "AniList", "url_id": "136570"}
+    ],
+    "ちはやふる": [
+      {"name": "AniList", "url_id": "43245"},
+      {"name": "MyAnimeList", "url_id": "13245"},
+      {"name": "Natively", "url_id": "34d3b89956"}
+    ],
+    "幼なじみと恋する方法": [
+      {"name": "AniList", "url_id": "161453"}
+    ],
+    "ピンクとハバネロ": [
+      {"name": "AniList", "url_id": "144383"},
+      {"name": "MyAnimeList", "url_id": "144012"},
+      {"name": "Natively", "url_id": "6a9836ce7b"}
+    ],
+    "税金で買った本": [
+      {"name": "AniList", "url_id": "142165"},
+      {"name": "MyAnimeList", "url_id": "142818"},
+      {"name": "Natively", "url_id": "3a1323f818"}
+    ],
+    "花より男子": [
+      {"name": "AniList", "url_id": "30877"},
+      {"name": "MyAnimeList", "url_id": "877"},
+      {"name": "Natively", "url_id": "c248d47b3b"}
+    ],
+    "山田家の女": [
+      {"name": "AniList", "url_id": "157352"},
+      {"name": "MyAnimeList", "url_id": "150474"}
+    ],
+    "キラキラ100％": [
+      {"name": "AniList", "url_id": "46866"},
+      {"name": "MyAnimeList", "url_id": "16866"},
+      {"name": "Natively", "url_id": "68155e93d0"}
+    ],
+    "山口くんはワルくない": [
+      {"name": "AniList", "url_id": "111758"},
+      {"name": "MyAnimeList", "url_id": "128088"},
+      {"name": "Natively", "url_id": "67573097e0"}
+    ],
+    "ふたりで恋をする理由": [
+      {"name": "AniList", "url_id": "105516"},
+      {"name": "MyAnimeList", "url_id": "117528"},
+      {"name": "Natively", "url_id": "88aeaf676f"}
+    ],
+    "まじっく快斗": [
+      {"name": "AniList", "url_id": "31804"},
+      {"name": "MyAnimeList", "url_id": "1804"},
+      {"name": "Natively", "url_id": "d14dfd67df"}
+    ],
+    "海の御先": [
+      {"name": "AniList", "url_id": "34249"},
+      {"name": "MyAnimeList", "url_id": "4249"},
+      {"name": "Natively", "url_id": "ff2c093bb5"}
+    ],
+    "ライアーバード": [
+      {"name": "AniList", "url_id": "31649"}
+    ],
+    "少女少年学級団": [
+      {"name": "AniList", "url_id": "55573"},
+      {"name": "MyAnimeList", "url_id": "25573"}
+    ],
+    "今日も明日も。": [
+      {"name": "AniList", "url_id": "34799"},
+      {"name": "MyAnimeList", "url_id": "4799"}
+    ],
+    "エンジェル": [
+      {"name": "AniList", "url_id": "34094"}
+    ],
+    "僕はビートルズ": [
+      {"name": "AniList", "url_id": "53231"},
+      {"name": "MyAnimeList", "url_id": "23231"},
+      {"name": "Natively", "url_id": "bc4cb8d7f5"}
+    ],
+    "グランドサン": [
+      {"name": "AniList", "url_id": "33547"},
+      {"name": "MyAnimeList", "url_id": "3547"}
+    ],
+    "極食キング": [
+      {"name": "AniList", "url_id": "134261"},
+      {"name": "MyAnimeList", "url_id": "106401"}
+    ],
+    "暁のヨナ": [
+      {"name": "AniList", "url_id": "51525"},
+      {"name": "MyAnimeList", "url_id": "21525"},
+      {"name": "Natively", "url_id": "38246b7b58"}
+    ],
+    "聖樹のパン": [
+      {"name": "AniList", "url_id": "112311"},
+      {"name": "MyAnimeList", "url_id": "100363"}
+    ],
+    "僕が僕であるために。": [
+      {"name": "AniList", "url_id": "86191"},
+      {"name": "BOOK☆WALKER", "url_id": "66608"},
+      {"name": "Mangapedia", "url_id": "%E5%83%95%E3%81%8C%E5%83%95%E3%81%A7%E3%81%82%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%80%82-frvj1csp1"},
+      {"name": "MyAnimeList", "url_id": "88901"},
+      {"name": "Natively", "url_id": "6d15c4fe24"}
+    ],
+    "ママレード・ボーイ": [
+      {"name": "AniList", "url_id": "30091"},
+      {"name": "MyAnimeList", "url_id": "91"},
+      {"name": "Natively", "url_id": "6ab3f8ea62"}
+    ],
+    "王室教師ハイネ": [
+      {"name": "AniList", "url_id": "92154"},
+      {"name": "MyAnimeList", "url_id": "75243"}
+    ],
+    "食キング": [
+      {"name": "AniList", "url_id": "67379"},
+      {"name": "MyAnimeList", "url_id": "37379"}
+    ],
+    "美少女戦士セーラームーン": [
+      {"name": "AniList", "url_id": "38552"},
+      {"name": "MyAnimeList", "url_id": "92"}
+    ],
+    "ちとせetc.": [
+      {"name": "AniList", "url_id": "45675"}
+    ],
+    "魔法科高校の劣等生 ダブルセブン編": [
+      {"name": "AniList", "url_id": "99904"},
+      {"name": "MyAnimeList", "url_id": "101482"}
+    ],
+    "電脳少女☆Ｍｉｎｋ": [
+      {"name": "AniList", "url_id": "30271"},
+      {"name": "MyAnimeList", "url_id": "271"}
+    ],
+    "メイド・イン・ひっこみゅ～ず": [
+      {"name": "AniList", "url_id": "105183"},
+      {"name": "MyAnimeList", "url_id": "118361"}
+    ],
+    "青の島とねこ一匹": [
+      {"name": "AniList", "url_id": "108537"},
+      {"name": "MyAnimeList", "url_id": "116739"}
+    ],
+    "藍より青し": [
+      {"name": "AniList", "url_id": "30075"},
+      {"name": "MyAnimeList", "url_id": "75"},
+      {"name": "Natively", "url_id": "d8855fb7d2"}
+    ],
+    "君と一緒じゃままならない": [
+      {"name": "AniList", "url_id": "127086"}
+    ],
+    "未来のムスコ～恋人いない歴10年の私に息子が降ってきた！": [
+      {"name": "AniList", "url_id": "145681"},
+      {"name": "MyAnimeList", "url_id": "152906"},
+      {"name": "Natively", "url_id": "36b8a3f12e"}
+    ],
+    "黒岩メダカに私の可愛いが通じない": [
+      {"name": "AniList", "url_id": "134369"},
+      {"name": "MyAnimeList", "url_id": "136979"}
+    ],
+    "カードキャプターさくら": [
+      {"name": "AniList", "url_id": "30106"},
+      {"name": "BOOK☆WALKER", "url_id": "5512"},
+      {"name": "Mangapedia", "url_id": "%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89-re5ri2g49"},
+      {"name": "MyAnimeList", "url_id": "25902"},
+      {"name": "MyAnimeList", "url_id": "106"},
+      {"name": "Natively", "url_id": "6fbd35996d"}
+    ],
+    "２０×２０": [
+      {"name": "AniList", "url_id": "162386"}
+    ],
+    "風夏": [
+      {"name": "AniList", "url_id": "85216"},
+      {"name": "MyAnimeList", "url_id": "67019"},
+      {"name": "Natively", "url_id": "5eb08d31bc"}
+    ],
+    "恋降るカラフル～ぜんぶキミとはじめて～": [
+      {"name": "AniList", "url_id": "99048"},
+      {"name": "MyAnimeList", "url_id": "90088"}
+    ],
+    "密・リターンズ！": [
+      {"name": "AniList", "url_id": "34083"},
+      {"name": "MyAnimeList", "url_id": "4083"}
+    ],
+    "ビーストマスター": [
+      {"name": "AniList", "url_id": "33633"},
+      {"name": "MyAnimeList", "url_id": "3633"}
+    ],
+    "僕のオリオン": [
+      {"name": "AniList", "url_id": "101847"},
+      {"name": "MyAnimeList", "url_id": "113419"}
+    ],
+    "古屋先生は杏ちゃんのモノ": [
+      {"name": "AniList", "url_id": "99690"},
+      {"name": "MyAnimeList", "url_id": "102648"}
+    ],
+    "公道ウルフ": [
+      {"name": "AniList", "url_id": "114665"},
+      {"name": "MyAnimeList", "url_id": "140748"}
+    ],
+    "立ち飲みご令嬢": [
+      {"name": "AniList", "url_id": "149826"},
+      {"name": "MyAnimeList", "url_id": "152783"}
+    ],
+    "Honey Bitter": [
+      {"name": "AniList", "url_id": "32144"},
+      {"name": "MyAnimeList", "url_id": "2144"}
+    ],
+    "Dr.リンにきいてみて！": [
+      {"name": "AniList", "url_id": "35917"},
+      {"name": "MyAnimeList", "url_id": "5917"}
+    ],
+    "これは愛じゃないので、よろしく": [
+      {"name": "AniList", "url_id": "97010"},
+      {"name": "MyAnimeList", "url_id": "97342"},
+      {"name": "Natively", "url_id": "15352f6fa4"}
+    ],
+    "寄宿学校のジュリエット": [
+      {"name": "AniList", "url_id": "97927"},
+      {"name": "MyAnimeList", "url_id": "91514"}
+    ],
+    "桜蘭高校ホスト部": [
+      {"name": "AniList", "url_id": "54339"},
+      {"name": "MyAnimeList", "url_id": "27029"},
+      {"name": "MyAnimeList", "url_id": "30"}
+    ],
+    "恋するハリネズミ": [
+      {"name": "AniList", "url_id": "85956"},
+      {"name": "MyAnimeList", "url_id": "70145"}
+    ],
+    "猫田のことが気になって仕方ない。": [
+      {"name": "AniList", "url_id": "86738"},
+      {"name": "MyAnimeList", "url_id": "84559"},
+      {"name": "Natively", "url_id": "b965e00e19"}
+    ],
+    "苺ましまろ": [
+      {"name": "AniList", "url_id": "30371"},
+      {"name": "MyAnimeList", "url_id": "371"}
+    ],
+    "センチメンタル キス": [
+      {"name": "AniList", "url_id": "119329"},
+      {"name": "MyAnimeList", "url_id": "129198"}
+    ],
+    "新鉄拳チンミ": [
+      {"name": "AniList", "url_id": "38094"},
+      {"name": "MyAnimeList", "url_id": "8094"}
+    ],
+    "束の間の一花": [
+      {"name": "AniList", "url_id": "130157"},
+      {"name": "MyAnimeList", "url_id": "136359"},
+      {"name": "Natively", "url_id": "3dac45a9c1"}
+    ],
+    "有閑倶楽部": [
+      {"name": "AniList", "url_id": "34244"},
+      {"name": "MyAnimeList", "url_id": "4244"}
+    ],
+    "図書館の大魔術師": [
+      {"name": "AniList", "url_id": "101131"}
+    ],
+    "レ・セルバン": [
+      {"name": "AniList", "url_id": "142706"},
+      {"name": "MyAnimeList", "url_id": "143092"},
+      {"name": "Natively", "url_id": "8160e486ca"}
+    ],
+    "水溜まりに浮かぶ島": [
+      {"name": "AniList", "url_id": "113249"},
+      {"name": "MyAnimeList", "url_id": "122949"}
+    ],
+    "久保さんは僕を許さない": [
+      {"name": "AniList", "url_id": "112981"}
+    ],
+    "苺時間": [
+      {"name": "AniList", "url_id": "43281"},
+      {"name": "MyAnimeList", "url_id": "13281"}
+    ],
+    "銀牙伝説ウィード": [
+      {"name": "AniList", "url_id": "34010"}
+    ],
+    "鉄拳チンミ": [
+      {"name": "AniList", "url_id": "31100"},
+      {"name": "MyAnimeList", "url_id": "1100"}
+    ],
+    "もういっぽん！": [
+      {"name": "AniList", "url_id": "104640"},
+      {"name": "MyAnimeList", "url_id": "129451"},
+      {"name": "Natively", "url_id": "013d43fc98"}
+    ],
+    "新婚だけど片想い": [
+      {"name": "AniList", "url_id": "120897"},
+      {"name": "MyAnimeList", "url_id": "145879"},
+      {"name": "Natively", "url_id": "0b48c2b54d"}
+    ],
+    "黒執事": [
+      {"name": "AniList", "url_id": "33866"},
+      {"name": "MyAnimeList", "url_id": "3866"},
+      {"name": "Natively", "url_id": "f026029bb5"}
+    ],
+    "琉球のユウナ": [
+      {"name": "AniList", "url_id": "112396"},
+      {"name": "MyAnimeList", "url_id": "113727"}
+    ],
+    "メガネ、時々、ヤンキーくん": [
+      {"name": "AniList", "url_id": "128448"},
+      {"name": "BOOK☆WALKER", "url_id": "303418"},
+      {"name": "Mangapedia", "url_id": "%E3%83%A1%E3%82%AC%E3%83%8D%E3%80%81%E6%99%82%E3%80%85%E3%80%81%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%E3%81%8F%E3%82%93-hiobrze7y"},
+      {"name": "MyAnimeList", "url_id": "134443"},
+      {"name": "Natively", "url_id": "75b9ab6d2f"}
+    ],
+    "どうぶつずかん": [
+      {"name": "AniList", "url_id": "90389"},
+      {"name": "MyAnimeList", "url_id": "66339"}
+    ],
+    "御曹司の並ぶ店": [
+      {"name": "AniList", "url_id": "135423"},
+      {"name": "MyAnimeList", "url_id": "152714"}
+    ],
+    "怪獣のトカゲ": [
+      {"name": "AniList", "url_id": "99077"},
+      {"name": "MyAnimeList", "url_id": "118866"}
+    ],
+    "魔法科高校の劣等生 師族会議編": [
+      {"name": "AniList", "url_id": "126066"},
+      {"name": "MyAnimeList", "url_id": "135741"}
+    ],
+    "チェリーにくちづけ": [
+      {"name": "AniList", "url_id": "48556"},
+      {"name": "MyAnimeList", "url_id": "18556"}
+    ],
+    "♂と♀の方程式": [
+      {"name": "AniList", "url_id": "74475"}
+    ],
+    "ヒナ 値付けされた子役たち": [
+      {"name": "AniList", "url_id": "107486"}
+    ],
+    "人間のいない国": [
+      {"name": "AniList", "url_id": "112120"},
+      {"name": "MyAnimeList", "url_id": "123710"}
+    ],
+    "ココロ・ボタン": [
+      {"name": "AniList", "url_id": "48281"},
+      {"name": "MyAnimeList", "url_id": "18281"}
+    ],
+    "ただいま授業中！": [
+      {"name": "AniList", "url_id": "93741"},
+      {"name": "MyAnimeList", "url_id": "85653"}
+    ],
+    "日南子さんの理由アリな日々": [
+      {"name": "AniList", "url_id": "122450"},
+      {"name": "MyAnimeList", "url_id": "118276"}
+    ],
+    "群青リフレクション": [
+      {"name": "AniList", "url_id": "101207"},
+      {"name": "MyAnimeList", "url_id": "112686"}
+    ],
+    "ＱあんどＡ": [
+      {"name": "AniList", "url_id": "44008"},
+      {"name": "MyAnimeList", "url_id": "14008"},
+      {"name": "Natively", "url_id": "8bc50e916f"}
+    ],
+    "ボール・ミーツ・ガール": [
+      {"name": "AniList", "url_id": "122071"},
+      {"name": "MyAnimeList", "url_id": "96137"}
+    ],
+    "大海原と大海原": [
+      {"name": "AniList", "url_id": "99541"},
+      {"name": "MyAnimeList", "url_id": "92364"},
+      {"name": "Natively", "url_id": "01e930c213"}
+    ],
+    "シャングリラ・フロンティア": [
+      {"name": "AniList", "url_id": "122063"}
+    ],
+    "颯汰の国": [
+      {"name": "AniList", "url_id": "107542"}
+    ],
+    "ふたり生徒会": [
+      {"name": "AniList", "url_id": "99244"},
+      {"name": "MyAnimeList", "url_id": "111822"}
+    ],
+    "ラストイニング": [
+      {"name": "AniList", "url_id": "46555"},
+      {"name": "MyAnimeList", "url_id": "16555"}
+    ],
+    "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～@COMIC": [
+      {"name": "AniList", "url_id": "112830"},
+      {"name": "MyAnimeList", "url_id": "121484"}
+    ],
+    "怪盗セイント・テール": [
+      {"name": "AniList", "url_id": "117300"},
+      {"name": "MyAnimeList", "url_id": "508"},
+      {"name": "Natively", "url_id": "fe09a5610d"}
+    ],
+    "どうせ、恋してしまうんだ。": [
+      {"name": "AniList", "url_id": "125855"},
+      {"name": "MyAnimeList", "url_id": "132739"},
+      {"name": "Natively", "url_id": "6e5867ebae"}
+    ],
+    "寮則は恋に甘し～現住所、男子寮につき～": [
+      {"name": "AniList", "url_id": "166575"},
+      {"name": "BOOK☆WALKER", "url_id": "421672"},
+      {"name": "MyAnimeList", "url_id": "150223"}
+    ],
+    "炎炎ノ消防隊": [
+      {"name": "AniList", "url_id": "86310"},
+      {"name": "MyAnimeList", "url_id": "91037"},
+      {"name": "Natively", "url_id": "230a8a768c"}
+    ],
+    "筋肉島": [
+      {"name": "AniList", "url_id": "158310"},
+      {"name": "MyAnimeList", "url_id": "156297"}
+    ],
+    "空想スピンフラワー": [
+      {"name": "AniList", "url_id": "85304"}
+    ],
+    "いつも美空": [
+      {"name": "AniList", "url_id": "31204"},
+      {"name": "MyAnimeList", "url_id": "1204"},
+      {"name": "Natively", "url_id": "8e7e2d80bf"}
+    ],
+    "チキン　「ドロップ」前夜の物語": [
+      {"name": "AniList", "url_id": "104711"},
+      {"name": "MyAnimeList", "url_id": "83431"}
+    ],
+    "バイオレンスアクション": [
+      {"name": "AniList", "url_id": "99924"},
+      {"name": "MyAnimeList", "url_id": "105182"},
+      {"name": "Natively", "url_id": "dd9c9123d6"}
+    ],
+    "六三四の剣": [
+      {"name": "AniList", "url_id": "50030"},
+      {"name": "MyAnimeList", "url_id": "20030"}
+    ],
+    "機動戦士ガンダム サンダーボルト": [
+      {"name": "AniList", "url_id": "67683"},
+      {"name": "MyAnimeList", "url_id": "37683"}
+    ],
+    "スリースター": [
+      {"name": "AniList", "url_id": "106111"},
+      {"name": "MyAnimeList", "url_id": "143965"}
+    ],
+    "はつめいプリンセス": [
+      {"name": "AniList", "url_id": "33966"},
+      {"name": "MyAnimeList", "url_id": "3966"}
+    ],
+    "子供じゃないモン！": [
+      {"name": "AniList", "url_id": "130345"}
+    ],
+    "ゆりあ先生の赤い糸": [
+      {"name": "AniList", "url_id": "113893"},
+      {"name": "MyAnimeList", "url_id": "112812"}
+    ],
+    "あまんちゅ！": [
+      {"name": "AniList", "url_id": "41061"},
+      {"name": "MyAnimeList", "url_id": "11061"},
+      {"name": "Natively", "url_id": "214bae1156"}
+    ],
+    "魔法騎士レイアース２": [
+      {"name": "AniList", "url_id": "30697"},
+      {"name": "MyAnimeList", "url_id": "697"},
+      {"name": "Natively", "url_id": "53ba8ddad1"}
+    ],
+    "アーティストアクロ": [
+      {"name": "AniList", "url_id": "43084"},
+      {"name": "MyAnimeList", "url_id": "13084"}
+    ],
+    "空色アゲハ": [
+      {"name": "AniList", "url_id": "47405"},
+      {"name": "MyAnimeList", "url_id": "17405"}
+    ],
+    "くノ一ツバキの胸の内": [
+      {"name": "AniList", "url_id": "100930"},
+      {"name": "MyAnimeList", "url_id": "112089"},
+      {"name": "Natively", "url_id": "f8e4588d14"}
+    ],
+    "マギ": [
+      {"name": "AniList", "url_id": "44790"},
+      {"name": "MyAnimeList", "url_id": "14790"}
+    ],
+    "マロマロ": [
+      {"name": "AniList", "url_id": "116318"}
+    ],
+    "ピアノの森": [
+      {"name": "AniList", "url_id": "32895"},
+      {"name": "MyAnimeList", "url_id": "2895"}
+    ],
+    "ヤマノススメ": [
+      {"name": "AniList", "url_id": "71049"},
+      {"name": "MyAnimeList", "url_id": "41049"},
+      {"name": "Natively", "url_id": "aff41c8e51"}
+    ],
+    "ひもうと！うまるちゃんSS": [
+      {"name": "AniList", "url_id": "86230"}
+    ],
+    "ウィッチクラフトワークス": [
+      {"name": "AniList", "url_id": "49896"},
+      {"name": "MyAnimeList", "url_id": "19896"},
+      {"name": "Natively", "url_id": "4ceeab44f1"}
+    ],
+    "わたしのお嫁くん": [
+      {"name": "AniList", "url_id": "108163"},
+      {"name": "MyAnimeList", "url_id": "139073"},
+      {"name": "Natively", "url_id": "ee6e4d4b4e"}
+    ],
+    "ひもうと！うまるちゃんS": [
+      {"name": "AniList", "url_id": "86230"},
+      {"name": "MyAnimeList", "url_id": "89408"}
+    ],
+    "無限の住人～幕末ノ章～": [
+      {"name": "AniList", "url_id": "109375"},
+      {"name": "MyAnimeList", "url_id": "120483"}
+    ],
+    "蟲師": [
+      {"name": "AniList", "url_id": "30418"},
+      {"name": "MyAnimeList", "url_id": "418"},
+      {"name": "Natively", "url_id": "3151d10ab5"}
+    ],
+    "合法ドラッグ": [
+      {"name": "AniList", "url_id": "30108"},
+      {"name": "MyAnimeList", "url_id": "108"}
+    ],
+    "空挺ドラゴンズ": [
+      {"name": "AniList", "url_id": "97675"},
+      {"name": "MyAnimeList", "url_id": "101479"}
+    ],
+    "チーズスイートホーム": [
+      {"name": "AniList", "url_id": "31397"},
+      {"name": "MyAnimeList", "url_id": "1397"},
+      {"name": "Natively", "url_id": "da92b7c21f"}
+    ],
+    "ANGELIC LAYER": [
+      {"name": "AniList", "url_id": "30080"},
+      {"name": "MyAnimeList", "url_id": "80"}
+    ],
+    "無限の住人": [
+      {"name": "AniList", "url_id": "30658"},
+      {"name": "MyAnimeList", "url_id": "658"}
+    ],
+    "メイちゃんの執事": [
+      {"name": "AniList", "url_id": "33778"},
+      {"name": "MyAnimeList", "url_id": "3778"}
+    ],
+    "菜の花の彼―ナノカノカレ―": [
+      {"name": "AniList", "url_id": "85305"},
+      {"name": "MyAnimeList", "url_id": "63725"}
+    ],
+    "実は俺、最強でした？": [
+      {"name": "AniList", "url_id": "110769"},
+      {"name": "MyAnimeList", "url_id": "123783"},
+      {"name": "Natively", "url_id": "26e30d2e2b"}
+    ],
+    "レンタルおにいちゃん": [
+      {"name": "AniList", "url_id": "101561"},
+      {"name": "MyAnimeList", "url_id": "112466"},
+      {"name": "Natively", "url_id": "c992a1a837"}
+    ],
+    "こばと。": [
+      {"name": "AniList", "url_id": "30118"},
+      {"name": "MyAnimeList", "url_id": "118"},
+      {"name": "Natively", "url_id": "f64acbde5f"}
+    ],
+    "きみのすきなひと": [
+      {"name": "AniList", "url_id": "111238"}
+    ],
+    "映える恋とか知りません": [
+      {"name": "AniList", "url_id": "167266"}
+    ],
+    "鮫島、最後の十五日": [
+      {"name": "AniList", "url_id": "130100"},
+      {"name": "MyAnimeList", "url_id": "117523"}
+    ],
+    "きのう何食べた？": [
+      {"name": "AniList", "url_id": "37989"},
+      {"name": "MyAnimeList", "url_id": "7989"},
+      {"name": "Natively", "url_id": "b168979623"}
+    ],
+    "IT'S MY LIFE": [
+      {"name": "AniList", "url_id": "87509"},
+      {"name": "MyAnimeList", "url_id": "88906"}
+    ],
+    "ろまんす五段活用": [
+      {"name": "AniList", "url_id": "45246"}
+    ],
+    "ちぇみと三兄弟": [
+      {"name": "AniList", "url_id": "105248"},
+      {"name": "Natively", "url_id": "090ced7d05"}
+    ],
+    "すき。だからすき": [
+      {"name": "AniList", "url_id": "166691"},
+      {"name": "MyAnimeList", "url_id": "538"},
+      {"name": "Natively", "url_id": "09393bdeee"}
+    ],
+    "エポトランス！舞": [
+      {"name": "AniList", "url_id": "31166"},
+      {"name": "MyAnimeList", "url_id": "1166"}
+    ],
+    "結婚しても恋してる": [
+      {"name": "AniList", "url_id": "86626"},
+      {"name": "MyAnimeList", "url_id": "94005"}
+    ],
+    "ソウルイーター": [
+      {"name": "AniList", "url_id": "30908"},
+      {"name": "Natively", "url_id": "9405e092ef"}
+    ],
+    "カワイイなんて聞いてない！！": [
+      {"name": "AniList", "url_id": "120977"},
+      {"name": "MyAnimeList", "url_id": "129164"}
+    ],
+    "ここはグリーン・ウッド": [
+      {"name": "AniList", "url_id": "30921"},
+      {"name": "MyAnimeList", "url_id": "921"},
+      {"name": "Natively", "url_id": "56f430257f"},
+      {"name": "Natively", "url_id": "d8140a8c76"}
+    ],
+    "アップセット１５": [
+      {"name": "AniList", "url_id": "66923"},
+      {"name": "MyAnimeList", "url_id": "36923"}
+    ],
+    "俺物語!!": [
+      {"name": "AniList", "url_id": "66933"},
+      {"name": "MyAnimeList", "url_id": "36933"},
+      {"name": "Natively", "url_id": "1c37402344"}
+    ],
+    "ハピネス": [
+      {"name": "AniList", "url_id": "86136"},
+      {"name": "MyAnimeList", "url_id": "7532"},
+      {"name": "MyAnimeList", "url_id": "85173"},
+      {"name": "Natively", "url_id": "5ef30d4693"}
+    ],
+    "任侠転生－異世界のヤクザ姫－": [
+      {"name": "AniList", "url_id": "113624"},
+      {"name": "MyAnimeList", "url_id": "123065"}
+    ],
+    "しかのこのこのここしたんたん": [
+      {"name": "AniList", "url_id": "125555"},
+      {"name": "MyAnimeList", "url_id": "135455"}
+    ],
+    "新テニスの王子様": [
+      {"name": "AniList", "url_id": "42965"},
+      {"name": "MyAnimeList", "url_id": "12965"},
+      {"name": "Natively", "url_id": "285d9e4bb9"}
+    ],
+    "魔法騎士レイアース": [
+      {"name": "AniList", "url_id": "30119"},
+      {"name": "Natively", "url_id": "a9d115c95b"}
+    ],
+    "ねじまきカギュー": [
+      {"name": "AniList", "url_id": "73525"},
+      {"name": "MyAnimeList", "url_id": "43525"},
+      {"name": "Natively", "url_id": "bcd64c2bcd"}
+    ],
+    "ナゾトキ姫は名探偵": [
+      {"name": "AniList", "url_id": "73369"},
+      {"name": "MyAnimeList", "url_id": "43369"}
+    ],
+    "悪い子でもいいの": [
+      {"name": "AniList", "url_id": "104725"},
+      {"name": "MyAnimeList", "url_id": "118618"}
+    ],
+    "たいがー＆どらごん": [
+      {"name": "AniList", "url_id": "144669"}
+    ],
+    "みらいのダンナさま": [
+      {"name": "AniList", "url_id": "107374"},
+      {"name": "MyAnimeList", "url_id": "121741"}
+    ],
+    "ポーション頼みで生き延びます！": [
+      {"name": "AniList", "url_id": "99104"},
+      {"name": "MyAnimeList", "url_id": "110623"},
+      {"name": "Natively", "url_id": "94ad49a273"}
+    ],
+    "ちょっとだけ抜けちゃう柊さん": [
+      {"name": "AniList", "url_id": "136026"},
+      {"name": "MyAnimeList", "url_id": "138563"}
+    ],
+    "あつもりくんのお嫁さん（←未定）": [
+      {"name": "AniList", "url_id": "102253"},
+      {"name": "MyAnimeList", "url_id": "114547"},
+      {"name": "Natively", "url_id": "bc857b2748"}
+    ],
+    "おこしやす、ちとせちゃん": [
+      {"name": "AniList", "url_id": "103559"},
+      {"name": "MyAnimeList", "url_id": "109333"},
+      {"name": "Natively", "url_id": "1ce942f82b"}
+    ],
+    "星くずドロップ": [
+      {"name": "AniList", "url_id": "86435"},
+      {"name": "MyAnimeList", "url_id": "82885"}
+    ],
+    "ウスズミの果て": [
+      {"name": "AniList", "url_id": "145531"},
+      {"name": "BOOK☆WALKER", "url_id": "410385"},
+      {"name": "Mangapedia", "url_id": "%E3%82%A6%E3%82%B9%E3%82%BA%E3%83%9F%E3%81%AE%E6%9E%9C%E3%81%A6-7fi99cwo2"},
+      {"name": "MyAnimeList", "url_id": "146207"},
+      {"name": "Natively", "url_id": "b90d304442"}
+    ],
+    "東京卍リベンジャーズ　～場地圭介からの手紙～": [
+      {"name": "AniList", "url_id": "151997"},
+      {"name": "MyAnimeList", "url_id": "149751"}
+    ],
+    "ママコレ": [
+      {"name": "AniList", "url_id": "32584"},
+      {"name": "MyAnimeList", "url_id": "2584"}
+    ],
+    "はじまりのにいな": [
+      {"name": "AniList", "url_id": "56021"},
+      {"name": "MyAnimeList", "url_id": "26021"}
+    ],
+    "ジュリエットの娘": [
+      {"name": "AniList", "url_id": "91511"},
+      {"name": "MyAnimeList", "url_id": "71931"}
+    ],
+    "きのう、きょう、あした": [
+      {"name": "AniList", "url_id": "133084"}
+    ],
+    "なないろ革命": [
+      {"name": "AniList", "url_id": "87359"},
+      {"name": "MyAnimeList", "url_id": "89341"}
+    ],
+    "かみちゃまかりん": [
+      {"name": "AniList", "url_id": "30035"},
+      {"name": "MyAnimeList", "url_id": "35"},
+      {"name": "Natively", "url_id": "7ee2b28441"}
+    ],
+    "私がモテないのはどう考えてもお前らが悪い！": [
+      {"name": "AniList", "url_id": "58533"},
+      {"name": "BOOK☆WALKER", "url_id": "2920"},
+      {"name": "Mangapedia", "url_id": "%E7%A7%81%E3%81%8C%E3%83%A2%E3%83%86%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%86%E8%80%83%E3%81%88%E3%81%A6%E3%82%82%E3%81%8A%E5%89%8D%E3%82%89%E3%81%8C%E6%82%AA%E3%81%84%EF%BC%81-oabvx8urd"},
+      {"name": "MyAnimeList", "url_id": "28533"},
+      {"name": "Natively", "url_id": "e653e2feab"}
+    ],
+    "アクジキ": [
+      {"name": "AniList", "url_id": "105118"}
+    ],
+    "ハロー、イノセント": [
+      {"name": "AniList", "url_id": "118605"},
+      {"name": "MyAnimeList", "url_id": "127178"}
+    ],
+    "神さま学校の落ちこぼれ": [
+      {"name": "AniList", "url_id": "137526"},
+      {"name": "MyAnimeList", "url_id": "143594"}
+    ],
+    "ルパン三世 異世界の姫君": [
+      {"name": "AniList", "url_id": "138057"},
+      {"name": "Natively", "url_id": "16190ff8f8"}
+    ],
+    "らいか・デイズ": [
+      {"name": "AniList", "url_id": "55729"},
+      {"name": "MyAnimeList", "url_id": "25729"}
+    ],
+    "ひとりぼっちはさみしくて": [
+      {"name": "AniList", "url_id": "43837"},
+      {"name": "MyAnimeList", "url_id": "13837"}
+    ],
+    "HIGH SCORE": [
+      {"name": "AniList", "url_id": "45099"},
+      {"name": "MyAnimeList", "url_id": "15099"}
+    ],
+    "君は春に目を醒ます": [
+      {"name": "AniList", "url_id": "100064"},
+      {"name": "MyAnimeList", "url_id": "107587"}
+    ],
+    "ああ！青春の甲子園": [
+      {"name": "AniList", "url_id": "90200"},
+      {"name": "MyAnimeList", "url_id": "65471"}
+    ],
+    "四弦のエレジー": [
+      {"name": "AniList", "url_id": "166070"},
+      {"name": "MyAnimeList", "url_id": "89233"}
+    ],
+    "ミステリと言う勿れ": [
+      {"name": "AniList", "url_id": "108551"},
+      {"name": "MyAnimeList", "url_id": "111229"}
+    ],
+    "クロスゲーム": [
+      {"name": "AniList", "url_id": "31183"},
+      {"name": "MyAnimeList", "url_id": "1183"},
+      {"name": "Natively", "url_id": "de7e3e889e"}
+    ],
+    "トニカクカワイイ": [
+      {"name": "AniList", "url_id": "101177"},
+      {"name": "BOOK☆WALKER", "url_id": "161304"},
+      {"name": "Mangapedia", "url_id": "%E3%83%88%E3%83%8B%E3%82%AB%E3%82%AF%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4-lal10i1hv"},
+      {"name": "MyAnimeList", "url_id": "112589"},
+      {"name": "Natively", "url_id": "bde180d5cd"}
+    ],
+    "東京卍リベンジャーズ": [
+      {"name": "AniList", "url_id": "102988"},
+      {"name": "MyAnimeList", "url_id": "104565"},
+      {"name": "Natively", "url_id": "fd0493b935"}
+    ],
+    "重要参考人探偵": [
+      {"name": "AniList", "url_id": "172335"},
+      {"name": "MyAnimeList", "url_id": "109047"}
+    ],
+    "つむぐと恋になるふたり": [
+      {"name": "AniList", "url_id": "139596"},
+      {"name": "MyAnimeList", "url_id": "144390"},
+      {"name": "Natively", "url_id": "e1d8cb9344"}
+    ],
+    "数字であそぼ。": [
+      {"name": "AniList", "url_id": "130099"},
+      {"name": "MyAnimeList", "url_id": "133577"}
+    ],
+    "陽あたり良好！": [
+      {"name": "AniList", "url_id": "33168"},
+      {"name": "MyAnimeList", "url_id": "3168"}
+    ],
+    "おうちにかえろう": [
+      {"name": "AniList", "url_id": "131939"},
+      {"name": "MyAnimeList", "url_id": "144094"},
+      {"name": "Natively", "url_id": "d40fcb5337"}
+    ],
+    "名探偵コナン": [
+      {"name": "AniList", "url_id": "31061"},
+      {"name": "BOOK☆WALKER", "url_id": "124317"},
+      {"name": "Mangapedia", "url_id": "名探偵コナン-e0tobk3e1"},
+      {"name": "MyAnimeList", "url_id": "1061"},
+      {"name": "Natively", "url_id": "abf5195f16"}
+    ],
+    "ヘヴィ": [
+      {"name": "AniList", "url_id": "131467"},
+      {"name": "MyAnimeList", "url_id": "123601"}
+    ],
+    "神木兄弟おことわり": [
+      {"name": "AniList", "url_id": "95262"},
+      {"name": "MyAnimeList", "url_id": "90314"},
+      {"name": "Natively", "url_id": "b512eed78a"}
+    ],
+    "なのに、千輝くんが甘すぎる。": [
+      {"name": "AniList", "url_id": "101186"},
+      {"name": "MyAnimeList", "url_id": "112226"},
+      {"name": "Natively", "url_id": "b196d062ff"}
+    ],
+    "ノケモノたちの夜": [
+      {"name": "AniList", "url_id": "110934"},
+      {"name": "MyAnimeList", "url_id": "132120"}
+    ],
+    "死神坊ちゃんと黒メイド": [
+      {"name": "AniList", "url_id": "100293"},
+      {"name": "BOOK☆WALKER", "url_id": "146581"},
+      {"name": "Mangapedia", "url_id": "%E6%AD%BB%E7%A5%9E%E5%9D%8A%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E9%BB%92%E3%83%A1%E3%82%A4%E3%83%89-lftmbumyp"},
+      {"name": "MyAnimeList", "url_id": "110029"},
+      {"name": "Natively", "url_id": "a8cc7274b5"}
+    ],
+    "可愛いだけじゃない式守さん": [
+      {"name": "AniList", "url_id": "107282"},
+      {"name": "MyAnimeList", "url_id": "118196"},
+      {"name": "Natively", "url_id": "1f5c186616"}
+    ],
+    "恋するふたごとメガネのブルー": [
+      {"name": "AniList", "url_id": "96392"},
+      {"name": "MyAnimeList", "url_id": "94319"}
+    ],
+    "好きって言わせる方法": [
+      {"name": "AniList", "url_id": "51393"},
+      {"name": "MyAnimeList", "url_id": "21393"}
+    ],
+    "こじ恋": [
+      {"name": "AniList", "url_id": "121771"},
+      {"name": "MyAnimeList", "url_id": "110361"}
+    ],
+    "恋のようなものじゃなく": [
+      {"name": "AniList", "url_id": "125030"},
+      {"name": "MyAnimeList", "url_id": "139267"}
+    ],
+    "風のフィールド": [
+      {"name": "AniList", "url_id": "177768"}
+    ],
+    "骨ドラゴンのマナ娘": [
+      {"name": "AniList", "url_id": "127910"},
+      {"name": "MyAnimeList", "url_id": "137306"}
+    ],
+    "星の案内人": [
+      {"name": "AniList", "url_id": "142203"},
+      {"name": "Natively", "url_id": "fe1c1ad0cc"}
+    ],
+    "アメとハレの風の旅": [
+      {"name": "AniList", "url_id": "112187"},
+      {"name": "MyAnimeList", "url_id": "100782"},
+      {"name": "Natively", "url_id": "a07cb3ace8"}
+    ],
+    "ラーメン発見伝": [
+      {"name": "AniList", "url_id": "95654"},
+      {"name": "MyAnimeList", "url_id": "91727"}
+    ],
+    "虹色とうがらし": [
+      {"name": "AniList", "url_id": "33816"},
+      {"name": "MyAnimeList", "url_id": "3816"}
+    ],
+    "三日月と流れ星": [
+      {"name": "AniList", "url_id": "95968"},
+      {"name": "MyAnimeList", "url_id": "92927"}
+    ],
+    "きよく、やましく、もどかしく。": [
+      {"name": "AniList", "url_id": "131959"},
+      {"name": "MyAnimeList", "url_id": "141761"}
+    ],
+    "うそカノ": [
+      {"name": "AniList", "url_id": "81069"},
+      {"name": "MyAnimeList", "url_id": "51069"}
+    ],
+    "むとうとさとう": [
+      {"name": "AniList", "url_id": "113500"},
+      {"name": "MyAnimeList", "url_id": "123029"},
+      {"name": "Natively", "url_id": "8839b01000"}
+    ],
+    "太陽よりも眩しい星": [
+      {"name": "AniList", "url_id": "135395"},
+      {"name": "MyAnimeList", "url_id": "141572"},
+      {"name": "Natively", "url_id": "c741539c86"}
+    ],
+    "高校生家族": [
+      {"name": "AniList", "url_id": "123790"},
+      {"name": "MyAnimeList", "url_id": "129671"}
+    ],
+    "あの子の子ども": [
+      {"name": "AniList", "url_id": "132364"},
+      {"name": "MyAnimeList", "url_id": "140333"}
+    ],
+    "素敵な彼氏": [
+      {"name": "AniList", "url_id": "86686"},
+      {"name": "MyAnimeList", "url_id": "95250"}
+    ],
+    "恋に毒針": [
+      {"name": "AniList", "url_id": "107375"},
+      {"name": "MyAnimeList", "url_id": "120997"}
+    ],
+    "るろうに剣心―明治剣客浪漫譚―": [
+      {"name": "AniList", "url_id": "34795"},
+      {"name": "MyAnimeList", "url_id": "22"}
+    ],
+    "マンけん。": [
+      {"name": "AniList", "url_id": "60101"},
+      {"name": "MyAnimeList", "url_id": "30101"}
+    ],
+    "SPY×FAMILY": [
+      {"name": "AniList", "url_id": "108556"},
+      {"name": "MyAnimeList", "url_id": "119161"},
+      {"name": "Natively", "url_id": "08bfc105cb"}
+    ],
+    "くにはちぶ": [
+      {"name": "AniList", "url_id": "105369"},
+      {"name": "MyAnimeList", "url_id": "111371"}
+    ],
+    "望郷太郎": [
+      {"name": "AniList", "url_id": "111317"},
+      {"name": "MyAnimeList", "url_id": "124108"}
+    ],
+    "グッドモーニング・キス": [
+      {"name": "AniList", "url_id": "31775"},
+      {"name": "MyAnimeList", "url_id": "1775"}
+    ],
+    "最強の種族が人間だった件": [
+      {"name": "AniList", "url_id": "107305"},
+      {"name": "MyAnimeList", "url_id": "115156"}
+    ],
+    "ダイヤのＡ": [
+      {"name": "AniList", "url_id": "143134"}
+    ],
+    "こびとのシイタと狩りぐらしの森": [
+      {"name": "AniList", "url_id": "168832"},
+      {"name": "MyAnimeList", "url_id": "146097"},
+      {"name": "Natively", "url_id": "4a1c8bc15f"}
+    ],
+    "バディゴ！": [
+      {"name": "AniList", "url_id": "94927"},
+      {"name": "MyAnimeList", "url_id": "89266"},
+      {"name": "Natively", "url_id": "103c9cecbf"}
+    ],
+    "すだちの魔王城": [
+      {"name": "AniList", "url_id": "138876"},
+      {"name": "MyAnimeList", "url_id": "140890"},
+      {"name": "Natively", "url_id": "3d07d029f2"}
+    ],
+    "ふだつきのキョーコちゃん": [
+      {"name": "AniList", "url_id": "85915"},
+      {"name": "MyAnimeList", "url_id": "56513"},
+      {"name": "Natively", "url_id": "6e232861bb"}
+    ],
+    "マタギガンナー": [
+      {"name": "AniList", "url_id": "148160"},
+      {"name": "MyAnimeList", "url_id": "157811"}
+    ],
+    "ちいさな森のオオカミちゃん": [
+      {"name": "AniList", "url_id": "110365"},
+      {"name": "MyAnimeList", "url_id": "120458"},
+      {"name": "Natively", "url_id": "ff8581837d"}
+    ],
+    "正直不動産": [
+      {"name": "AniList", "url_id": "126512"}
+    ],
+    "虹色デイズ": [
+      {"name": "AniList", "url_id": "69291"},
+      {"name": "BOOK☆WALKER", "url_id": "12828"},
+      {"name": "Mangapedia", "url_id": "%E8%99%B9%E8%89%B2%E3%83%87%E3%82%A4%E3%82%BA-30ajtl0zk"},
+      {"name": "MyAnimeList", "url_id": "39291"},
+      {"name": "Natively", "url_id": "04fbee7c62"}
+    ],
+    "放課後、恋した。": [
+      {"name": "AniList", "url_id": "99890"},
+      {"name": "BOOK☆WALKER", "url_id": "116363"},
+      {"name": "Mangapedia", "url_id": "放課後、恋した。-lp5hgalxy"},
+      {"name": "MyAnimeList", "url_id": "106981"},
+      {"name": "Natively", "url_id": "d8a8fa59dd"}
+    ],
+    "おねぇちゃん日和": [
+      {"name": "AniList", "url_id": "152816"},
+      {"name": "MyAnimeList", "url_id": "149868"},
+      {"name": "Natively", "url_id": "74b685ceea"}
+    ],
+    "僕のヒーローアカデミア": [
+      {"name": "AniList", "url_id": "85486"},
+      {"name": "MyAnimeList", "url_id": "75989"}
+    ],
+    "さんすくみ": [
+      {"name": "AniList", "url_id": "53533"},
+      {"name": "MyAnimeList", "url_id": "23533"},
+      {"name": "Natively", "url_id": "756dd483db"}
+    ],
+    "鬼のようなラブコメ": [
+      {"name": "AniList", "url_id": "103731"},
+      {"name": "MyAnimeList", "url_id": "115192"},
+      {"name": "Natively", "url_id": "666801f362"}
+    ],
+    "ハクメイとミコチ": [
+      {"name": "AniList", "url_id": "86623"},
+      {"name": "MyAnimeList", "url_id": "80841"},
+      {"name": "Natively", "url_id": "dae253d6ab"}
+    ],
+    "Ａチャンネル": [
+      {"name": "AniList", "url_id": "50855"},
+      {"name": "MyAnimeList", "url_id": "20855"}
+    ],
+    "ワンダーランド": [
+      {"name": "AniList", "url_id": "87209"},
+      {"name": "MyAnimeList", "url_id": "89747"}
+    ],
+    "僕等がいた": [
+      {"name": "AniList", "url_id": "31031"},
+      {"name": "MyAnimeList", "url_id": "1031"}
+    ],
+    "王の獣": [
+      {"name": "AniList", "url_id": "32473"}
+    ],
+    "テリトリーMの住人": [
+      {"name": "AniList", "url_id": "101615"},
+      {"name": "MyAnimeList", "url_id": "105624"}
+    ],
+    "カッコウの許嫁": [
+      {"name": "AniList", "url_id": "112024"},
+      {"name": "MyAnimeList", "url_id": "123602"},
+      {"name": "Natively", "url_id": "0a5d2dd8e8"}
+    ],
+    "終わりのセラフ": [
+      {"name": "AniList", "url_id": "73661"},
+      {"name": "MyAnimeList", "url_id": "43661"},
+      {"name": "Natively", "url_id": "fd29d402cc"}
+    ],
+    "孔明のヨメ。": [
+      {"name": "AniList", "url_id": "150302"},
+      {"name": "MyAnimeList", "url_id": "67543"}
+    ],
+    "ねこったけ！": [
+      {"name": "AniList", "url_id": "108063"},
+      {"name": "MyAnimeList", "url_id": "96467"}
+    ],
+    "天使とアクト！！": [
+      {"name": "AniList", "url_id": "93818"},
+      {"name": "MyAnimeList", "url_id": "85989"}
+    ],
+    "カレチ": [
+      {"name": "AniList", "url_id": "169413"}
+    ],
+    "翼を持つ者": [
+      {"name": "AniList", "url_id": "33113"},
+      {"name": "MyAnimeList", "url_id": "3113"},
+      {"name": "Natively", "url_id": "155b90c965"}
+    ],
+    "神のみぞ知るセカイ": [
+      {"name": "AniList", "url_id": "37519"},
+      {"name": "BOOK☆WALKER", "url_id": "129186"},
+      {"name": "Mangapedia", "url_id": "%E7%A5%9E%E3%81%AE%E3%81%BF%E3%81%9E%E7%9F%A5%E3%82%8B%E3%82%BB%E3%82%AB%E3%82%A4-1fe03upkf"},
+      {"name": "MyAnimeList", "url_id": "7519"},
+      {"name": "Natively", "url_id": "452a6392b7"}
+    ],
+    "X⁄1999": [
+      {"name": "AniList", "url_id": "30027"}
+    ],
+    "マオの寄宿學校": [
+      {"name": "AniList", "url_id": "112754"},
+      {"name": "MyAnimeList", "url_id": "127676"}
+    ],
+    "GOLDEN SPIRAL": [
+      {"name": "AniList", "url_id": "147476"},
+      {"name": "MyAnimeList", "url_id": "145945"}
+    ],
+    "星降る王国のニナ": [
+      {"name": "AniList", "url_id": "112234"},
+      {"name": "MyAnimeList", "url_id": "122110"},
+      {"name": "Natively", "url_id": "56ecf344bf"}
+    ],
+    "ドラフトキング": [
+      {"name": "AniList", "url_id": "105611"},
+      {"name": "MyAnimeList", "url_id": "128378"},
+      {"name": "Natively", "url_id": "b8c201c188"}
+    ],
+    "デメキン": [
+      {"name": "AniList", "url_id": "90258"},
+      {"name": "MyAnimeList", "url_id": "65739"}
+    ],
+    "夏子の酒": [
+      {"name": "AniList", "url_id": "35264"},
+      {"name": "MyAnimeList", "url_id": "5264"}
+    ],
+    "初恋指南": [
+      {"name": "AniList", "url_id": "39781"},
+      {"name": "MyAnimeList", "url_id": "9781"}
+    ],
+    "白聖女と黒牧師": [
+      {"name": "AniList", "url_id": "107112"},
+      {"name": "MyAnimeList", "url_id": "106615"},
+      {"name": "Natively", "url_id": "e7cd8ec67a"}
+    ],
+    "パーフェクトワールド": [
+      {"name": "AniList", "url_id": "93433"},
+      {"name": "MyAnimeList", "url_id": "2485"},
+      {"name": "MyAnimeList", "url_id": "83655"},
+      {"name": "Natively", "url_id": "83403e6fb2"}
+    ],
+    "エンジェル・トランペット": [
+      {"name": "AniList", "url_id": "86143"},
+      {"name": "MyAnimeList", "url_id": "68013"}
+    ],
+    "ニセコイ": [
+      {"name": "AniList", "url_id": "61499"},
+      {"name": "BOOK☆WALKER", "url_id": "12991"},
+      {"name": "Mangapedia", "url_id": "%E3%83%8B%E3%82%BB%E3%82%B3%E3%82%A4-xhmg81keq"},
+      {"name": "MyAnimeList", "url_id": "31499"},
+      {"name": "Natively", "url_id": "7cfb7991e8"}
+    ],
+    "Wish": [
+      {"name": "AniList", "url_id": "47138"},
+      {"name": "MyAnimeList", "url_id": "109"}
+    ],
+    "僕の妻は発達障害": [
+      {"name": "AniList", "url_id": "114223"},
+      {"name": "MyAnimeList", "url_id": "160642"}
+    ],
+    "アリスと蔵六": [
+      {"name": "AniList", "url_id": "93660"},
+      {"name": "MyAnimeList", "url_id": "84911"}
+    ],
+    "悪夢の棲む家　ゴーストハント": [
+      {"name": "AniList", "url_id": "71697"},
+      {"name": "MyAnimeList", "url_id": "41697"},
+      {"name": "Natively", "url_id": "efaf369669"}
+    ],
+    "ポケットモンスタースペシャル": [
+      {"name": "AniList", "url_id": "30928"},
+      {"name": "BOOK☆WALKER", "url_id": "125195"},
+      {"name": "Mangapedia", "url_id": "%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCSPECIAL-91u7vkbkt"},
+      {"name": "Natively", "url_id": "42577b07ad"}
+    ],
+    "ARIA The MASTERPIECE": [
+      {"name": "AniList", "url_id": "30081"}
+    ],
+    "風光る": [
+      {"name": "AniList", "url_id": "88220"},
+      {"name": "MyAnimeList", "url_id": "1072"}
+    ],
+    "僕は小さな書店員。": [
+      {"name": "AniList", "url_id": "120523"},
+      {"name": "MyAnimeList", "url_id": "148505"}
+    ],
+    "コレットは死ぬことにした": [
+      {"name": "AniList", "url_id": "87151"},
+      {"name": "MyAnimeList", "url_id": "68883"}
+    ],
+    "侵略!イカ娘": [
+      {"name": "AniList", "url_id": "42671"},
+      {"name": "MyAnimeList", "url_id": "12671"},
+      {"name": "Natively", "url_id": "a7b082a56b"}
+    ],
+    "平成少年ダン": [
+      {"name": "AniList", "url_id": "139959"},
+      {"name": "MyAnimeList", "url_id": "141595"}
+    ],
+    "桜の花の紅茶王子": [
+      {"name": "AniList", "url_id": "88866"},
+      {"name": "MyAnimeList", "url_id": "59517"}
+    ],
+    "ラブ★コン": [
+      {"name": "AniList", "url_id": "30031"},
+      {"name": "MyAnimeList", "url_id": "31"}
+    ],
+    "この国で幸せになるの": [
+      {"name": "AniList", "url_id": "176638"},
+      {"name": "Natively", "url_id": "c715308fba"}
+    ],
+    "相続探偵": [
+      {"name": "AniList", "url_id": "129067"},
+      {"name": "MyAnimeList", "url_id": "138454"}
+    ],
+    "らーめん再遊記": [
+      {"name": "AniList", "url_id": "116527"}
+    ],
+    "聖戦記エルナサーガ": [
+      {"name": "AniList", "url_id": "46873"},
+      {"name": "MyAnimeList", "url_id": "16873"},
+      {"name": "Natively", "url_id": "81075c7e00"}
+    ],
+    "アオのハコ": [
+      {"name": "AniList", "url_id": "132182"},
+      {"name": "BOOK☆WALKER", "url_id": "308484"},
+      {"name": "Mangapedia", "url_id": "%E3%82%A2%E3%82%AA%E3%81%AE%E3%83%8F%E3%82%B3-a08moibng"},
+      {"name": "MyAnimeList", "url_id": "135545"},
+      {"name": "Natively", "url_id": "9410a31f93"}
+    ],
+    "アオイホノオ": [
+      {"name": "AniList", "url_id": "55292"},
+      {"name": "MyAnimeList", "url_id": "25292"},
+      {"name": "Natively", "url_id": "b068752b07"}
+    ],
+    "幻影夢想": [
+      {"name": "AniList", "url_id": "33933"},
+      {"name": "MyAnimeList", "url_id": "3933"},
+      {"name": "Natively", "url_id": "111256dd99"}
+    ],
+    "キスで起こして。": [
+      {"name": "AniList", "url_id": "123042"},
+      {"name": "MyAnimeList", "url_id": "129424"}
+    ],
+    "すもももももも～地上最強のヨメ～": [
+      {"name": "AniList", "url_id": "34328"},
+      {"name": "MyAnimeList", "url_id": "4328"}
+    ],
+    "HUNTER×HUNTER": [
+      {"name": "AniList", "url_id": "144604"},
+      {"name": "MyAnimeList", "url_id": "26"}
+    ],
+    "放課後さいころ倶楽部": [
+      {"name": "AniList", "url_id": "87307"},
+      {"name": "MyAnimeList", "url_id": "69035"},
+      {"name": "Natively", "url_id": "580662f745"}
+    ],
+    "つばさとホタル": [
+      {"name": "AniList", "url_id": "85953"},
+      {"name": "MyAnimeList", "url_id": "64269"}
+    ],
+    "星は歌う": [
+      {"name": "AniList", "url_id": "31660"},
+      {"name": "MyAnimeList", "url_id": "1660"},
+      {"name": "Natively", "url_id": "05827eabe8"}
+    ],
+    "青に落雷": [
+      {"name": "AniList", "url_id": "153239"}
+    ],
+    "ゼルダの伝説": [
+      {"name": "AniList", "url_id": "127530"},
+      {"name": "MyAnimeList", "url_id": "101360"},
+      {"name": "MyAnimeList", "url_id": "20865"}
+    ],
+    "沈黙の艦隊": [
+      {"name": "AniList", "url_id": "48071"},
+      {"name": "MyAnimeList", "url_id": "18071"}
+    ],
+    "主人恋日記": [
+      {"name": "AniList", "url_id": "137816"},
+      {"name": "Natively", "url_id": "3f0171bc7f"}
+    ],
+    "貧乏姉妹物語": [
+      {"name": "AniList", "url_id": "33714"},
+      {"name": "MyAnimeList", "url_id": "3714"}
+    ],
+    "ハチミツとクローバー": [
+      {"name": "AniList", "url_id": "31009"},
+      {"name": "MyAnimeList", "url_id": "1009"}
+    ],
+    "月のお気に召すまま": [
+      {"name": "AniList", "url_id": "105337"},
+      {"name": "BOOK☆WALKER", "url_id": "218555"},
+      {"name": "Mangapedia", "url_id": "%E6%9C%88%E3%81%AE%E3%81%8A%E6%B0%97%E3%81%AB%E5%8F%AC%E3%81%99%E3%81%BE%E3%81%BE-7i0k7w6cd"},
+      {"name": "MyAnimeList", "url_id": "125785"},
+      {"name": "Natively", "url_id": "d25478fc20"}
+    ],
+    "紅茶王子": [
+      {"name": "AniList", "url_id": "34845"},
+      {"name": "MyAnimeList", "url_id": "4845"}
+    ],
+    "かなたかける": [
+      {"name": "AniList", "url_id": "110302"},
+      {"name": "BOOK☆WALKER", "url_id": "125395"},
+      {"name": "Mangapedia", "url_id": "%E3%81%8B%E3%81%AA%E3%81%9F%E3%81%8B%E3%81%91%E3%82%8B-l3jkbh0jl"},
+      {"name": "MyAnimeList", "url_id": "95466"},
+      {"name": "Natively", "url_id": "5d3d017caa"}
+    ],
+    "黎明のアルカナ": [
+      {"name": "AniList", "url_id": "41896"},
+      {"name": "MyAnimeList", "url_id": "11896"},
+      {"name": "Natively", "url_id": "0f553d3d0b"}
+    ],
+    "水神の生贄": [
+      {"name": "AniList", "url_id": "85830"}
+    ],
+    "ローズメリーホテル空室有り": [
+      {"name": "AniList", "url_id": "120996"},
+      {"name": "MyAnimeList", "url_id": "100023"}
+    ],
+    "モエカレはオレンジ色": [
+      {"name": "AniList", "url_id": "99650"},
+      {"name": "MyAnimeList", "url_id": "105964"},
+      {"name": "Natively", "url_id": "bbf5a07965"}
+    ],
+    "にじいろフォトグラフ": [
+      {"name": "AniList", "url_id": "101127"},
+      {"name": "MyAnimeList", "url_id": "115073"},
+      {"name": "Natively", "url_id": "5bb67bd9b1"}
+    ],
+    "ないしょのプリンセス": [
+      {"name": "AniList", "url_id": "53748"},
+      {"name": "MyAnimeList", "url_id": "23748"},
+      {"name": "Natively", "url_id": "540607dff6"}
+    ],
+    "片想いミステイク！": [
+      {"name": "AniList", "url_id": "112336"}
+    ],
+    "ご注文はうさぎですか？": [
+      {"name": "AniList", "url_id": "79835"},
+      {"name": "MyAnimeList", "url_id": "49835"},
+      {"name": "Natively", "url_id": "b68b9163e1"}
+    ],
+    "シャンピニオンの魔女": [
+      {"name": "AniList", "url_id": "112573"},
+      {"name": "MyAnimeList", "url_id": "122420"}
+    ],
+    "爆音列島": [
+      {"name": "AniList", "url_id": "40443"},
+      {"name": "MyAnimeList", "url_id": "10443"},
+      {"name": "Natively", "url_id": "f3581f6ce2"}
+    ],
+    "こいいじ": [
+      {"name": "AniList", "url_id": "86780"},
+      {"name": "MyAnimeList", "url_id": "76811"},
+      {"name": "Natively", "url_id": "ba81e24f7e"}
+    ],
+    "聖伝-RG VEDA-": [
+      {"name": "AniList", "url_id": "30500"},
+      {"name": "MyAnimeList", "url_id": "500"}
+    ],
+    "アラタカンガタリ～革神語～": [
+      {"name": "AniList", "url_id": "40750"},
+      {"name": "MyAnimeList", "url_id": "10750"}
+    ],
+    "スキップとローファー": [
+      {"name": "AniList", "url_id": "109285"},
+      {"name": "MyAnimeList", "url_id": "118289"},
+      {"name": "Natively", "url_id": "f7a32b0bbe"}
+    ],
+    "東京BABYLON": [
+      {"name": "AniList", "url_id": "30133"},
+      {"name": "Natively", "url_id": "2317af4a48"}
+    ],
+    "ラブひな": [
+      {"name": "AniList", "url_id": "35931"},
+      {"name": "MyAnimeList", "url_id": "16"},
+      {"name": "Natively", "url_id": "ad33cf94e4"}
+    ],
+    "ツバサ": [
+      {"name": "AniList", "url_id": "85311"},
+      {"name": "Natively", "url_id": "66932b73ef"}
+    ],
+    "スプリンター": [
+      {"name": "AniList", "url_id": "66009"},
+      {"name": "MyAnimeList", "url_id": "36009"}
+    ],
+    "終わる世界でキミに恋する": [
+      {"name": "AniList", "url_id": "105106"},
+      {"name": "MyAnimeList", "url_id": "116267"}
+    ],
+    "ホーム　スイート　ホーム": [
+      {"name": "AniList", "url_id": "167692"}
+    ],
+    "マタギ": [
+      {"name": "AniList", "url_id": "147709"}
+    ],
+    "ピーチガール": [
+      {"name": "AniList", "url_id": "30475"},
+      {"name": "MyAnimeList", "url_id": "475"}
+    ],
+    "I Love you Baby": [
+      {"name": "AniList", "url_id": "85357"},
+      {"name": "MyAnimeList", "url_id": "66193"},
+      {"name": "Natively", "url_id": "c4b0d67b62"}
+    ],
+    "焼いてるふたり": [
+      {"name": "AniList", "url_id": "124621"},
+      {"name": "MyAnimeList", "url_id": "130633"},
+      {"name": "Natively", "url_id": "f62dcce433"}
+    ],
+    "鳳ボンバー": [
+      {"name": "AniList", "url_id": "165185"},
+      {"name": "MyAnimeList", "url_id": "133011"}
+    ],
+    "ROOKIES": [
+      {"name": "AniList", "url_id": "30915"},
+      {"name": "MyAnimeList", "url_id": "915"}
+    ],
+    "魔王兄弟": [
+      {"name": "AniList", "url_id": "100079"},
+      {"name": "MyAnimeList", "url_id": "109559"}
+    ],
+    "太陽の黙示録": [
+      {"name": "AniList", "url_id": "33224"},
+      {"name": "MyAnimeList", "url_id": "3224"},
+      {"name": "Natively", "url_id": "b3bb83a4cd"}
+    ],
+    "精霊伝説ヒューディー": [
+      {"name": "AniList", "url_id": "140087"},
+      {"name": "Natively", "url_id": "c98a6a8bd1"}
+    ],
+    "恋わずらいのエリー": [
+      {"name": "AniList", "url_id": "101255"},
+      {"name": "MyAnimeList", "url_id": "92472"},
+      {"name": "Natively", "url_id": "bfa8b1f17c"}
+    ],
+    "おとなりに銀河": [
+      {"name": "AniList", "url_id": "116411"},
+      {"name": "MyAnimeList", "url_id": "130641"},
+      {"name": "Natively", "url_id": "cf3cbaf40e"}
+    ],
+    "ふしぎの国の有栖川さん": [
+      {"name": "AniList", "url_id": "98941"},
+      {"name": "MyAnimeList", "url_id": "102227"}
+    ],
+    "杖と剣のウィストリア": [
+      {"name": "AniList", "url_id": "125116"},
+      {"name": "MyAnimeList", "url_id": "131924"},
+      {"name": "Natively", "url_id": "5d0ececef3"}
+    ],
+    "君に届け": [
+      {"name": "AniList", "url_id": "53942"},
+      {"name": "MyAnimeList", "url_id": "3378"}
+    ],
+    "おれは直角": [
+      {"name": "AniList", "url_id": "88240"},
+      {"name": "MyAnimeList", "url_id": "56541"}
+    ],
+    "藤代さん系。": [
+      {"name": "AniList", "url_id": "89066"},
+      {"name": "MyAnimeList", "url_id": "60595"},
+      {"name": "Natively", "url_id": "555996043e"}
+    ],
+    "史記": [
+      {"name": "AniList", "url_id": "98183"},
+      {"name": "MyAnimeList", "url_id": "103530"}
+    ],
+    "イジらないで、長瀞さん": [
+      {"name": "AniList", "url_id": "100664"},
+      {"name": "MyAnimeList", "url_id": "110737"}
+    ],
+    "シャドーハウス": [
+      {"name": "AniList", "url_id": "104063"},
+      {"name": "MyAnimeList", "url_id": "115730"},
+      {"name": "Natively", "url_id": "b79bb7b5e7"}
+    ],
+    "ゆら怪談": [
+      {"name": "AniList", "url_id": "122033"},
+      {"name": "Natively", "url_id": "ac4f038024"}
+    ],
+    "髪を切りに来ました。": [
+      {"name": "AniList", "url_id": "108180"},
+      {"name": "MyAnimeList", "url_id": "151498"},
+      {"name": "Natively", "url_id": "bc2fb2b50d"}
+    ],
+    "しゅごキャラ！": [
+      {"name": "AniList", "url_id": "30101"},
+      {"name": "MyAnimeList", "url_id": "101"},
+      {"name": "Natively", "url_id": "0bfe3326ac"}
+    ],
+    "キラめきあむちゃん": [
+      {"name": "AniList", "url_id": "167719"},
+      {"name": "Natively", "url_id": "5cde6ff470"}
+    ],
+    "フイチン再見！": [
+      {"name": "AniList", "url_id": "113367"},
+      {"name": "MyAnimeList", "url_id": "72443"}
+    ],
+    "超立!! 桃の木高校": [
+      {"name": "AniList", "url_id": "58417"},
+      {"name": "MyAnimeList", "url_id": "28417"}
+    ],
+    "千と万": [
+      {"name": "AniList", "url_id": "85232"},
+      {"name": "BOOK☆WALKER", "url_id": "16323"},
+      {"name": "MyAnimeList", "url_id": "57175"}
+    ],
+    "もののがたり": [
+      {"name": "AniList", "url_id": "91222"},
+      {"name": "MyAnimeList", "url_id": "70663"},
+      {"name": "Natively", "url_id": "3e0132225b"}
+    ],
+    "悪食令嬢と狂血公爵　～その魔物、私が美味しくいただきます！～": [
+      {"name": "AniList", "url_id": "144073"},
+      {"name": "MyAnimeList", "url_id": "157426"}
+    ],
+    "棗センパイに迫られる日々": [
+      {"name": "AniList", "url_id": "121821"},
+      {"name": "MyAnimeList", "url_id": "132202"},
+      {"name": "Natively", "url_id": "ef86254b63"}
+    ],
+    "ときめきトゥナイト": [
+      {"name": "AniList", "url_id": "31748"},
+      {"name": "MyAnimeList", "url_id": "1748"},
+      {"name": "Natively", "url_id": "620b4ca200"}
+    ],
+    "ビバ！バレーボール": [
+      {"name": "AniList", "url_id": "106875"},
+      {"name": "MyAnimeList", "url_id": "99652"},
+      {"name": "Natively", "url_id": "6816d98645"}
+    ],
+    "赤ずきんチャチャ": [
+      {"name": "AniList", "url_id": "37270"},
+      {"name": "MyAnimeList", "url_id": "7270"},
+      {"name": "Natively", "url_id": "54736f336e"}
+    ],
+    "恋と心臓": [
+      {"name": "AniList", "url_id": "121741"},
+      {"name": "MyAnimeList", "url_id": "117203"}
+    ],
+    "一週間フレンズ。": [
+      {"name": "AniList", "url_id": "73967"},
+      {"name": "MyAnimeList", "url_id": "43967"}
+    ],
+    "ルリドラゴン": [
+      {"name": "AniList", "url_id": "127750"},
+      {"name": "MyAnimeList", "url_id": "148054"}
+    ],
+    "血の轍": [
+      {"name": "AniList", "url_id": "98397"},
+      {"name": "MyAnimeList", "url_id": "104271"},
+      {"name": "Natively", "url_id": "2da2c857ab"}
+    ],
+    "日々蝶々": [
+      {"name": "AniList", "url_id": "65719"},
+      {"name": "MyAnimeList", "url_id": "35719"},
+      {"name": "Natively", "url_id": "da361268a8"}
+    ],
+    "クローズZERO2　鈴蘭×鳳仙": [
+      {"name": "AniList", "url_id": "74447"}
+    ],
+    "傘寿まり子": [
+      {"name": "AniList", "url_id": "104012"},
+      {"name": "MyAnimeList", "url_id": "111365"},
+      {"name": "Natively", "url_id": "9edc0e6f12"}
+    ],
+    "orange": [
+      {"name": "AniList", "url_id": "96581"},
+      {"name": "MyAnimeList", "url_id": "35573"}
+    ],
+    "キラキラとギラギラ": [
+      {"name": "AniList", "url_id": "158656"},
+      {"name": "MyAnimeList", "url_id": "154222"},
+      {"name": "Natively", "url_id": "3d4f244be2"}
+    ],
+    "青春シンデレラ": [
+      {"name": "AniList", "url_id": "124863"},
+      {"name": "Natively", "url_id": "62d94019f4"}
+    ],
+    "きみはかわいい女の子": [
+      {"name": "AniList", "url_id": "98446"},
+      {"name": "MyAnimeList", "url_id": "92672"},
+      {"name": "Natively", "url_id": "4c06789ba2"}
+    ],
+    "ミルモでポン！": [
+      {"name": "AniList", "url_id": "35362"},
+      {"name": "MyAnimeList", "url_id": "5362"}
+    ],
+    "アリンコ球団": [
+      {"name": "AniList", "url_id": "140064"}
+    ],
+    "老女的少女ひなたちゃん": [
+      {"name": "AniList", "url_id": "95862"},
+      {"name": "BOOK☆WALKER", "url_id": "55722"},
+      {"name": "Mangapedia", "url_id": "%E8%80%81%E5%A5%B3%E7%9A%84%E5%B0%91%E5%A5%B3%E3%81%B2%E3%81%AA%E3%81%9F%E3%81%A1%E3%82%83%E3%82%93-8ucoosp9y"},
+      {"name": "MyAnimeList", "url_id": "92473"},
+      {"name": "Natively", "url_id": "667e8bfc42"}
+    ],
+    "グラゼニ～パ・リーグ編～": [
+      {"name": "AniList", "url_id": "116522"},
+      {"name": "MyAnimeList", "url_id": "112753"}
+    ],
+    "風の谷のナウシカ": [
+      {"name": "AniList", "url_id": "30651"},
+      {"name": "MyAnimeList", "url_id": "651"}
+    ],
+    "××でも魔法少女になれますか？": [
+      {"name": "AniList", "url_id": "109069"}
+    ],
+    "ねこノート": [
+      {"name": "AniList", "url_id": "129487"}
+    ],
+    "さかさまクランベリー": [
+      {"name": "AniList", "url_id": "107895"},
+      {"name": "MyAnimeList", "url_id": "86900"}
+    ],
+    "あしたは土曜日": [
+      {"name": "AniList", "url_id": "87142"},
+      {"name": "MyAnimeList", "url_id": "97699"}
+    ],
+    "ないしょねプリン": [
+      {"name": "AniList", "url_id": "166202"},
+      {"name": "Natively", "url_id": "2d04022279"}
+    ],
+    "6月のラブレター": [
+      {"name": "AniList", "url_id": "106928"},
+      {"name": "BOOK☆WALKER", "url_id": "176497"},
+      {"name": "MyAnimeList", "url_id": "116536"},
+      {"name": "Natively", "url_id": "5f478e3976"}
+    ],
+    "空色レモンと迷い猫": [
+      {"name": "AniList", "url_id": "101601"},
+      {"name": "MyAnimeList", "url_id": "111072"}
+    ],
+    "アンサー": [
+      {"name": "AniList", "url_id": "154199"}
+    ],
+    "D・N・ANGEL": [
+      {"name": "AniList", "url_id": "30094"},
+      {"name": "MyAnimeList", "url_id": "94"},
+      {"name": "Natively", "url_id": "0e6373a501"}
+    ],
+    "クローバー": [
+      {"name": "AniList", "url_id": "44568"},
+      {"name": "MyAnimeList", "url_id": "943"},
+      {"name": "MyAnimeList", "url_id": "11862"},
+      {"name": "MyAnimeList", "url_id": "14568"},
+      {"name": "Natively", "url_id": "261f40441e"}
+    ],
+    "またのお越しを": [
+      {"name": "AniList", "url_id": "157600"}
+    ],
+    "うさぎドロップ": [
+      {"name": "AniList", "url_id": "33468"},
+      {"name": "MyAnimeList", "url_id": "3468"},
+      {"name": "Natively", "url_id": "ad5f61747c"}
+    ],
+    "ガウガウわー太": [
+      {"name": "AniList", "url_id": "33050"},
+      {"name": "MyAnimeList", "url_id": "3050"}
+    ],
+    "ダンジョンでお花摘みなんか許しません！！": [
+      {"name": "AniList", "url_id": "128283"},
+      {"name": "MyAnimeList", "url_id": "120717"}
+    ],
+    "銀のスプーン": [
+      {"name": "AniList", "url_id": "51124"},
+      {"name": "MyAnimeList", "url_id": "21124"},
+      {"name": "Natively", "url_id": "6e507ab72f"}
+    ],
+    "聖痕のクェイサー": [
+      {"name": "AniList", "url_id": "33317"},
+      {"name": "MyAnimeList", "url_id": "3317"},
+      {"name": "Natively", "url_id": "3678ad1341"}
+    ],
+    "星使いセレナ": [
+      {"name": "AniList", "url_id": "140680"},
+      {"name": "MyAnimeList", "url_id": "150770"}
+    ],
+    "シュガー＊ソルジャー": [
+      {"name": "AniList", "url_id": "57757"},
+      {"name": "MyAnimeList", "url_id": "27757"},
+      {"name": "Natively", "url_id": "40a9cb9191"}
+    ],
+    "新・ちいさいひと　青葉児童相談所物語": [
+      {"name": "AniList", "url_id": "112103"},
+      {"name": "MyAnimeList", "url_id": "108313"}
+    ],
+    "青空ふろっぴぃ": [
+      {"name": "AniList", "url_id": "173840"}
+    ],
+    "放課後カルテ": [
+      {"name": "AniList", "url_id": "120020"},
+      {"name": "MyAnimeList", "url_id": "110445"}
+    ],
+    "イサック": [
+      {"name": "AniList", "url_id": "99684"},
+      {"name": "MyAnimeList", "url_id": "103489"},
+      {"name": "Natively", "url_id": "cc9b6a36cb"}
+    ],
+    "昭和ファンファーレ": [
+      {"name": "AniList", "url_id": "109722"},
+      {"name": "MyAnimeList", "url_id": "111451"}
+    ],
+    "ちいさいひと　青葉児童相談所物語": [
+      {"name": "AniList", "url_id": "112102"}
+    ],
+    "フットボールネーション": [
+      {"name": "AniList", "url_id": "91819"},
+      {"name": "MyAnimeList", "url_id": "73427"}
+    ],
+    "小宮山がキライだ": [
+      {"name": "AniList", "url_id": "155674"},
+      {"name": "MyAnimeList", "url_id": "151558"}
+    ],
+    "ダメな私に恋してください": [
+      {"name": "AniList", "url_id": "86317"},
+      {"name": "MyAnimeList", "url_id": "55403"},
+      {"name": "Natively", "url_id": "721466fb62"}
+    ],
+    "アオアシ": [
+      {"name": "AniList", "url_id": "107279"},
+      {"name": "MyAnimeList", "url_id": "102256"}
+    ],
+    "ちゃんと描いてますからっ！": [
+      {"name": "AniList", "url_id": "58216"},
+      {"name": "MyAnimeList", "url_id": "28216"}
+    ],
+    "三ツ星カラーズ": [
+      {"name": "AniList", "url_id": "87132"},
+      {"name": "MyAnimeList", "url_id": "81467"},
+      {"name": "Natively", "url_id": "34590118c2"}
+    ],
+    "ハリガネサービス外伝ヒュドラブレイク": [
+      {"name": "AniList", "url_id": "159087"}
+    ],
+    "出禁のモグラ": [
+      {"name": "AniList", "url_id": "132349"},
+      {"name": "MyAnimeList", "url_id": "135486"}
+    ],
+    "土かぶりのエレナ姫": [
+      {"name": "AniList", "url_id": "150392"},
+      {"name": "MyAnimeList", "url_id": "145367"}
+    ],
+    "キャプテン2": [
+      {"name": "AniList", "url_id": "108528"}
+    ],
+    "QQスイーパー": [
+      {"name": "AniList", "url_id": "85303"},
+      {"name": "MyAnimeList", "url_id": "67397"}
+    ],
+    "ブラッククローバー": [
+      {"name": "AniList", "url_id": "114652"},
+      {"name": "MyAnimeList", "url_id": "86337"}
+    ],
+    "梅衣堂ひよと旦那様の野望": [
+      {"name": "AniList", "url_id": "118689"},
+      {"name": "MyAnimeList", "url_id": "99786"}
+    ],
+    "本好きの下剋上": [
+      {"name": "AniList", "url_id": "173934"}
+    ],
+    "電撃デイジー": [
+      {"name": "AniList", "url_id": "35255"},
+      {"name": "MyAnimeList", "url_id": "5255"}
+    ],
+    "海皇紀": [
+      {"name": "AniList", "url_id": "49634"},
+      {"name": "MyAnimeList", "url_id": "19634"}
+    ],
+    "みなみけ": [
+      {"name": "AniList", "url_id": "32629"},
+      {"name": "MyAnimeList", "url_id": "2629"},
+      {"name": "Natively", "url_id": "c52ce8b63f"}
+    ],
+    "ハリガネサービスACE": [
+      {"name": "AniList", "url_id": "105219"},
+      {"name": "MyAnimeList", "url_id": "129241"}
+    ],
+    "魔法科高校の劣等生 来訪者編": [
+      {"name": "AniList", "url_id": "98912"},
+      {"name": "MyAnimeList", "url_id": "93234"}
+    ],
+    "魔女の旅々": [
+      {"name": "AniList", "url_id": "98741"},
+      {"name": "MyAnimeList", "url_id": "116831"},
+      {"name": "Natively", "url_id": "f32e0842e1"}
+    ],
+    "ハリガネサービス": [
+      {"name": "AniList", "url_id": "86260"},
+      {"name": "MyAnimeList", "url_id": "76835"},
+      {"name": "Natively", "url_id": "4e7409d375"}
+    ],
+    "龍帥の翼　史記・留侯世家異伝": [
+      {"name": "AniList", "url_id": "120063"},
+      {"name": "MyAnimeList", "url_id": "97155"}
+    ],
+    "声がだせない少女は「彼女が優しすぎる」と思っている": [
+      {"name": "AniList", "url_id": "116286"},
+      {"name": "Natively", "url_id": "54fd68dd2a"}
+    ],
+    "ぼっち・ざ・ろっく！": [
+      {"name": "AniList", "url_id": "111258"},
+      {"name": "MyAnimeList", "url_id": "118568"},
+      {"name": "Natively", "url_id": "37947730ac"}
+    ],
+    "理想的ボーイフレンド": [
+      {"name": "AniList", "url_id": "100195"},
+      {"name": "MyAnimeList", "url_id": "107505"}
+    ],
+    "ウマ娘 シンデレラグレイ": [
+      {"name": "AniList", "url_id": "142931"},
+      {"name": "MyAnimeList", "url_id": "133431"},
+      {"name": "Natively", "url_id": "74d567e325"}
+    ],
+    "黙示録の四騎士": [
+      {"name": "AniList", "url_id": "129117"},
+      {"name": "MyAnimeList", "url_id": "128691"},
+      {"name": "Natively", "url_id": "6d81911dc7"}
+    ],
+    "ライアー×ライアー": [
+      {"name": "AniList", "url_id": "54744"},
+      {"name": "MyAnimeList", "url_id": "24744"},
+      {"name": "MyAnimeList", "url_id": "124128"}
+    ],
+    "恋に恋するユカリちゃん": [
+      {"name": "AniList", "url_id": "99550"},
+      {"name": "MyAnimeList", "url_id": "108188"}
+    ],
+    "ぼくの村の話": [
+      {"name": "AniList", "url_id": "140332"},
+      {"name": "MyAnimeList", "url_id": "112402"}
+    ],
+    "【推しの子】": [
+      {"name": "AniList", "url_id": "117195"},
+      {"name": "MyAnimeList", "url_id": "126146"}
+    ],
+    "影野だって青春したい": [
+      {"name": "AniList", "url_id": "85480"},
+      {"name": "MyAnimeList", "url_id": "57899"}
+    ],
+    "シャイニング！": [
+      {"name": "AniList", "url_id": "152725"}
+    ],
+    "ひるなかの流星": [
+      {"name": "AniList", "url_id": "57231"},
+      {"name": "MyAnimeList", "url_id": "27231"},
+      {"name": "Natively", "url_id": "f167afd2b5"}
+    ],
+    "咲 -Saki-": [
+      {"name": "AniList", "url_id": "36310"},
+      {"name": "MyAnimeList", "url_id": "6310"}
+    ],
+    "名探偵コナン　ゼロの日常": [
+      {"name": "AniList", "url_id": "102750"}
+    ],
+    "真夏のグレイグー": [
+      {"name": "AniList", "url_id": "150285"},
+      {"name": "MyAnimeList", "url_id": "147875"}
+    ],
+    "ゆりてつ～私立百合ヶ咲女子高鉄道部～": [
+      {"name": "AniList", "url_id": "56627"},
+      {"name": "MyAnimeList", "url_id": "26627"}
+    ],
+    "やはり俺の青春ラブコメはまちがっている。@comic": [
+      {"name": "AniList", "url_id": "92954"},
+      {"name": "MyAnimeList", "url_id": "80091"}
+    ],
+    "カードキャプターさくら　クリアカード編": [
+      {"name": "AniList", "url_id": "87296"},
+      {"name": "MyAnimeList", "url_id": "98374"},
+      {"name": "Natively", "url_id": "910822c5e1"}
+    ],
+    "ヲタクに恋は難しい": [
+      {"name": "AniList", "url_id": "86717"},
+      {"name": "MyAnimeList", "url_id": "89087"},
+      {"name": "Natively", "url_id": "94ce06eaf2"}
+    ],
+    "怜-Toki-": [
+      {"name": "AniList", "url_id": "98200"},
+      {"name": "MyAnimeList", "url_id": "99489"},
+      {"name": "Natively", "url_id": "5b21a03c2a"}
+    ],
+    "薬屋のひとりごと": [
+      {"name": "AniList", "url_id": "99022"},
+      {"name": "BOOK☆WALKER", "url_id": "130765"},
+      {"name": "Mangapedia", "url_id": "%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8-ptlsfuq1c"},
+      {"name": "MyAnimeList", "url_id": "107562"},
+      {"name": "Natively", "url_id": "5de2b6cf5d"}
+    ],
+    "３Ｄ彼女　リアルガール": [
+      {"name": "AniList", "url_id": "80767"},
+      {"name": "MyAnimeList", "url_id": "50767"}
+    ],
+    "涙雨とセレナーデ": [
+      {"name": "AniList", "url_id": "104233"},
+      {"name": "MyAnimeList", "url_id": "94676"}
+    ],
+    "ときめきミッドナイト": [
+      {"name": "AniList", "url_id": "40758"},
+      {"name": "MyAnimeList", "url_id": "10758"}
+    ],
+    "蕗ノ下さんは背が小さい": [
+      {"name": "AniList", "url_id": "128305"},
+      {"name": "MyAnimeList", "url_id": "125466"}
+    ],
+    "お友達で行こう！": [
+      {"name": "AniList", "url_id": "36298"},
+      {"name": "Natively", "url_id": "b998383b7a"}
+    ],
+    "七つの大罪": [
+      {"name": "AniList", "url_id": "74485"},
+      {"name": "MyAnimeList", "url_id": "44485"}
+    ],
+    "パスポート・ブルー": [
+      {"name": "AniList", "url_id": "76862"},
+      {"name": "MyAnimeList", "url_id": "46862"}
+    ],
+    "BEAST COMPLEX": [
+      {"name": "AniList", "url_id": "106727"},
+      {"name": "MyAnimeList", "url_id": "115996"}
+    ],
+    "冷たい校舎の時は止まる": [
+      {"name": "AniList", "url_id": "43729"},
+      {"name": "MyAnimeList", "url_id": "13729"}
+    ],
+    "転がる姉弟": [
+      {"name": "AniList", "url_id": "159375"},
+      {"name": "MyAnimeList", "url_id": "142866"}
+    ],
+    "藤原くんはだいたい正しい": [
+      {"name": "AniList", "url_id": "87088"},
+      {"name": "MyAnimeList", "url_id": "99011"},
+      {"name": "Natively", "url_id": "c025c0eec9"}
+    ],
+    "赤ちゃんと僕": [
+      {"name": "AniList", "url_id": "30076"},
+      {"name": "MyAnimeList", "url_id": "76"},
+      {"name": "Natively", "url_id": "46d746e05b"},
+      {"name": "Natively", "url_id": "826724a805"}
+    ],
+    "テノゲカ": [
+      {"name": "AniList", "url_id": "166997"},
+      {"name": "MyAnimeList", "url_id": "159110"},
+      {"name": "Natively", "url_id": "e8ac15223b"}
+    ],
+    "ショートケーキケーキ": [
+      {"name": "AniList", "url_id": "86645"},
+      {"name": "MyAnimeList", "url_id": "94128"}
+    ],
+    "町田くんの世界": [
+      {"name": "AniList", "url_id": "97701"},
+      {"name": "MyAnimeList", "url_id": "58141"},
+      {"name": "Natively", "url_id": "e4e5e7ecc8"}
+    ],
+    "ストロボ・エッジ": [
+      {"name": "AniList", "url_id": "37378"},
+      {"name": "MyAnimeList", "url_id": "7378"},
+      {"name": "Natively", "url_id": "51a0cc3d62"}
+    ],
+    "ゆずのどうぶつカルテ～こちら　わんニャンどうぶつ病院～": [
+      {"name": "AniList", "url_id": "105103"},
+      {"name": "MyAnimeList", "url_id": "118030"},
+      {"name": "Natively", "url_id": "ceb0624d30"}
+    ],
+    "あいカギ": [
+      {"name": "AniList", "url_id": "113738"},
+      {"name": "MyAnimeList", "url_id": "99079"}
+    ],
+    "初×婚": [
+      {"name": "AniList", "url_id": "120839"},
+      {"name": "MyAnimeList", "url_id": "139752"}
+    ],
+    "トリピタカ・トリニーク": [
+      {"name": "AniList", "url_id": "100535"},
+      {"name": "MyAnimeList", "url_id": "102979"}
+    ],
+    "くまみこ": [
+      {"name": "AniList", "url_id": "122622"},
+      {"name": "MyAnimeList", "url_id": "63295"},
+      {"name": "Natively", "url_id": "8c82d31e5b"}
+    ],
+    "黒崎くんの言いなりになんてならない": [
+      {"name": "AniList", "url_id": "85266"},
+      {"name": "MyAnimeList", "url_id": "67357"}
+    ],
+    "ある日　犬の国から手紙が来て": [
+      {"name": "AniList", "url_id": "101081"},
+      {"name": "MyAnimeList", "url_id": "99050"}
+    ],
+    "えびがわ町の妖怪カフェ": [
+      {"name": "AniList", "url_id": "146344"},
+      {"name": "MyAnimeList", "url_id": "110836"}
+    ],
+    "ああっ女神さまっ": [
+      {"name": "AniList", "url_id": "30446"},
+      {"name": "MyAnimeList", "url_id": "446"},
+      {"name": "Natively", "url_id": "30e893778f"}
+    ],
+    "日常": [
+      {"name": "AniList", "url_id": "33082"},
+      {"name": "MyAnimeList", "url_id": "3082"}
+    ],
+    "赤ずきんちゃんは狼さんを泣かせたい！": [
+      {"name": "AniList", "url_id": "109274"},
+      {"name": "MyAnimeList", "url_id": "102245"}
+    ],
+    "キミとだけは恋に堕ちない": [
+      {"name": "AniList", "url_id": "96654"},
+      {"name": "MyAnimeList", "url_id": "95423"}
+    ],
+    "高校鉄拳伝タフ": [
+      {"name": "AniList", "url_id": "33286"},
+      {"name": "MyAnimeList", "url_id": "3286"}
+    ],
+    "ふたつのスピカ": [
+      {"name": "AniList", "url_id": "33097"},
+      {"name": "MyAnimeList", "url_id": "3097"},
+      {"name": "Natively", "url_id": "02d8700b8e"}
+    ],
+    "ソウルイーターノット！": [
+      {"name": "AniList", "url_id": "53661"},
+      {"name": "MyAnimeList", "url_id": "23661"}
+    ],
+    "ありす19th": [
+      {"name": "AniList", "url_id": "30077"},
+      {"name": "MyAnimeList", "url_id": "77"},
+      {"name": "Natively", "url_id": "00149e0514"}
+    ],
+    "天賀井さんは案外ふつう": [
+      {"name": "AniList", "url_id": "95436"},
+      {"name": "MyAnimeList", "url_id": "91137"}
+    ],
+    "椎奈さんの推し事情": [
+      {"name": "AniList", "url_id": "139452"}
+    ],
+    "私の少年": [
+      {"name": "AniList", "url_id": "98858"},
+      {"name": "MyAnimeList", "url_id": "102980"}
+    ],
+    "生きてますか？ 本田くん": [
+      {"name": "AniList", "url_id": "101570"},
+      {"name": "MyAnimeList", "url_id": "99408"}
+    ],
+    "ひらやすみ": [
+      {"name": "AniList", "url_id": "132288"},
+      {"name": "MyAnimeList", "url_id": "137303"},
+      {"name": "Natively", "url_id": "3e6480c04d"}
+    ],
+    "猫と竜": [
+      {"name": "AniList", "url_id": "117942"},
+      {"name": "MyAnimeList", "url_id": "144353"},
+      {"name": "Natively", "url_id": "392cc4ebb9"}
+    ],
+    "ヒマワリ": [
+      {"name": "AniList", "url_id": "45890"},
+      {"name": "MyAnimeList", "url_id": "109349"}
+    ],
+    "あつまれ！ふしぎ研究部": [
+      {"name": "AniList", "url_id": "98625"},
+      {"name": "MyAnimeList", "url_id": "101089"},
+      {"name": "Natively", "url_id": "486f7b3c18"}
+    ],
+    "ピンクのしっぽ": [
+      {"name": "AniList", "url_id": "143110"},
+      {"name": "MyAnimeList", "url_id": "131243"}
+    ],
+    "私たちには壁がある。": [
+      {"name": "AniList", "url_id": "85554"},
+      {"name": "MyAnimeList", "url_id": "67467"}
+    ],
+    "國崎出雲の事情": [
+      {"name": "AniList", "url_id": "43406"},
+      {"name": "MyAnimeList", "url_id": "18362"}
+    ],
+    "呪い子の召使い": [
+      {"name": "AniList", "url_id": "118416"},
+      {"name": "MyAnimeList", "url_id": "130738"},
+      {"name": "Natively", "url_id": "6f9da417c3"}
+    ],
+    "それでも世界は美しい": [
+      {"name": "AniList", "url_id": "71847"},
+      {"name": "MyAnimeList", "url_id": "41847"},
+      {"name": "Natively", "url_id": "04ec68079a"}
+    ],
+    "逢沢小春は死に急ぐ": [
+      {"name": "AniList", "url_id": "152596"}
+    ],
+    "ぐらんぶる": [
+      {"name": "AniList", "url_id": "87395"},
+      {"name": "MyAnimeList", "url_id": "70345"},
+      {"name": "Natively", "url_id": "77cb631157"}
+    ],
+    "紡ぐ乙女と大正の月": [
+      {"name": "AniList", "url_id": "143139"},
+      {"name": "MyAnimeList", "url_id": "137567"}
+    ],
+    "娚の一生": [
+      {"name": "AniList", "url_id": "51659"},
+      {"name": "MyAnimeList", "url_id": "21659"}
+    ],
+    "メダリスト": [
+      {"name": "AniList", "url_id": "118371"},
+      {"name": "MyAnimeList", "url_id": "129621"}
+    ],
+    "魔王城でおやすみ": [
+      {"name": "AniList", "url_id": "87510"},
+      {"name": "BOOK☆WALKER", "url_id": "129253"},
+      {"name": "Mangapedia", "url_id": "%E9%AD%94%E7%8E%8B%E5%9F%8E%E3%81%A7%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF-nn0xgjceq"},
+      {"name": "MyAnimeList", "url_id": "98639"},
+      {"name": "Natively", "url_id": "09274e2f65"}
+    ],
+    "悪魔とラブソング": [
+      {"name": "AniList", "url_id": "31896"},
+      {"name": "MyAnimeList", "url_id": "1896"}
+    ],
+    "ゴールデンカムイ": [
+      {"name": "AniList", "url_id": "86559"},
+      {"name": "MyAnimeList", "url_id": "85968"}
+    ],
+    "今日もベランダで": [
+      {"name": "AniList", "url_id": "154705"},
+      {"name": "MyAnimeList", "url_id": "152117"}
+    ],
+    "いちまつ捕物帳": [
+      {"name": "AniList", "url_id": "129888"},
+      {"name": "MyAnimeList", "url_id": "106072"}
+    ],
+    "川柳少女": [
+      {"name": "AniList", "url_id": "99183"},
+      {"name": "MyAnimeList", "url_id": "105430"},
+      {"name": "Natively", "url_id": "7cf99adfad"}
+    ],
+    "蒼く染めろ": [
+      {"name": "AniList", "url_id": "139488"},
+      {"name": "MyAnimeList", "url_id": "140432"}
+    ],
+    "この音とまれ！": [
+      {"name": "AniList", "url_id": "75143"},
+      {"name": "MyAnimeList", "url_id": "45143"}
+    ],
+    "修羅の門　第弐門": [
+      {"name": "AniList", "url_id": "55202"},
+      {"name": "MyAnimeList", "url_id": "25202"}
+    ],
+    "魔物たちは片付けられない": [
+      {"name": "AniList", "url_id": "107888"},
+      {"name": "MyAnimeList", "url_id": "118197"}
+    ],
+    "Wジュリエット": [
+      {"name": "AniList", "url_id": "32906"},
+      {"name": "MyAnimeList", "url_id": "58"},
+      {"name": "Natively", "url_id": "19697d43bd"}
+    ],
+    "海辺のキュー": [
+      {"name": "AniList", "url_id": "115792"},
+      {"name": "MyAnimeList", "url_id": "127127"}
+    ],
+    "ちょびっツ": [
+      {"name": "AniList", "url_id": "30107"},
+      {"name": "MyAnimeList", "url_id": "107"},
+      {"name": "Natively", "url_id": "69c0cda971"}
+    ],
+    "どきどきＤＯ！れみ": [
+      {"name": "AniList", "url_id": "166201"},
+      {"name": "Natively", "url_id": "35236fe4d4"}
+    ],
+    "ミオの名のもとに": [
+      {"name": "AniList", "url_id": "129717"},
+      {"name": "MyAnimeList", "url_id": "140216"},
+      {"name": "Natively", "url_id": "70e008be0f"}
+    ],
+    "ぎんぎつね": [
+      {"name": "AniList", "url_id": "54298"},
+      {"name": "MyAnimeList", "url_id": "24298"}
+    ],
+    "キン肉マン": [
+      {"name": "AniList", "url_id": "32845"},
+      {"name": "MyAnimeList", "url_id": "2845"},
+      {"name": "Natively", "url_id": "9dca834b80"}
+    ],
+    "思い、思われ、ふり、ふられ": [
+      {"name": "AniList", "url_id": "86219"},
+      {"name": "MyAnimeList", "url_id": "89217"},
+      {"name": "Natively", "url_id": "f358b8cc02"}
+    ],
+    "先生は恋を教えられない": [
+      {"name": "AniList", "url_id": "106454"},
+      {"name": "MyAnimeList", "url_id": "117080"},
+      {"name": "Natively", "url_id": "b73a3b231d"}
+    ],
+    "とつくにとうか　－幕末通訳　森山栄之助－": [
+      {"name": "AniList", "url_id": "158497"}
+    ],
+    "プレイボール2": [
+      {"name": "AniList", "url_id": "106179"},
+      {"name": "MyAnimeList", "url_id": "106163"}
+    ],
+    "きみとユリイカ": [
+      {"name": "AniList", "url_id": "96159"},
+      {"name": "MyAnimeList", "url_id": "93550"},
+      {"name": "Natively", "url_id": "ffda821f9f"}
+    ],
+    "春と恋と君のこと": [
+      {"name": "AniList", "url_id": "109920"},
+      {"name": "MyAnimeList", "url_id": "123855"}
+    ],
+    "エルフェンリート": [
+      {"name": "AniList", "url_id": "30933"},
+      {"name": "MyAnimeList", "url_id": "933"}
+    ],
+    "疑似ハーレム": [
+      {"name": "AniList", "url_id": "105577"},
+      {"name": "MyAnimeList", "url_id": "116808"},
+      {"name": "Natively", "url_id": "e7bbed3457"}
+    ],
+    "金のひつじ": [
+      {"name": "AniList", "url_id": "100331"},
+      {"name": "MyAnimeList", "url_id": "113409"},
+      {"name": "Natively", "url_id": "6fe353b392"}
+    ],
+    "さよなら私のクラマー": [
+      {"name": "AniList", "url_id": "87440"},
+      {"name": "MyAnimeList", "url_id": "98179"},
+      {"name": "Natively", "url_id": "d362c47e5b"}
+    ],
+    "ＹＡＩＢＡ": [
+      {"name": "AniList", "url_id": "52223"},
+      {"name": "MyAnimeList", "url_id": "1631"}
+    ],
+    "ストライプブルー": [
+      {"name": "AniList", "url_id": "33913"}
+    ],
+    "ナイン": [
+      {"name": "AniList", "url_id": "115655"},
+      {"name": "MyAnimeList", "url_id": "3169"}
+    ],
+    "B壱": [
+      {"name": "AniList", "url_id": "40454"},
+      {"name": "MyAnimeList", "url_id": "10454"}
+    ],
+    "地球のおわりは恋のはじまり": [
+      {"name": "AniList", "url_id": "86779"},
+      {"name": "MyAnimeList", "url_id": "93932"},
+      {"name": "Natively", "url_id": "67bbb528e9"}
+    ],
+    "ラブ・ミー・ぽんぽこ！": [
+      {"name": "AniList", "url_id": "112988"},
+      {"name": "MyAnimeList", "url_id": "121709"}
+    ],
+    "修羅の門": [
+      {"name": "AniList", "url_id": "35586"},
+      {"name": "MyAnimeList", "url_id": "5586"}
+    ],
+    "修羅の刻": [
+      {"name": "AniList", "url_id": "177804"},
+      {"name": "Natively", "url_id": "b8013e9de3"}
+    ],
+    "最上の明医～ザ・キング・オブ・ニート～": [
+      {"name": "AniList", "url_id": "55217"},
+      {"name": "MyAnimeList", "url_id": "25217"}
+    ],
+    "タッチ": [
+      {"name": "AniList", "url_id": "31013"},
+      {"name": "MyAnimeList", "url_id": "1013"}
+    ],
+    "プレイボール": [
+      {"name": "AniList", "url_id": "91570"},
+      {"name": "MyAnimeList", "url_id": "72267"}
+    ],
+    "恋を知らない僕たちは": [
+      {"name": "AniList", "url_id": "99273"},
+      {"name": "MyAnimeList", "url_id": "107861"},
+      {"name": "Natively", "url_id": "5892cd4336"}
+    ],
+    "株式会社マジルミエ": [
+      {"name": "AniList", "url_id": "140482"},
+      {"name": "MyAnimeList", "url_id": "142224"}
+    ],
+    "WジュリエットII": [
+      {"name": "AniList", "url_id": "32906"},
+      {"name": "MyAnimeList", "url_id": "2906"}
+    ],
+    "やまさん～山小屋三姉妹～": [
+      {"name": "AniList", "url_id": "153895"},
+      {"name": "MyAnimeList", "url_id": "151691"}
+    ],
+    "アリスさんちの囲炉裏端": [
+      {"name": "AniList", "url_id": "125250"},
+      {"name": "MyAnimeList", "url_id": "140062"},
+      {"name": "Natively", "url_id": "07fd3e94bb"}
+    ],
+    "王国物語": [
+      {"name": "AniList", "url_id": "99380"},
+      {"name": "MyAnimeList", "url_id": "105402"},
+      {"name": "Natively", "url_id": "b58af02c12"}
+    ],
+    "となりの怪物くん": [
+      {"name": "AniList", "url_id": "43702"},
+      {"name": "MyAnimeList", "url_id": "13702"}
+    ],
+    "GRAND SLAM": [
+      {"name": "AniList", "url_id": "57211"}
+    ],
+    "進撃の巨人": [
+      {"name": "AniList", "url_id": "53390"},
+      {"name": "MyAnimeList", "url_id": "23390"},
+      {"name": "Natively", "url_id": "7b6589f108"}
+    ],
+    "波よ聞いてくれ": [
+      {"name": "AniList", "url_id": "87206"},
+      {"name": "MyAnimeList", "url_id": "75489"}
+    ],
+    "かみかみかえし": [
+      {"name": "AniList", "url_id": "52485"},
+      {"name": "MyAnimeList", "url_id": "22485"}
+    ],
+    "MIX": [
+      {"name": "AniList", "url_id": "96601"},
+      {"name": "Natively", "url_id": "2e81462beb"}
+    ],
+    "エンジェルリップ": [
+      {"name": "AniList", "url_id": "38425"},
+      {"name": "MyAnimeList", "url_id": "8425"}
+    ],
+    "午前０時、キスしに来てよ": [
+      {"name": "AniList", "url_id": "86729"},
+      {"name": "MyAnimeList", "url_id": "89283"},
+      {"name": "Natively", "url_id": "551f0bd7ff"}
+    ],
+    "おおきく振りかぶって": [
+      {"name": "AniList", "url_id": "30994"},
+      {"name": "MyAnimeList", "url_id": "994"}
+    ],
+    "ジャジャ": [
+      {"name": "AniList", "url_id": "111786"},
+      {"name": "MyAnimeList", "url_id": "127742"}
+    ],
+    "さよなら三角": [
+      {"name": "AniList", "url_id": "142747"}
+    ],
+    "エリートジャック！！": [
+      {"name": "AniList", "url_id": "173387"},
+      {"name": "MyAnimeList", "url_id": "90980"}
+    ],
+    "360°マテリアル": [
+      {"name": "AniList", "url_id": "52551"},
+      {"name": "BOOK☆WALKER", "url_id": "12656"},
+      {"name": "MyAnimeList", "url_id": "22551"}
+    ],
+    "ぼくらのカプトン": [
+      {"name": "AniList", "url_id": "176823"}
+    ],
+    "おじさまと猫": [
+      {"name": "AniList", "url_id": "101176"},
+      {"name": "BOOK☆WALKER", "url_id": "146297"},
+      {"name": "Mangapedia", "url_id": "%E3%81%8A%E3%81%98%E3%81%95%E3%81%BE%E3%81%A8%E7%8C%AB-1qgbew2ed"},
+      {"name": "MyAnimeList", "url_id": "112774"},
+      {"name": "Natively", "url_id": "280219ccf7"}
+    ],
+    "げんしけん": [
+      {"name": "AniList", "url_id": "30348"},
+      {"name": "MyAnimeList", "url_id": "348"},
+      {"name": "Natively", "url_id": "32ace08374"}
+    ],
+    "白夜の街は楓色": [
+      {"name": "AniList", "url_id": "173437"},
+      {"name": "Natively", "url_id": "4c2aaeef3a"}
+    ],
+    "彼女、お借りします": [
+      {"name": "AniList", "url_id": "99943"},
+      {"name": "MyAnimeList", "url_id": "108407"},
+      {"name": "Natively", "url_id": "1cff2865cc"}
+    ],
+    "ファンタジスタ": [
+      {"name": "AniList", "url_id": "40259"},
+      {"name": "MyAnimeList", "url_id": "10259"},
+      {"name": "Natively", "url_id": "b56cdc107d"}
+    ],
+    "極上!!　めちゃモテ委員長": [
+      {"name": "AniList", "url_id": "41805"},
+      {"name": "MyAnimeList", "url_id": "11805"}
+    ],
+    "春雨と恋もよう": [
+      {"name": "AniList", "url_id": "138646"},
+      {"name": "MyAnimeList", "url_id": "146033"}
+    ],
+    "ながされて藍蘭島": [
+      {"name": "AniList", "url_id": "31086"},
+      {"name": "MyAnimeList", "url_id": "1086"}
+    ],
+    "それでも歩は寄せてくる": [
+      {"name": "AniList", "url_id": "108105"},
+      {"name": "MyAnimeList", "url_id": "119216"},
+      {"name": "Natively", "url_id": "aff12d2d42"}
+    ],
+    "黒影のジャンク": [
+      {"name": "AniList", "url_id": "101772"},
+      {"name": "MyAnimeList", "url_id": "110030"}
+    ],
+    "テツぼん": [
+      {"name": "AniList", "url_id": "128385"}
+    ],
+    "きっと愛だから、いらない": [
+      {"name": "AniList", "url_id": "104839"},
+      {"name": "MyAnimeList", "url_id": "113435"}
+    ],
+    "デカワンコ": [
+      {"name": "AniList", "url_id": "43094"},
+      {"name": "MyAnimeList", "url_id": "13094"}
+    ],
+    "からかい上手の高木さん": [
+      {"name": "AniList", "url_id": "138552"},
+      {"name": "MyAnimeList", "url_id": "78537"},
+      {"name": "Natively", "url_id": "99dd19d7a2"}
+    ],
+    "フルーツバスケット": [
+      {"name": "AniList", "url_id": "30102"},
+      {"name": "MyAnimeList", "url_id": "102"},
+      {"name": "Natively", "url_id": "6dca23c229"}
+    ],
+    "見上げてごらん": [
+      {"name": "AniList", "url_id": "176129"},
+      {"name": "MyAnimeList", "url_id": "32901"}
+    ],
+    "小鳥遊家の妹は花嫁になりたいっ！！": [
+      {"name": "AniList", "url_id": "167424"}
+    ],
+    "ワンパンマン": [
+      {"name": "AniList", "url_id": "85364"},
+      {"name": "MyAnimeList", "url_id": "44347"},
+      {"name": "Natively", "url_id": "04f877f3ee"}
+    ],
+    "天才料理少年 味の助": [
+      {"name": "AniList", "url_id": "127309"},
+      {"name": "Natively", "url_id": "8f49969dfa"}
+    ],
+    "ルートサーティスリー～ROUTE 33～": [
+      {"name": "AniList", "url_id": "175015"}
+    ],
+    "ポンコツちゃん検証中": [
+      {"name": "AniList", "url_id": "109062"},
+      {"name": "MyAnimeList", "url_id": "119604"}
+    ],
+    "バーテンダー": [
+      {"name": "AniList", "url_id": "33713"}
+    ],
+    "甘々と稲妻": [
+      {"name": "AniList", "url_id": "86044"},
+      {"name": "MyAnimeList", "url_id": "63535"},
+      {"name": "Natively", "url_id": "0d0048b2c4"}
+    ],
+    "少女少年": [
+      {"name": "AniList", "url_id": "33887"},
+      {"name": "MyAnimeList", "url_id": "3887"}
+    ],
+    "薬屋のひとりごと～猫猫の後宮謎解き手帳～": [
+      {"name": "AniList", "url_id": "113322"},
+      {"name": "MyAnimeList", "url_id": "110929"}
+    ],
+    "ヴィンランド・サガ": [
+      {"name": "AniList", "url_id": "30642"},
+      {"name": "MyAnimeList", "url_id": "642"}
+    ],
+    "三日月とネコ": [
+      {"name": "AniList", "url_id": "133079"}
+    ],
+    "そらに陽だまり": [
+      {"name": "AniList", "url_id": "127346"},
+      {"name": "MyAnimeList", "url_id": "135233"}
+    ],
+    "ひよ恋": [
+      {"name": "AniList", "url_id": "47394"},
+      {"name": "MyAnimeList", "url_id": "17394"},
+      {"name": "Natively", "url_id": "b3dd0c4ad2"}
+    ],
+    "Good Game": [
+      {"name": "AniList", "url_id": "53839"},
+      {"name": "Natively", "url_id": "7c5171a270"}
+    ],
+    "あせびと空世界の冒険者": [
+      {"name": "AniList", "url_id": "92405"},
+      {"name": "MyAnimeList", "url_id": "76573"}
+    ],
+    "これは経費で落ちません！ ～経理部の森若さん～": [
+      {"name": "AniList", "url_id": "119377"},
+      {"name": "MyAnimeList", "url_id": "159268"}
+    ],
+    "阿波連さんははかれない": [
+      {"name": "AniList", "url_id": "98686"},
+      {"name": "MyAnimeList", "url_id": "103939"},
+      {"name": "Natively", "url_id": "4a17e33776"}
+    ],
+    "ハイキュー!!": [
+      {"name": "AniList", "url_id": "109512"},
+      {"name": "MyAnimeList", "url_id": "35243"}
+    ],
+    "フリーキック！": [
+      {"name": "AniList", "url_id": "136825"}
+    ],
+    "四畳半のいばら姫": [
+      {"name": "AniList", "url_id": "161950"},
+      {"name": "MyAnimeList", "url_id": "156218"}
+    ],
+    "リビングの松永さん": [
+      {"name": "AniList", "url_id": "98388"},
+      {"name": "MyAnimeList", "url_id": "103856"},
+      {"name": "Natively", "url_id": "84045d5406"}
+    ],
+    "ねこと私とドイッチュラント": [
+      {"name": "AniList", "url_id": "107761"},
+      {"name": "MyAnimeList", "url_id": "113636"},
+      {"name": "Natively", "url_id": "f1dca0ea93"}
+    ],
+    "ましろのおと": [
+      {"name": "AniList", "url_id": "53115"},
+      {"name": "MyAnimeList", "url_id": "23115"}
+    ],
+    "獣の奏者": [
+      {"name": "AniList", "url_id": "48371"},
+      {"name": "MyAnimeList", "url_id": "18371"},
+      {"name": "Natively", "url_id": "ccc9a4538f"}
+    ],
+    "Re:スケバン刑事": [
+      {"name": "AniList", "url_id": "128384"}
+    ],
+    "はじめての諏訪さん": [
+      {"name": "AniList", "url_id": "123238"},
+      {"name": "MyAnimeList", "url_id": "130238"},
+      {"name": "Natively", "url_id": "029c4fd5b7"}
+    ],
+    "FINAL FANTASY LOST STRANGER": [
+      {"name": "AniList", "url_id": "102232"},
+      {"name": "MyAnimeList", "url_id": "104232"},
+      {"name": "Natively", "url_id": "ccdccc9c54"}
+    ],
+    "よつばと！": [
+      {"name": "AniList", "url_id": "30104"},
+      {"name": "Mangapedia", "url_id": "%E3%82%88%E3%81%A4%E3%81%B0%E3%81%A8%EF%BC%81-w2u4x9mdj"},
+      {"name": "MyAnimeList", "url_id": "104"},
+      {"name": "Natively", "url_id": "3f84bbb07d"}
+    ],
+    "ＢＡＳＡＲＡ": [
+      {"name": "AniList", "url_id": "30345"},
+      {"name": "MyAnimeList", "url_id": "974"},
+      {"name": "Natively", "url_id": "381bb0a3cf"}
+    ],
+    "マコトの王者": [
+      {"name": "AniList", "url_id": "95859"}
+    ],
+    "僕に花のメランコリー": [
+      {"name": "AniList", "url_id": "96153"},
+      {"name": "MyAnimeList", "url_id": "93529"},
+      {"name": "Natively", "url_id": "bac3c871f4"}
+    ],
+    "現代魔女の就職事情": [
+      {"name": "AniList", "url_id": "87379"},
+      {"name": "MyAnimeList", "url_id": "88658"},
+      {"name": "Natively", "url_id": "e2afba10a1"}
+    ],
+    "アイドルマスター シンデレラガールズ After20": [
+      {"name": "AniList", "url_id": "103309"},
+      {"name": "Natively", "url_id": "355e7deb70"}
+    ],
+    "春行きバス": [
+      {"name": "AniList", "url_id": "36992"}
+    ],
+    "姫ちゃんのリボン": [
+      {"name": "AniList", "url_id": "34998"},
+      {"name": "MyAnimeList", "url_id": "4998"},
+      {"name": "Natively", "url_id": "41907e41ca"}
+    ],
+    "トマトイプーのリコピン": [
+      {"name": "AniList", "url_id": "109021"},
+      {"name": "MyAnimeList", "url_id": "110014"}
+    ],
+    "ドリーマー！！": [
+      {"name": "AniList", "url_id": "122703"}
+    ],
+    "TARI TARI": [
+      {"name": "AniList", "url_id": "69849"},
+      {"name": "MyAnimeList", "url_id": "39849"}
+    ],
+    "ラフ": [
+      {"name": "AniList", "url_id": "31184"},
+      {"name": "MyAnimeList", "url_id": "1184"}
+    ],
+    "ライオンハート": [
+      {"name": "AniList", "url_id": "146006"},
+      {"name": "MyAnimeList", "url_id": "147075"}
+    ],
+    "ふらいんぐうぃっち": [
+      {"name": "AniList", "url_id": "76258"},
+      {"name": "BOOK☆WALKER", "url_id": "12142"},
+      {"name": "Mangapedia", "url_id": "%E3%81%B5%E3%82%89%E3%81%84%E3%82%93%E3%81%90%E3%81%86%E3%81%83%E3%81%A3%E3%81%A1-55y63fcql"},
+      {"name": "MyAnimeList", "url_id": "46258"},
+      {"name": "Natively", "url_id": "fd9ca1b298"}
+    ],
+    "社畜さんは幼女幽霊に癒されたい。": [
+      {"name": "AniList", "url_id": "108923"},
+      {"name": "MyAnimeList", "url_id": "121793"},
+      {"name": "Natively", "url_id": "ca056addc2"}
+    ],
+    "明治緋色綺譚": [
+      {"name": "AniList", "url_id": "63791"},
+      {"name": "MyAnimeList", "url_id": "33791"},
+      {"name": "Natively", "url_id": "99c85c62df"}
+    ],
+    "キン肉マンII世": [
+      {"name": "AniList", "url_id": "35451"},
+      {"name": "MyAnimeList", "url_id": "5451"},
+      {"name": "Natively", "url_id": "7fbb217c0e"}
+    ],
+    "私は天才を飼っている。": [
+      {"name": "AniList", "url_id": "105573"},
+      {"name": "MyAnimeList", "url_id": "101371"}
+    ],
+    "ミラクル☆ガールズ": [
+      {"name": "AniList", "url_id": "30449"},
+      {"name": "MyAnimeList", "url_id": "449"}
+    ],
+    "女たちの都": [
+      {"name": "AniList", "url_id": "173721"},
+      {"name": "Natively", "url_id": "7999b64d5f"}
+    ],
+    "ミントな僕ら": [
+      {"name": "AniList", "url_id": "31006"},
+      {"name": "MyAnimeList", "url_id": "1006"},
+      {"name": "Natively", "url_id": "436373c567"}
+    ],
+    "ブラック・ラグーン": [
+      {"name": "AniList", "url_id": "30735"}
+    ],
+    "ロマンティック・キラー": [
+      {"name": "AniList", "url_id": "113531"},
+      {"name": "MyAnimeList", "url_id": "127138"},
+      {"name": "Natively", "url_id": "0723a04b13"}
+    ],
+    "お近づきになりたい宮膳さん": [
+      {"name": "AniList", "url_id": "128997"},
+      {"name": "MyAnimeList", "url_id": "125256"}
+    ],
+    "チョコっとちょこちゃん": [
+      {"name": "AniList", "url_id": "93623"},
+      {"name": "MyAnimeList", "url_id": "84625"}
+    ],
+    "てをつなごうよ": [
+      {"name": "AniList", "url_id": "97560"},
+      {"name": "MyAnimeList", "url_id": "100537"}
+    ],
+    "愛してるぜベイベ★★": [
+      {"name": "AniList", "url_id": "30055"},
+      {"name": "Natively", "url_id": "8d5fe6c3dc"}
+    ],
+    "こんな未来は聞いてない！！": [
+      {"name": "AniList", "url_id": "97093"},
+      {"name": "MyAnimeList", "url_id": "97795"}
+    ],
+    "こどものおもちゃ": [
+      {"name": "AniList", "url_id": "30018"},
+      {"name": "MyAnimeList", "url_id": "18"}
+    ],
+    "のだめカンタービレ": [
+      {"name": "AniList", "url_id": "30419"},
+      {"name": "MyAnimeList", "url_id": "419"},
+      {"name": "Natively", "url_id": "e6707ce16c"}
+    ],
+    "クロックワーク・プラネット": [
+      {"name": "AniList", "url_id": "85342"},
+      {"name": "MyAnimeList", "url_id": "65155"}
+    ],
+    "赤ずきんチャチャN": [
+      {"name": "AniList", "url_id": "89690"},
+      {"name": "MyAnimeList", "url_id": "63185"}
+    ],
+    "おちたらおわり": [
+      {"name": "AniList", "url_id": "109721"},
+      {"name": "MyAnimeList", "url_id": "121713"}
+    ],
+    "ダーウィンズゲーム": [
+      {"name": "AniList", "url_id": "78881"},
+      {"name": "MyAnimeList", "url_id": "48881"}
+    ],
+    "お姉ちゃんの翠くん": [
+      {"name": "AniList", "url_id": "145049"},
+      {"name": "MyAnimeList", "url_id": "145380"}
+    ],
+    "なるたる": [
+      {"name": "AniList", "url_id": "31153"},
+      {"name": "Natively", "url_id": "9580113535"}
+    ],
+    "蹴撃手マモル": [
+      {"name": "AniList", "url_id": "164691"}
+    ],
+    "ベイビィ★LOVE": [
+      {"name": "AniList", "url_id": "30833"},
+      {"name": "MyAnimeList", "url_id": "833"}
+    ],
+    "佐伯さんは眠ってる": [
+      {"name": "AniList", "url_id": "103214"},
+      {"name": "MyAnimeList", "url_id": "114627"},
+      {"name": "Natively", "url_id": "44701cc9d1"}
+    ],
+    "放課後ていぼう日誌": [
+      {"name": "AniList", "url_id": "117418"},
+      {"name": "MyAnimeList", "url_id": "109941"},
+      {"name": "Natively", "url_id": "3646e2ccca"}
+    ],
+    "ドロファイター": [
+      {"name": "AniList", "url_id": "137562"}
+    ],
+    "僕と君の大切な話": [
+      {"name": "AniList", "url_id": "86462"},
+      {"name": "MyAnimeList", "url_id": "91767"},
+      {"name": "Natively", "url_id": "ce6a424e26"}
+    ],
+    "闘将!! 拉麺男": [
+      {"name": "AniList", "url_id": "139366"},
+      {"name": "MyAnimeList", "url_id": "21599"}
+    ],
+    "夜子とおつとめどうぶつ": [
+      {"name": "AniList", "url_id": "142456"}
+    ],
+    "銀太郎さんお頼み申す": [
+      {"name": "AniList", "url_id": "159198"},
+      {"name": "MyAnimeList", "url_id": "148727"}
+    ],
+    "ハニー": [
+      {"name": "AniList", "url_id": "72707"},
+      {"name": "MyAnimeList", "url_id": "4807"}
+    ],
+    "Queen": [
+      {"name": "AniList", "url_id": "119556"}
+    ],
+    "乙女椿は笑わない": [
+      {"name": "AniList", "url_id": "104974"},
+      {"name": "MyAnimeList", "url_id": "121924"}
+    ],
+    "テニスの王子様": [
+      {"name": "AniList", "url_id": "30049"},
+      {"name": "MyAnimeList", "url_id": "49"},
+      {"name": "Natively", "url_id": "34b77df2b4"}
+    ],
+    "ブラックナイトパレード": [
+      {"name": "AniList", "url_id": "99168"},
+      {"name": "MyAnimeList", "url_id": "102565"}
+    ],
+    "カノジョは絶対、ボクのこと好きなはず": [
+      {"name": "AniList", "url_id": "148173"}
+    ],
+    "岩元先輩ノ推薦": [
+      {"name": "AniList", "url_id": "128597"},
+      {"name": "MyAnimeList", "url_id": "132865"}
+    ],
+    "結婚よそうよ": [
+      {"name": "AniList", "url_id": "174244"},
+      {"name": "Natively", "url_id": "ae42d9425f"}
+    ],
+    "クーロンズ・ボール・パレード": [
+      {"name": "AniList", "url_id": "128899"},
+      {"name": "MyAnimeList", "url_id": "133854"}
+    ],
+    "みゆき": [
+      {"name": "AniList", "url_id": "31015"},
+      {"name": "MyAnimeList", "url_id": "1015"},
+      {"name": "Natively", "url_id": "cdeaf02245"}
+    ],
+    "鬼の花嫁は喰べられたい": [
+      {"name": "AniList", "url_id": "132601"},
+      {"name": "MyAnimeList", "url_id": "135875"},
+      {"name": "Natively", "url_id": "3fa956e5f1"}
+    ],
+    "悩殺ジャンキー": [
+      {"name": "AniList", "url_id": "30164"},
+      {"name": "MyAnimeList", "url_id": "164"},
+      {"name": "Natively", "url_id": "3d018611ef"}
+    ],
+    "ワンダンス": [
+      {"name": "AniList", "url_id": "107321"},
+      {"name": "BOOK☆WALKER", "url_id": "205258"},
+      {"name": "MyAnimeList", "url_id": "127120"}
+    ],
+    "地図にない場所": [
+      {"name": "AniList", "url_id": "117597"},
+      {"name": "MyAnimeList", "url_id": "144167"}
+    ],
+    "東京タラレバ娘　シーズン２": [
+      {"name": "AniList", "url_id": "124731"},
+      {"name": "MyAnimeList", "url_id": "136158"}
+    ],
+    "まんまるポタジェ": [
+      {"name": "AniList", "url_id": "106881"},
+      {"name": "MyAnimeList", "url_id": "109002"}
+    ],
+    "鬼滅の刃": [
+      {"name": "AniList", "url_id": "87216"},
+      {"name": "MyAnimeList", "url_id": "96792"},
+      {"name": "Natively", "url_id": "acdd35d339"}
+    ],
+    "下弦の月": [
+      {"name": "AniList", "url_id": "31267"},
+      {"name": "MyAnimeList", "url_id": "1267"},
+      {"name": "Natively", "url_id": "075c2d0548"}
+    ],
+    "龍と苺": [
+      {"name": "AniList", "url_id": "121541"},
+      {"name": "MyAnimeList", "url_id": "128344"}
+    ],
+    "スーパーの裏でヤニ吸うふたり": [
+      {"name": "AniList", "url_id": "147149"},
+      {"name": "MyAnimeList", "url_id": "148467"},
+      {"name": "Natively", "url_id": "68d387663d"}
+    ],
+    "不滅のあなたへ": [
+      {"name": "AniList", "url_id": "97830"},
+      {"name": "MyAnimeList", "url_id": "102343"},
+      {"name": "Natively", "url_id": "f4f672a862"}
+    ],
+    "大東京ビンボー生活マニュアル": [
+      {"name": "AniList", "url_id": "156734"}
+    ],
+    "ロマンチカ クロック": [
+      {"name": "AniList", "url_id": "73741"},
+      {"name": "MyAnimeList", "url_id": "43741"},
+      {"name": "Natively", "url_id": "dba464ee80"}
+    ],
+    "グルマンくん": [
+      {"name": "AniList", "url_id": "164694"},
+      {"name": "MyAnimeList", "url_id": "147072"}
+    ],
+    "食戟のソーマ": [
+      {"name": "AniList", "url_id": "75757"},
+      {"name": "MyAnimeList", "url_id": "45757"}
+    ],
+    "オオカミ少女と黒王子": [
+      {"name": "AniList", "url_id": "58825"},
+      {"name": "MyAnimeList", "url_id": "28825"},
+      {"name": "Natively", "url_id": "92d381bae7"}
+    ],
+    "学園アリス": [
+      {"name": "AniList", "url_id": "30320"},
+      {"name": "MyAnimeList", "url_id": "320"},
+      {"name": "Natively", "url_id": "658ee01652"}
+    ],
+    "マッシュル-MASHLE-": [
+      {"name": "AniList", "url_id": "114960"},
+      {"name": "MyAnimeList", "url_id": "124085"}
+    ],
+    "こっちむいて！みい子": [
+      {"name": "AniList", "url_id": "50554"},
+      {"name": "MyAnimeList", "url_id": "20554"},
+      {"name": "Natively", "url_id": "b0f6984e7a"}
+    ],
+    "地雷なんですか？地原さん": [
+      {"name": "AniList", "url_id": "137714"},
+      {"name": "MyAnimeList", "url_id": "147528"},
+      {"name": "Natively", "url_id": "316766aead"},
+      {"name": "Natively", "url_id": "c6b52b0a8b"}
+    ],
+    "干物妹！うまるちゃん": [
+      {"name": "AniList", "url_id": "95846"}
+    ],
+    "十三歳の誕生日、皇后になりました。": [
+      {"name": "AniList", "url_id": "138642"},
+      {"name": "MyAnimeList", "url_id": "145905"}
+    ],
+    "アトランティド": [
+      {"name": "AniList", "url_id": "107182"},
+      {"name": "MyAnimeList", "url_id": "97281"}
+    ],
+    "とんがり帽子のアトリエ": [
+      {"name": "AniList", "url_id": "98263"},
+      {"name": "BOOK☆WALKER", "url_id": "122281"},
+      {"name": "Mangapedia", "url_id": "%E3%81%A8%E3%82%93%E3%81%8C%E3%82%8A%E5%B8%BD%E5%AD%90%E3%81%AE%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8-h226zov47"},
+      {"name": "MyAnimeList", "url_id": "100035"},
+      {"name": "Natively", "url_id": "a97a16a555"}
+    ],
+    "あやしや": [
+      {"name": "AniList", "url_id": "86209"},
+      {"name": "MyAnimeList", "url_id": "87302"}
+    ],
+    "てんぷる": [
+      {"name": "AniList", "url_id": "109122"},
+      {"name": "MyAnimeList", "url_id": "120643"},
+      {"name": "Natively", "url_id": "80211c5845"}
+    ],
+    "味噌汁でカンパイ！": [
+      {"name": "AniList", "url_id": "100099"},
+      {"name": "MyAnimeList", "url_id": "103725"},
+      {"name": "Natively", "url_id": "35d79dfc37"}
+    ],
+    "TOUGH 龍を継ぐ男": [
+      {"name": "AniList", "url_id": "108909"},
+      {"name": "MyAnimeList", "url_id": "104601"}
+    ],
+    "これはきっと恋じゃない": [
+      {"name": "AniList", "url_id": "123414"}
+    ],
+    "ボールルームへようこそ": [
+      {"name": "AniList", "url_id": "78347"},
+      {"name": "BOOK☆WALKER", "url_id": "4462"},
+      {"name": "MyAnimeList", "url_id": "48347"}
+    ],
+    "シュガシュガルーン": [
+      {"name": "AniList", "url_id": "30429"},
+      {"name": "MyAnimeList", "url_id": "429"},
+      {"name": "Natively", "url_id": "17b7195ba9"}
+    ],
+    "TOUGH―タフ―": [
+      {"name": "AniList", "url_id": "33287"},
+      {"name": "MyAnimeList", "url_id": "3287"}
+    ],
+    "ショーハショーテン！": [
+      {"name": "AniList", "url_id": "138816"},
+      {"name": "MyAnimeList", "url_id": "140868"}
+    ],
+    "幽★遊★白書": [
+      {"name": "AniList", "url_id": "30053"},
+      {"name": "MyAnimeList", "url_id": "53"},
+      {"name": "Natively", "url_id": "69646791d0"}
+    ],
+    "アシガール": [
+      {"name": "AniList", "url_id": "93813"},
+      {"name": "MyAnimeList", "url_id": "85967"},
+      {"name": "Natively", "url_id": "3d47b1f294"}
+    ],
+    "クプルムの花嫁": [
+      {"name": "AniList", "url_id": "117675"},
+      {"name": "MyAnimeList", "url_id": "127084"}
+    ],
+    "じい様が行く": [
+      {"name": "AniList", "url_id": "107415"},
+      {"name": "MyAnimeList", "url_id": "119159"}
+    ],
+    "ココにいるよ！": [
+      {"name": "AniList", "url_id": "32923"},
+      {"name": "MyAnimeList", "url_id": "2923"},
+      {"name": "Natively", "url_id": "1cd1881818"}
+    ],
+    "ロクレイ -天成市りんね区役所第六感部助霊課活動記-": [
+      {"name": "AniList", "url_id": "147151"},
+      {"name": "MyAnimeList", "url_id": "154103"},
+      {"name": "Natively", "url_id": "b68e181f8f"}
+    ],
+    "ウルトラマニアック": [
+      {"name": "AniList", "url_id": "30956"},
+      {"name": "MyAnimeList", "url_id": "956"}
+    ],
+    "スミカスミレ": [
+      {"name": "AniList", "url_id": "85627"},
+      {"name": "MyAnimeList", "url_id": "66781"},
+      {"name": "Natively", "url_id": "f2123b7c90"}
+    ],
+    "アイドルマスター シンデレラガールズ U149": [
+      {"name": "AniList", "url_id": "103849"},
+      {"name": "MyAnimeList", "url_id": "106803"},
+      {"name": "Natively", "url_id": "d27ccf1bcb"}
+    ],
+    "BAMBOO BLADE": [
+      {"name": "AniList", "url_id": "30720"},
+      {"name": "Natively", "url_id": "5609452c80"}
+    ],
+    "コミンカビヨリ": [
+      {"name": "AniList", "url_id": "91643"},
+      {"name": "MyAnimeList", "url_id": "72611"},
+      {"name": "Natively", "url_id": "7b9190994c"}
+    ],
+    "ザ・シェフ": [
+      {"name": "AniList", "url_id": "119818"},
+      {"name": "MyAnimeList", "url_id": "43479"}
+    ],
+    "はっぴぃヱンド。": [
+      {"name": "AniList", "url_id": "99915"},
+      {"name": "BOOK☆WALKER", "url_id": "123504"},
+      {"name": "MyAnimeList", "url_id": "106409"}
+    ],
+    "Colori Colore Creare": [
+      {"name": "AniList", "url_id": "145920"},
+      {"name": "MyAnimeList", "url_id": "148685"}
+    ],
+    "夢みる太陽": [
+      {"name": "AniList", "url_id": "39607"},
+      {"name": "MyAnimeList", "url_id": "9607"},
+      {"name": "Natively", "url_id": "da21d5c534"}
+    ],
+    "R.O.D-READ OR DREAM-": [
+      {"name": "AniList", "url_id": "30709"},
+      {"name": "MyAnimeList", "url_id": "709"}
+    ],
+    "だんだらごはん": [
+      {"name": "AniList", "url_id": "112523"},
+      {"name": "MyAnimeList", "url_id": "111219"}
+    ],
+    "オハナホロホロ": [
+      {"name": "AniList", "url_id": "54801"},
+      {"name": "MyAnimeList", "url_id": "24801"}
+    ],
+    "BUNGO―ブンゴ―": [
+      {"name": "AniList", "url_id": "113243"}
+    ],
+    "カンナとでっち": [
+      {"name": "AniList", "url_id": "86752"},
+      {"name": "MyAnimeList", "url_id": "86148"},
+      {"name": "Natively", "url_id": "6b35dc95ec"}
+    ],
+    "花は咲く、修羅の如く": [
+      {"name": "AniList", "url_id": "135827"},
+      {"name": "MyAnimeList", "url_id": "137924"},
+      {"name": "Natively", "url_id": "8928500a35"}
+    ],
+    "魔女先輩日報": [
+      {"name": "AniList", "url_id": "104687"},
+      {"name": "MyAnimeList", "url_id": "116957"}
+    ],
+    "狼陛下の花嫁": [
+      {"name": "AniList", "url_id": "49200"},
+      {"name": "MyAnimeList", "url_id": "19200"}
+    ],
+    "金田一少年の事件簿Ｒ": [
+      {"name": "AniList", "url_id": "158979"}
+    ],
+    "幸色のワンルーム": [
+      {"name": "AniList", "url_id": "100557"},
+      {"name": "MyAnimeList", "url_id": "104829"}
+    ],
+    "ショコラの魔法": [
+      {"name": "AniList", "url_id": "62229"},
+      {"name": "MyAnimeList", "url_id": "32229"},
+      {"name": "Natively", "url_id": "b8a83b5ec8"}
+    ],
+    "恋＊音": [
+      {"name": "AniList", "url_id": "34602"},
+      {"name": "MyAnimeList", "url_id": "4602"}
+    ],
+    "古見さんは、コミュ症です。": [
+      {"name": "AniList", "url_id": "97852"},
+      {"name": "MyAnimeList", "url_id": "99007"},
+      {"name": "Natively", "url_id": "3f647569b5"}
+    ],
+    "ココロのプログラム": [
+      {"name": "AniList", "url_id": "140280"},
+      {"name": "MyAnimeList", "url_id": "141784"}
+    ],
+    "帯をギュッとね！": [
+      {"name": "AniList", "url_id": "141983"}
+    ],
+    "スパイスとカスタード": [
+      {"name": "AniList", "url_id": "100613"},
+      {"name": "MyAnimeList", "url_id": "106578"},
+      {"name": "Natively", "url_id": "489559a7e3"}
+    ],
+    "ゆびさきと恋々": [
+      {"name": "AniList", "url_id": "111189"},
+      {"name": "MyAnimeList", "url_id": "121504"}
+    ],
+    "めだかの学校": [
+      {"name": "AniList", "url_id": "41335"},
+      {"name": "MyAnimeList", "url_id": "11335"}
+    ],
+    "犬夜叉": [
+      {"name": "AniList", "url_id": "78149"},
+      {"name": "MyAnimeList", "url_id": "676"}
+    ],
+    "くちびるから魔法": [
+      {"name": "AniList", "url_id": "39419"}
+    ],
+    "ニコラのおゆるり魔界紀行": [
+      {"name": "AniList", "url_id": "98908"},
+      {"name": "BOOK☆WALKER", "url_id": "146288"},
+      {"name": "MyAnimeList", "url_id": "105399"},
+      {"name": "Natively", "url_id": "4557854aaa"}
+    ],
+    "GOSICK―ゴシック―": [
+      {"name": "AniList", "url_id": "31313"},
+      {"name": "MyAnimeList", "url_id": "6248"}
+    ],
+    "ウィッチウォッチ": [
+      {"name": "AniList", "url_id": "128896"},
+      {"name": "MyAnimeList", "url_id": "133545"}
+    ],
+    "波うららかに、めおと日和": [
+      {"name": "AniList", "url_id": "173120"}
+    ],
+    "GALS!": [
+      {"name": "AniList", "url_id": "30089"},
+      {"name": "MyAnimeList", "url_id": "129427"},
+      {"name": "MyAnimeList", "url_id": "89"},
+      {"name": "Natively", "url_id": "0129e52a5d"}
+    ],
+    "R.O.D": [
+      {"name": "AniList", "url_id": "40869"}
+    ],
+    "アニマル横町": [
+      {"name": "AniList", "url_id": "34096"},
+      {"name": "MyAnimeList", "url_id": "4096"}
+    ],
+    "水曜姉弟": [
+      {"name": "AniList", "url_id": "135396"},
+      {"name": "MyAnimeList", "url_id": "143806"}
+    ],
+    "LES MISERABLES": [
+      {"name": "AniList", "url_id": "87937"}
+    ],
+    "あのこに1000％": [
+      {"name": "AniList", "url_id": "35671"},
+      {"name": "MyAnimeList", "url_id": "5671"}
+    ],
+    "DOKI・DOKI": [
+      {"name": "AniList", "url_id": "97812"}
+    ],
+    "True　Romance": [
+      {"name": "AniList", "url_id": "30765"}
+    ],
+    "Ｄｅｅｐ３": [
+      {"name": "AniList", "url_id": "33101"},
+      {"name": "MyAnimeList", "url_id": "152925"}
+    ],
+    "瞬きより迅く!!": [
+      {"name": "AniList", "url_id": "116820"},
+      {"name": "MyAnimeList", "url_id": "126016"}
+    ],
+    "＋１（プラスワン）": [
+      {"name": "AniList", "url_id": "75339"}
+    ],
+    "ぼんくら陰陽師の鬼嫁": [
+      {"name": "AniList", "url_id": "164705"},
+      {"name": "MyAnimeList", "url_id": "158729"},
+      {"name": "MyAnimeList", "url_id": "158728"}
+    ],
+    "明治メランコリア": [
+      {"name": "AniList", "url_id": "86015"},
+      {"name": "MyAnimeList", "url_id": "78161"}
+    ],
+    "ハナヤマタ": [
+      {"name": "AniList", "url_id": "64977"},
+      {"name": "MyAnimeList", "url_id": "34977"},
+      {"name": "Natively", "url_id": "3a1251c6a6"}
+    ],
+    "春待つ僕ら": [
+      {"name": "AniList", "url_id": "85624"},
+      {"name": "MyAnimeList", "url_id": "72949"},
+      {"name": "Natively", "url_id": "afe94dcc5b"}
+    ],
+    "ゆうれい小僧がやってきた！": [
+      {"name": "AniList", "url_id": "164693"},
+      {"name": "MyAnimeList", "url_id": "147077"}
+    ],
+    "ハンサムな彼女": [
+      {"name": "AniList", "url_id": "30949"},
+      {"name": "MyAnimeList", "url_id": "949"},
+      {"name": "Natively", "url_id": "888b3af73a"}
+    ],
+    "たいようのいえ": [
+      {"name": "AniList", "url_id": "56736"},
+      {"name": "BOOK☆WALKER", "url_id": "5377"},
+      {"name": "Mangapedia", "url_id": "%E3%81%9F%E3%81%84%E3%82%88%E3%81%86%E3%81%AE%E3%81%84%E3%81%88-u1y36eenq"},
+      {"name": "MyAnimeList", "url_id": "26736"},
+      {"name": "Natively", "url_id": "cd500150e7"}
+    ],
+    "キン肉マンII世～オール超人大進撃～": [
+      {"name": "AniList", "url_id": "51608"},
+      {"name": "MyAnimeList", "url_id": "21608"},
+      {"name": "Natively", "url_id": "819c1f513e"}
+    ],
+    "ぴちぴちピッチ　ａｑｕａ": [
+      {"name": "AniList", "url_id": "136317"},
+      {"name": "BOOK☆WALKER", "url_id": "336890"}
+    ],
+    "天空の玉座": [
+      {"name": "AniList", "url_id": "94413"},
+      {"name": "BOOK☆WALKER", "url_id": "12672"},
+      {"name": "MyAnimeList", "url_id": "87616"}
+    ],
+    "ひとりぼっちの○○生活": [
+      {"name": "AniList", "url_id": "117091"},
+      {"name": "MyAnimeList", "url_id": "89467"}
+    ],
+    "江戸前エルフ": [
+      {"name": "AniList", "url_id": "110049"},
+      {"name": "MyAnimeList", "url_id": "125137"}
+    ],
+    "葬送のフリーレン": [
+      {"name": "AniList", "url_id": "118586"},
+      {"name": "BOOK☆WALKER", "url_id": "260459"},
+      {"name": "Mangapedia", "url_id": "%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3-3f5oc9pvn"},
+      {"name": "MyAnimeList", "url_id": "126287"},
+      {"name": "Natively", "url_id": "f3b2a1ce3a"}
+    ],
+    "封神演義": [
+      {"name": "AniList", "url_id": "30922"},
+      {"name": "MyAnimeList", "url_id": "922"},
+      {"name": "Natively", "url_id": "33e9465208"}
+    ],
+    "ＲＡＶＥ": [
+      {"name": "AniList", "url_id": "30362"},
+      {"name": "MyAnimeList", "url_id": "14"}
+    ],
+    "化物語": [
+      {"name": "AniList", "url_id": "44893"},
+      {"name": "MyAnimeList", "url_id": "113010"}
+    ],
+    "まめコーデ": [
+      {"name": "AniList", "url_id": "126442"},
+      {"name": "MyAnimeList", "url_id": "101942"}
+    ],
+    "人形の国": [
+      {"name": "AniList", "url_id": "87205"},
+      {"name": "MyAnimeList", "url_id": "102785"}
+    ],
+    "花野井くんと恋の病": [
+      {"name": "AniList", "url_id": "101700"},
+      {"name": "MyAnimeList", "url_id": "111953"}
+    ],
+    "空母いぶき": [
+      {"name": "AniList", "url_id": "102950"},
+      {"name": "MyAnimeList", "url_id": "93497"}
+    ],
+    "人間嫌いの魔王様は幼女にも容赦しない": [
+      {"name": "AniList", "url_id": "134746"},
+      {"name": "Natively", "url_id": "5f53b91b98"}
+    ],
+    "日に流れて橋に行く": [
+      {"name": "AniList", "url_id": "108831"},
+      {"name": "MyAnimeList", "url_id": "110904"}
+    ],
+    "ソアラと魔物の家": [
+      {"name": "AniList", "url_id": "140675"},
+      {"name": "MyAnimeList", "url_id": "142085"}
+    ],
+    "あこがれたい夢": [
+      {"name": "AniList", "url_id": "48559"},
+      {"name": "MyAnimeList", "url_id": "18559"}
+    ],
+    "ア・リ・サ": [
+      {"name": "AniList", "url_id": "43500"},
+      {"name": "MyAnimeList", "url_id": "13500"}
+    ],
+    "ドーリィ♪カノン": [
+      {"name": "AniList", "url_id": "173375"},
+      {"name": "MyAnimeList", "url_id": "81443"}
+    ],
+    "オイ!!オバさん": [
+      {"name": "AniList", "url_id": "70379"},
+      {"name": "MyAnimeList", "url_id": "40379"},
+      {"name": "Natively", "url_id": "38fdc17af5"}
+    ],
+    "世界で一番早い春": [
+      {"name": "AniList", "url_id": "104551"},
+      {"name": "MyAnimeList", "url_id": "112970"}
+    ],
+    "ちび☆デビ！": [
+      {"name": "AniList", "url_id": "39131"},
+      {"name": "MyAnimeList", "url_id": "9131"},
+      {"name": "Natively", "url_id": "11df839baf"}
+    ],
+    "あざ恋": [
+      {"name": "AniList", "url_id": "155512"},
+      {"name": "MyAnimeList", "url_id": "145379"}
+    ],
+    "SKET DANCE": [
+      {"name": "AniList", "url_id": "50065"},
+      {"name": "BOOK☆WALKER", "url_id": "13006"},
+      {"name": "Mangapedia", "url_id": "SKETDANCE-vz8te86d8"},
+      {"name": "MyAnimeList", "url_id": "1414"},
+      {"name": "Natively", "url_id": "f2de2fc874"}
+    ],
+    "たんぽぽの綿毛": [
+      {"name": "AniList", "url_id": "128166"},
+      {"name": "MyAnimeList", "url_id": "132379"},
+      {"name": "Natively", "url_id": "b93895e45b"}
+    ],
+    "不器用な先輩。": [
+      {"name": "AniList", "url_id": "114437"},
+      {"name": "MyAnimeList", "url_id": "123694"},
+      {"name": "Natively", "url_id": "5ef2cca90e"}
+    ],
+    "スクール×ツクール": [
+      {"name": "AniList", "url_id": "105267"}
+    ],
+    "オフ会したらとんでもないやつが来た話": [
+      {"name": "AniList", "url_id": "145980"},
+      {"name": "MyAnimeList", "url_id": "153425"}
+    ],
+    "キスはないしょに": [
+      {"name": "AniList", "url_id": "34523"},
+      {"name": "MyAnimeList", "url_id": "4523"}
+    ],
+    "G線上のあなたと私": [
+      {"name": "AniList", "url_id": "95932"},
+      {"name": "MyAnimeList", "url_id": "92756"}
+    ],
+    "あやかし緋扇": [
+      {"name": "AniList", "url_id": "55530"},
+      {"name": "MyAnimeList", "url_id": "25530"}
+    ],
+    "エンジェル高校": [
+      {"name": "AniList", "url_id": "115194"},
+      {"name": "MyAnimeList", "url_id": "99080"}
+    ],
+    "ハレルヤオーバードライブ！": [
+      {"name": "AniList", "url_id": "55538"},
+      {"name": "MyAnimeList", "url_id": "25538"},
+      {"name": "Natively", "url_id": "314feed51b"}
+    ],
+    "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王": [
+      {"name": "AniList", "url_id": "119161"},
+      {"name": "MyAnimeList", "url_id": "130612"}
+    ],
+    "かもしか！": [
+      {"name": "AniList", "url_id": "142289"}
+    ],
+    "ホームドラマしか知らない": [
+      {"name": "AniList", "url_id": "122955"},
+      {"name": "MyAnimeList", "url_id": "157278"}
+    ],
+    "あとかたの街": [
+      {"name": "AniList", "url_id": "96383"},
+      {"name": "MyAnimeList", "url_id": "94301"}
+    ],
+    "ハツカレ": [
+      {"name": "AniList", "url_id": "34123"},
+      {"name": "MyAnimeList", "url_id": "4123"}
+    ],
+    "ぴちぴちピッチ": [
+      {"name": "AniList", "url_id": "30423"},
+      {"name": "BOOK☆WALKER", "url_id": "84355"}
+    ],
+    "初恋の世界": [
+      {"name": "AniList", "url_id": "96735"},
+      {"name": "MyAnimeList", "url_id": "95935"},
+      {"name": "Natively", "url_id": "0394ed1989"}
+    ],
+    "あの日見た花の名前を僕達はまだ知らない。": [
+      {"name": "AniList", "url_id": "65733"},
+      {"name": "MyAnimeList", "url_id": "35733"},
+      {"name": "Natively", "url_id": "ccff9b6af6"}
+    ],
+    "マジで付き合う15分前": [
+      {"name": "AniList", "url_id": "116976"},
+      {"name": "BOOK☆WALKER", "url_id": "282566"},
+      {"name": "MyAnimeList", "url_id": "129019"},
+      {"name": "Natively", "url_id": "ef914d27a1"}
+    ],
+    "高校デビュー": [
+      {"name": "AniList", "url_id": "30591"},
+      {"name": "MyAnimeList", "url_id": "591"}
+    ],
+    "たーたん": [
+      {"name": "AniList", "url_id": "151329"},
+      {"name": "Natively", "url_id": "e38b2c9168"}
+    ],
+    "ドラゴンクエスト ダイの大冒険": [
+      {"name": "AniList", "url_id": "30871"}
+    ],
+    "小さい僕の春": [
+      {"name": "AniList", "url_id": "163414"},
+      {"name": "MyAnimeList", "url_id": "157541"}
+    ],
+    "ハコヅメ～交番女子の逆襲～": [
+      {"name": "AniList", "url_id": "114732"},
+      {"name": "MyAnimeList", "url_id": "111356"},
+      {"name": "Natively", "url_id": "894487676e"}
+    ],
+    "リエゾン": [
+      {"name": "AniList", "url_id": "116538"},
+      {"name": "Natively", "url_id": "7e322ccbeb"}
+    ],
+    "咲けよ花咲け！": [
+      {"name": "AniList", "url_id": "140964"},
+      {"name": "MyAnimeList", "url_id": "143870"}
+    ],
+    "カツカレーの日": [
+      {"name": "AniList", "url_id": "96029"},
+      {"name": "MyAnimeList", "url_id": "93128"}
+    ],
+    "シノハユ": [
+      {"name": "AniList", "url_id": "85150"}
+    ],
+    "姉の結婚": [
+      {"name": "AniList", "url_id": "55906"},
+      {"name": "MyAnimeList", "url_id": "25906"}
+    ],
+    "オレ様キングダム": [
+      {"name": "AniList", "url_id": "46583"},
+      {"name": "MyAnimeList", "url_id": "16583"}
+    ],
+    "福家堂本舗": [
+      {"name": "AniList", "url_id": "44268"},
+      {"name": "MyAnimeList", "url_id": "14268"}
+    ],
+    "やくはら。": [
+      {"name": "AniList", "url_id": "133655"}
+    ],
+    "絢爛たるグランドセーヌ": [
+      {"name": "AniList", "url_id": "91070"},
+      {"name": "MyAnimeList", "url_id": "69841"},
+      {"name": "Natively", "url_id": "8134ae66ec"}
+    ],
+    "ハニーレモンソーダ": [
+      {"name": "AniList", "url_id": "96767"},
+      {"name": "MyAnimeList", "url_id": "96145"},
+      {"name": "Natively", "url_id": "7e1889bb87"}
+    ],
+    "ちろり": [
+      {"name": "AniList", "url_id": "98890"},
+      {"name": "MyAnimeList", "url_id": "116485"}
+    ],
+    "BEASTARS": [
+      {"name": "AniList", "url_id": "98587"},
+      {"name": "MyAnimeList", "url_id": "103701"},
+      {"name": "Natively", "url_id": "0b572d3099"}
+    ],
+    "この美術部には問題がある！": [
+      {"name": "AniList", "url_id": "80331"},
+      {"name": "MyAnimeList", "url_id": "50331"}
+    ],
+    "ちびまる子ちゃん": [
+      {"name": "AniList", "url_id": "45530"},
+      {"name": "MyAnimeList", "url_id": "15530"},
+      {"name": "Natively", "url_id": "ed1a4bb4e2"}
+    ],
+    "出会って5秒でバトル": [
+      {"name": "AniList", "url_id": "101437"},
+      {"name": "MyAnimeList", "url_id": "102690"}
+    ],
+    "オオカミ少年　こひつじ少女": [
+      {"name": "AniList", "url_id": "94740"},
+      {"name": "MyAnimeList", "url_id": "88644"}
+    ],
+    "瞳ちゃんは人見知り": [
+      {"name": "AniList", "url_id": "106434"},
+      {"name": "MyAnimeList", "url_id": "117078"},
+      {"name": "Natively", "url_id": "a53145f8db"}
+    ],
+    "小林が可愛すぎてツライっ！！": [
+      {"name": "AniList", "url_id": "73297"},
+      {"name": "MyAnimeList", "url_id": "43297"}
+    ],
+    "ガクサン": [
+      {"name": "AniList", "url_id": "142579"}
+    ],
+    "ビューティーポップ": [
+      {"name": "AniList", "url_id": "30633"},
+      {"name": "MyAnimeList", "url_id": "633"}
+    ],
+    "魔法科高校の劣等生 四葉継承編": [
+      {"name": "AniList", "url_id": "126065"},
+      {"name": "MyAnimeList", "url_id": "135740"}
+    ],
+    "キング様のいちばん星": [
+      {"name": "AniList", "url_id": "137367"},
+      {"name": "MyAnimeList", "url_id": "160277"}
+    ],
+    "Forward！─フォワード！─": [
+      {"name": "AniList", "url_id": "106108"}
+    ],
+    "こわしや我聞": [
+      {"name": "AniList", "url_id": "34369"},
+      {"name": "MyAnimeList", "url_id": "4369"}
+    ],
+    "四月は君の嘘": [
+      {"name": "AniList", "url_id": "67707"},
+      {"name": "MyAnimeList", "url_id": "37707"},
+      {"name": "Natively", "url_id": "c4657d0947"}
+    ],
+    "大正ロマンチカ": [
+      {"name": "AniList", "url_id": "114408"},
+      {"name": "BOOK☆WALKER", "url_id": "452589"},
+      {"name": "MyAnimeList", "url_id": "99294"}
+    ],
+    "黄泉のツガイ": [
+      {"name": "AniList", "url_id": "136899"},
+      {"name": "BOOK☆WALKER", "url_id": "353912"},
+      {"name": "Mangapedia", "url_id": "%E9%BB%84%E6%B3%89%E3%81%AE%E3%83%84%E3%82%AC%E3%82%A4-j64962ooz"},
+      {"name": "MyAnimeList", "url_id": "141772"},
+      {"name": "Natively", "url_id": "2e3cb6213d"}
+    ],
+    "かくかくしかじか": [
+      {"name": "AniList", "url_id": "74307"},
+      {"name": "MyAnimeList", "url_id": "44307"}
+    ],
+    "あかのたち": [
+      {"name": "AniList", "url_id": "149825"},
+      {"name": "BOOK☆WALKER", "url_id": "385627"},
+      {"name": "MyAnimeList", "url_id": "150739"}
+    ],
+    "7SEEDS": [
+      {"name": "AniList", "url_id": "31075"},
+      {"name": "BOOK☆WALKER", "url_id": "128391"},
+      {"name": "MyAnimeList", "url_id": "1075"}
+    ],
+    "恋愛ディストーション": [
+      {"name": "AniList", "url_id": "48474"},
+      {"name": "MyAnimeList", "url_id": "18474"}
+    ],
+    "かみさまのいる景色": [
+      {"name": "AniList", "url_id": "105116"},
+      {"name": "MyAnimeList", "url_id": "115038"}
+    ],
+    "BLEACH": [
+      {"name": "AniList", "url_id": "30012"},
+      {"name": "MyAnimeList", "url_id": "12"},
+      {"name": "Natively", "url_id": "80993d2763"}
+    ],
+    "愛がゆく": [
+      {"name": "AniList", "url_id": "136500"}
+    ],
+    "ねこ、はじめました": [
+      {"name": "AniList", "url_id": "108161"}
+    ],
+    "グッドモーニング・コール": [
+      {"name": "AniList", "url_id": "31242"},
+      {"name": "MyAnimeList", "url_id": "1242"},
+      {"name": "Natively", "url_id": "c8900c2003"}
+    ],
+    "マテリアル・パズル　ゼロクロイツ": [
+      {"name": "AniList", "url_id": "78869"},
+      {"name": "BOOK☆WALKER", "url_id": "159424"},
+      {"name": "MyAnimeList", "url_id": "48869"}
+    ],
+    "そらいろメモリアル": [
+      {"name": "AniList", "url_id": "114267"}
+    ],
+    "海月姫": [
+      {"name": "AniList", "url_id": "47904"},
+      {"name": "MyAnimeList", "url_id": "17904"}
+    ],
+    "国境のエミーリャ": [
+      {"name": "AniList", "url_id": "136417"},
+      {"name": "MyAnimeList", "url_id": "138463"},
+      {"name": "Natively", "url_id": "88ec145172"}
+    ],
+    "瀧鷹之介の散歩時間": [
+      {"name": "AniList", "url_id": "86132"},
+      {"name": "BOOK☆WALKER", "url_id": "68013"},
+      {"name": "MyAnimeList", "url_id": "88168"}
+    ],
+    "夕暮れライト": [
+      {"name": "AniList", "url_id": "86800"},
+      {"name": "MyAnimeList", "url_id": "76821"}
+    ],
+    "おしゃべりなアマデウス": [
+      {"name": "AniList", "url_id": "48568"},
+      {"name": "MyAnimeList", "url_id": "18568"}
+    ],
+    "かぐや様は告らせたい～天才たちの恋愛頭脳戦～": [
+      {"name": "AniList", "url_id": "126245"},
+      {"name": "MyAnimeList", "url_id": "90125"}
+    ],
+    "おとななじみ": [
+      {"name": "AniList", "url_id": "108979"},
+      {"name": "MyAnimeList", "url_id": "121255"}
+    ],
+    "ハチミツにはつこい": [
+      {"name": "AniList", "url_id": "67385"},
+      {"name": "MyAnimeList", "url_id": "37385"},
+      {"name": "Natively", "url_id": "7d77a761fc"}
+    ],
+    "BE BLUES！～青になれ～": [
+      {"name": "AniList", "url_id": "88867"},
+      {"name": "MyAnimeList", "url_id": "59519"}
+    ],
+    "Re：CREATORS": [
+      {"name": "AniList", "url_id": "99260"},
+      {"name": "MyAnimeList", "url_id": "103727"},
+      {"name": "Natively", "url_id": "5ab7a7c1bf"}
+    ],
+    "青のオーケストラ": [
+      {"name": "AniList", "url_id": "101831"},
+      {"name": "MyAnimeList", "url_id": "106937"}
+    ],
+    "愛情物語": [
+      {"name": "AniList", "url_id": "92269"}
+    ],
+    "目黒さんは初めてじゃない": [
+      {"name": "AniList", "url_id": "105004"},
+      {"name": "MyAnimeList", "url_id": "116793"},
+      {"name": "Natively", "url_id": "024e231d3d"}
+    ],
+    "MIXIM☆11": [
+      {"name": "AniList", "url_id": "37265"}
+    ],
+    "アクマでこれは恋じゃない！": [
+      {"name": "AniList", "url_id": "178295"}
+    ],
+    "がんばれ元気": [
+      {"name": "AniList", "url_id": "53774"},
+      {"name": "MyAnimeList", "url_id": "23774"}
+    ],
+    "ぬこづけ！": [
+      {"name": "AniList", "url_id": "75947"},
+      {"name": "MyAnimeList", "url_id": "45947"}
+    ],
+    "好きな子がめがねを忘れた": [
+      {"name": "AniList", "url_id": "105641"},
+      {"name": "MyAnimeList", "url_id": "117332"},
+      {"name": "Natively", "url_id": "16409c30fc"}
+    ],
+    "ラストカルテ　―法獣医学者　当麻健匠の記憶―": [
+      {"name": "AniList", "url_id": "155611"},
+      {"name": "MyAnimeList", "url_id": "143458"},
+      {"name": "Natively", "url_id": "5335961b76"}
+    ],
+    "サラリーマン金太郎": [
+      {"name": "AniList", "url_id": "40611"},
+      {"name": "MyAnimeList", "url_id": "10611"}
+    ],
+    "きまじめ姫と文房具王子": [
+      {"name": "AniList", "url_id": "126374"},
+      {"name": "MyAnimeList", "url_id": "105874"}
+    ],
+    "妖しのセレス": [
+      {"name": "AniList", "url_id": "30083"},
+      {"name": "MyAnimeList", "url_id": "83"}
+    ],
+    "G": [
+      {"name": "AniList", "url_id": "44396"},
+      {"name": "MyAnimeList", "url_id": "97124"},
+      {"name": "MyAnimeList", "url_id": "35475"}
+    ],
+    "クイーンズ・クオリティ": [
+      {"name": "AniList", "url_id": "86284"},
+      {"name": "MyAnimeList", "url_id": "90334"}
+    ],
+    "アド・アストラ　―スキピオとハンニバル―": [
+      {"name": "AniList", "url_id": "59799"},
+      {"name": "MyAnimeList", "url_id": "29799"},
+      {"name": "Natively", "url_id": "c64de51b93"}
+    ],
+    "新サラリーマン金太郎": [
+      {"name": "AniList", "url_id": "97209"},
+      {"name": "MyAnimeList", "url_id": "98400"}
+    ],
+    "売ったれダイキチ！": [
+      {"name": "AniList", "url_id": "50605"},
+      {"name": "MyAnimeList", "url_id": "20605"}
+    ],
+    "スローステップ": [
+      {"name": "AniList", "url_id": "31203"},
+      {"name": "MyAnimeList", "url_id": "1203"}
+    ],
+    "陰陽師・安倍晴明": [
+      {"name": "AniList", "url_id": "138640"},
+      {"name": "MyAnimeList", "url_id": "154096"}
+    ],
+    "玉藻の恋": [
+      {"name": "AniList", "url_id": "117347"},
+      {"name": "MyAnimeList", "url_id": "136546"}
+    ],
+    "高嶺と花": [
+      {"name": "AniList", "url_id": "86734"},
+      {"name": "MyAnimeList", "url_id": "87813"},
+      {"name": "Natively", "url_id": "b45dbdb694"}
+    ],
+    "さすがの猿飛": [
+      {"name": "AniList", "url_id": "43283"},
+      {"name": "MyAnimeList", "url_id": "13283"}
+    ],
+    "エンブリヲン・ロード": [
+      {"name": "AniList", "url_id": "41179"}
+    ],
+    "隣のあたし": [
+      {"name": "AniList", "url_id": "43188"},
+      {"name": "MyAnimeList", "url_id": "13188"}
+    ],
+    "Get Ready?": [
+      {"name": "AniList", "url_id": "110551"}
+    ],
+    "デキる猫は今日も憂鬱": [
+      {"name": "AniList", "url_id": "122117"},
+      {"name": "MyAnimeList", "url_id": "137041"}
+    ],
+    "コウノドリ": [
+      {"name": "AniList", "url_id": "86198"},
+      {"name": "MyAnimeList", "url_id": "75289"}
+    ],
+    "帝乃三姉妹は案外、チョロい。": [
+      {"name": "AniList", "url_id": "143719"},
+      {"name": "MyAnimeList", "url_id": "142649"},
+      {"name": "Natively", "url_id": "84bd2b1176"}
+    ],
+    "ギャラリーフェイク": [
+      {"name": "AniList", "url_id": "47026"},
+      {"name": "MyAnimeList", "url_id": "17026"}
+    ],
+    "壁ドン！": [
+      {"name": "AniList", "url_id": "106074"},
+      {"name": "MyAnimeList", "url_id": "116977"}
+    ],
+    "キャプテン": [
+      {"name": "AniList", "url_id": "91571"},
+      {"name": "MyAnimeList", "url_id": "72269"}
+    ],
+    "ダンス・ダンス・ダンスール": [
+      {"name": "AniList", "url_id": "112905"},
+      {"name": "MyAnimeList", "url_id": "97063"},
+      {"name": "Natively", "url_id": "797223740a"}
+    ],
+    "保安官エヴァンスの嘘": [
+      {"name": "AniList", "url_id": "99365"}
+    ],
+    "姫ヤドリ": [
+      {"name": "AniList", "url_id": "133250"},
+      {"name": "MyAnimeList", "url_id": "109206"}
+    ],
+    "やさしさエンドレス": [
+      {"name": "AniList", "url_id": "91531"},
+      {"name": "MyAnimeList", "url_id": "72033"}
+    ],
+    "とっかぶ": [
+      {"name": "AniList", "url_id": "85301"},
+      {"name": "BOOK☆WALKER", "url_id": "17777"}
+    ],
+    "阿部くんに狙われてます": [
+      {"name": "AniList", "url_id": "114391"},
+      {"name": "MyAnimeList", "url_id": "129044"},
+      {"name": "Natively", "url_id": "b445b31c4a"}
+    ],
+    "マテリアル・パズル～神無き世界の魔法使い～": [
+      {"name": "AniList", "url_id": "126385"},
+      {"name": "BOOK☆WALKER", "url_id": "194461"},
+      {"name": "MyAnimeList", "url_id": "119087"}
+    ],
+    "きょうは会社休みます。": [
+      {"name": "AniList", "url_id": "79341"},
+      {"name": "MyAnimeList", "url_id": "49341"},
+      {"name": "Natively", "url_id": "720d45b74a"}
+    ],
+    "SECRET×SIBLINGS～シークレット×シブリングス～": [
+      {"name": "AniList", "url_id": "91947"},
+      {"name": "MyAnimeList", "url_id": "74161"}
+    ],
+    "ひとひらの恋が降る": [
+      {"name": "AniList", "url_id": "34640"},
+      {"name": "MyAnimeList", "url_id": "4640"}
+    ],
+    "3月のライオン": [
+      {"name": "AniList", "url_id": "31224"},
+      {"name": "BOOK☆WALKER", "url_id": "16608"},
+      {"name": "Mangapedia", "url_id": "3%E6%9C%88%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3-dv3x1454c"},
+      {"name": "MyAnimeList", "url_id": "1224"},
+      {"name": "Natively", "url_id": "d280230999"}
+    ],
+    "いぬばか": [
+      {"name": "AniList", "url_id": "31156"},
+      {"name": "MyAnimeList", "url_id": "1156"}
+    ],
+    "のんのんびより": [
+      {"name": "AniList", "url_id": "134719"},
+      {"name": "MyAnimeList", "url_id": "17552"}
+    ],
+    "夢幻伝説タカマガハラ": [
+      {"name": "AniList", "url_id": "30306"},
+      {"name": "Natively", "url_id": "35b42b4006"}
+    ],
+    "マテリアル・パズル": [
+      {"name": "AniList", "url_id": "34202"},
+      {"name": "MyAnimeList", "url_id": "4202"}
+    ],
+    "猫には猫の猫ごはん。": [
+      {"name": "AniList", "url_id": "163969"},
+      {"name": "Natively", "url_id": "759ea391d9"}
+    ],
+    "ミル・フルール": [
+      {"name": "AniList", "url_id": "44283"},
+      {"name": "MyAnimeList", "url_id": "14283"}
+    ],
+    "兄友": [
+      {"name": "AniList", "url_id": "96698"},
+      {"name": "MyAnimeList", "url_id": "95705"},
+      {"name": "Natively", "url_id": "94a50b07b1"}
+    ],
+    "クッキングパパ": [
+      {"name": "AniList", "url_id": "54841"},
+      {"name": "MyAnimeList", "url_id": "24841"}
+    ],
+    "青のフラッグ": [
+      {"name": "AniList", "url_id": "98334"},
+      {"name": "MyAnimeList", "url_id": "103942"},
+      {"name": "Natively", "url_id": "42f7750832"}
+    ],
+    "ひとりぼっちの地球侵略": [
+      {"name": "AniList", "url_id": "65551"},
+      {"name": "MyAnimeList", "url_id": "35551"}
+    ],
+    "強制ヒーロー": [
+      {"name": "AniList", "url_id": "93147"},
+      {"name": "MyAnimeList", "url_id": "81593"}
+    ],
+    "ママはテンパリスト": [
+      {"name": "AniList", "url_id": "56143"},
+      {"name": "MyAnimeList", "url_id": "26143"}
+    ],
+    "恋のはじまり": [
+      {"name": "AniList", "url_id": "171503"},
+      {"name": "MyAnimeList", "url_id": "138476"},
+      {"name": "Natively", "url_id": "5684ebdade"}
+    ],
+    "まほちゅー！": [
+      {"name": "AniList", "url_id": "54087"},
+      {"name": "MyAnimeList", "url_id": "24087"}
+    ],
+    "艦隊のシェフ": [
+      {"name": "AniList", "url_id": "143164"},
+      {"name": "MyAnimeList", "url_id": "155167"}
+    ],
+    "私がモテてどうすんだ": [
+      {"name": "AniList", "url_id": "84779"},
+      {"name": "MyAnimeList", "url_id": "54779"},
+      {"name": "Natively", "url_id": "2502e2139f"}
+    ],
+    "はたらく細胞フレンド": [
+      {"name": "AniList", "url_id": "107248"},
+      {"name": "MyAnimeList", "url_id": "117606"}
+    ],
+    "父は英雄、母は精霊、娘の私は転生者。": [
+      {"name": "AniList", "url_id": "107980"},
+      {"name": "BOOK☆WALKER", "url_id": "203951"},
+      {"name": "Mangapedia", "url_id": "%E7%88%B6%E3%81%AF%E8%8B%B1%E9%9B%84%E3%80%81%E6%AF%8D%E3%81%AF%E7%B2%BE%E9%9C%8A%E3%80%81%E5%A8%98%E3%81%AE%E7%A7%81%E3%81%AF%E8%BB%A2%E7%94%9F%E8%80%85%E3%80%82-3ph2qsxux"},
+      {"name": "MyAnimeList", "url_id": "119656"}
+    ],
+    "メイドじゃないもん！": [
+      {"name": "AniList", "url_id": "55247"},
+      {"name": "MyAnimeList", "url_id": "25247"}
+    ],
+    "新吼えろペン": [
+      {"name": "AniList", "url_id": "75837"},
+      {"name": "MyAnimeList", "url_id": "45837"}
+    ],
+    "カノジョは嘘を愛しすぎてる": [
+      {"name": "AniList", "url_id": "42418"},
+      {"name": "MyAnimeList", "url_id": "12418"}
+    ],
+    "さばげぶっ！": [
+      {"name": "AniList", "url_id": "66643"},
+      {"name": "MyAnimeList", "url_id": "36643"}
+    ],
+    "スーパーマリオくん": [
+      {"name": "AniList", "url_id": "40314"},
+      {"name": "MyAnimeList", "url_id": "10314"},
+      {"name": "Natively", "url_id": "a58a604b19"}
+    ],
+    "はたらく細菌": [
+      {"name": "AniList", "url_id": "104194"},
+      {"name": "MyAnimeList", "url_id": "109308"}
+    ],
+    "獣神演武": [
+      {"name": "AniList", "url_id": "32033"},
+      {"name": "MyAnimeList", "url_id": "2033"},
+      {"name": "Natively", "url_id": "b7c5d81d2c"}
+    ],
+    "甘神さんちの縁結び": [
+      {"name": "AniList", "url_id": "128160"},
+      {"name": "MyAnimeList", "url_id": "134028"},
+      {"name": "Natively", "url_id": "5f8f8d8e19"}
+    ],
+    "ブラックアリス": [
+      {"name": "AniList", "url_id": "136314"},
+      {"name": "MyAnimeList", "url_id": "140124"}
+    ],
+    "黒": [
+      {"name": "AniList", "url_id": "85277"},
+      {"name": "Natively", "url_id": "2e07038d6f"}
+    ],
+    "プラチナエンド": [
+      {"name": "AniList", "url_id": "86526"},
+      {"name": "MyAnimeList", "url_id": "93180"}
+    ],
+    "清少納言と申します": [
+      {"name": "AniList", "url_id": "132899"},
+      {"name": "MyAnimeList", "url_id": "146940"}
+    ],
+    "KAGETORA": [
+      {"name": "AniList", "url_id": "30410"}
+    ],
+    "シブヤニアファミリー": [
+      {"name": "AniList", "url_id": "140760"},
+      {"name": "MyAnimeList", "url_id": "141443"}
+    ],
+    "渋谷ガーディアンガールズ": [
+      {"name": "AniList", "url_id": "51303"},
+      {"name": "MyAnimeList", "url_id": "21303"}
+    ],
+    "くちびるに歌を": [
+      {"name": "AniList", "url_id": "90930"},
+      {"name": "MyAnimeList", "url_id": "69027"}
+    ],
+    "ぼくらの": [
+      {"name": "AniList", "url_id": "30670"},
+      {"name": "MyAnimeList", "url_id": "670"},
+      {"name": "Natively", "url_id": "efadc1c9da"}
+    ],
+    "ウチの使い魔がすみません": [
+      {"name": "AniList", "url_id": "98994"},
+      {"name": "MyAnimeList", "url_id": "104585"}
+    ],
+    "どく・どく・もり・もり": [
+      {"name": "AniList", "url_id": "163303"},
+      {"name": "MyAnimeList", "url_id": "157554"}
+    ],
+    "初恋アステリズム": [
+      {"name": "AniList", "url_id": "71987"},
+      {"name": "MyAnimeList", "url_id": "41987"}
+    ],
+    "SANDA": [
+      {"name": "AniList", "url_id": "136680"},
+      {"name": "MyAnimeList", "url_id": "138842"}
+    ],
+    "あたりのキッチン！": [
+      {"name": "AniList", "url_id": "99154"},
+      {"name": "MyAnimeList", "url_id": "105959"},
+      {"name": "Natively", "url_id": "d80620f1c9"}
+    ],
+    "はたらかない細胞": [
+      {"name": "AniList", "url_id": "104145"},
+      {"name": "MyAnimeList", "url_id": "115448"}
+    ],
+    "アリサ": [
+      {"name": "AniList", "url_id": "42309"}
+    ],
+    "かくしごと": [
+      {"name": "AniList", "url_id": "97603"},
+      {"name": "MyAnimeList", "url_id": "94169"},
+      {"name": "Natively", "url_id": "0735533d56"}
+    ],
+    "ドラゴンクエスト エデンの戦士たち": [
+      {"name": "AniList", "url_id": "31175"}
+    ],
+    "中禅寺先生物怪講義録　先生が謎を解いてしまうから。": [
+      {"name": "AniList", "url_id": "112558"},
+      {"name": "MyAnimeList", "url_id": "136352"}
+    ],
+    "蟲愛づる姫君の結婚　～後宮はぐれ姫の蠱毒と謎解き婚姻譚～": [
+      {"name": "AniList", "url_id": "153137"}
+    ],
+    "ゲキカワ デビル": [
+      {"name": "AniList", "url_id": "173363"}
+    ],
+    "Dr.コトー診療所": [
+      {"name": "AniList", "url_id": "42086"},
+      {"name": "MyAnimeList", "url_id": "12086"}
+    ],
+    "ギフテッド": [
+      {"name": "AniList", "url_id": "142971"},
+      {"name": "MyAnimeList", "url_id": "156009"},
+      {"name": "Natively", "url_id": "7c549c676a"}
+    ],
+    "ドラゴンクエスト 幻の大地": [
+      {"name": "AniList", "url_id": "46883"}
+    ],
+    "4軍くん（仮）": [
+      {"name": "AniList", "url_id": "153262"},
+      {"name": "BOOK☆WALKER", "url_id": "388487"},
+      {"name": "MyAnimeList", "url_id": "151390"},
+      {"name": "Natively", "url_id": "12a58aa768"}
+    ],
+    "私の正しいお兄ちゃん": [
+      {"name": "AniList", "url_id": "105093"},
+      {"name": "MyAnimeList", "url_id": "116336"},
+      {"name": "Natively", "url_id": "f788c8a157"}
+    ],
+    "この世界は不完全すぎる": [
+      {"name": "AniList", "url_id": "119286"},
+      {"name": "MyAnimeList", "url_id": "130364"},
+      {"name": "Natively", "url_id": "67226b4aff"}
+    ],
+    "メロと恋の魔法": [
+      {"name": "AniList", "url_id": "133180"}
+    ],
+    "きらめきのライオンボーイ": [
+      {"name": "AniList", "url_id": "99577"},
+      {"name": "MyAnimeList", "url_id": "102135"}
+    ],
+    "ねこ色保健室": [
+      {"name": "AniList", "url_id": "77330"},
+      {"name": "MyAnimeList", "url_id": "104134"}
+    ],
+    "高台家の人々": [
+      {"name": "AniList", "url_id": "86955"},
+      {"name": "MyAnimeList", "url_id": "73013"}
+    ],
+    "約束のネバーランド": [
+      {"name": "AniList", "url_id": "87423"},
+      {"name": "BOOK☆WALKER", "url_id": "95158"},
+      {"name": "MyAnimeList", "url_id": "100128"},
+      {"name": "Natively", "url_id": "5bdabacd9a"}
+    ],
+    "ポンコツ風紀委員とスカート丈が不適切なＪＫの話": [
+      {"name": "AniList", "url_id": "108768"},
+      {"name": "MyAnimeList", "url_id": "119260"},
+      {"name": "Natively", "url_id": "65fcc99852"}
+    ],
+    "魔法科高校の劣等生 入学編": [
+      {"name": "AniList", "url_id": "63699"},
+      {"name": "MyAnimeList", "url_id": "33699"}
+    ],
+    "ヒビキのマホウ": [
+      {"name": "AniList", "url_id": "30364"},
+      {"name": "MyAnimeList", "url_id": "364"},
+      {"name": "Natively", "url_id": "ed82c3fee5"}
+    ],
+    "今日からパパは神様です。": [
+      {"name": "AniList", "url_id": "113166"}
+    ],
+    "番犬ハニー": [
+      {"name": "AniList", "url_id": "116828"}
+    ],
+    "Bread&Butter": [
+      {"name": "AniList", "url_id": "91824"},
+      {"name": "MyAnimeList", "url_id": "73457"},
+      {"name": "Natively", "url_id": "6934829321"}
+    ],
+    "君がトクベツ": [
+      {"name": "AniList", "url_id": "108792"},
+      {"name": "MyAnimeList", "url_id": "120694"}
+    ],
+    "魔法科高校の劣等生 九校戦編": [
+      {"name": "AniList", "url_id": "85196"},
+      {"name": "MyAnimeList", "url_id": "60973"}
+    ],
+    "恋をふたさじ": [
+      {"name": "AniList", "url_id": "137195"},
+      {"name": "MyAnimeList", "url_id": "157706"}
+    ],
+    "吼えろペン": [
+      {"name": "AniList", "url_id": "31779"},
+      {"name": "MyAnimeList", "url_id": "1779"}
+    ],
+    "ながたんと青と－いちかの料理帖－": [
+      {"name": "AniList", "url_id": "108907"},
+      {"name": "MyAnimeList", "url_id": "110522"},
+      {"name": "Natively", "url_id": "7a10c79c8d"}
+    ],
+    "嘘の子供": [
+      {"name": "AniList", "url_id": "157893"},
+      {"name": "MyAnimeList", "url_id": "153694"}
+    ],
+    "かがみの孤城": [
+      {"name": "AniList", "url_id": "110009"},
+      {"name": "MyAnimeList", "url_id": "120658"}
+    ],
+    "プラスチック姉さん": [
+      {"name": "AniList", "url_id": "55675"},
+      {"name": "MyAnimeList", "url_id": "25675"}
+    ],
+    "昭和のグラゼニ": [
+      {"name": "AniList", "url_id": "147429"}
+    ],
+    "DEATH NOTE": [
+      {"name": "AniList", "url_id": "30021"},
+      {"name": "MyAnimeList", "url_id": "21"}
+    ],
+    "幸色のワンルーム　外伝　正壊の名探偵": [
+      {"name": "AniList", "url_id": "117899"},
+      {"name": "MyAnimeList", "url_id": "121878"},
+      {"name": "Natively", "url_id": "6c8b966e7b"}
+    ],
+    "ONE PIECE": [
+      {"name": "AniList", "url_id": "30013"},
+      {"name": "MyAnimeList", "url_id": "13"}
+    ],
+    "ひなたのブルー": [
+      {"name": "AniList", "url_id": "109917"},
+      {"name": "MyAnimeList", "url_id": "144436"},
+      {"name": "Natively", "url_id": "63deadfeef"}
+    ],
+    "絶対にときめいてはいけない！": [
+      {"name": "AniList", "url_id": "104002"},
+      {"name": "MyAnimeList", "url_id": "111061"}
+    ],
+    "センセイ君主": [
+      {"name": "AniList", "url_id": "85482"},
+      {"name": "BOOK☆WALKER", "url_id": "13440"},
+      {"name": "Mangapedia", "url_id": "%E3%82%BB%E3%83%B3%E3%82%BB%E3%82%A4%E5%90%9B%E4%B8%BB-juwew7snp"},
+      {"name": "MyAnimeList", "url_id": "56233"}
+    ],
+    "はじめアルゴリズム": [
+      {"name": "AniList", "url_id": "101936"},
+      {"name": "MyAnimeList", "url_id": "111082"}
+    ],
+    "恋するプリン！": [
+      {"name": "AniList", "url_id": "47588"},
+      {"name": "MyAnimeList", "url_id": "17588"}
+    ],
+    "椿町ロンリープラネット": [
+      {"name": "AniList", "url_id": "86243"},
+      {"name": "MyAnimeList", "url_id": "89562"},
+      {"name": "Natively", "url_id": "6301b1e511"}
+    ],
+    "電波教師": [
+      {"name": "AniList", "url_id": "62779"},
+      {"name": "MyAnimeList", "url_id": "32779"}
+    ],
+    "彼方のアストラ": [
+      {"name": "AniList", "url_id": "87442"},
+      {"name": "MyAnimeList", "url_id": "98578"}
+    ],
+    "ダンジョン飯": [
+      {"name": "AniList", "url_id": "86082"},
+      {"name": "BOOK☆WALKER", "url_id": "22301"},
+      {"name": "Mangapedia", "url_id": "%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E9%A3%AF-1y0nctfk7"},
+      {"name": "MyAnimeList", "url_id": "85781"},
+      {"name": "Natively", "url_id": "2bbc075a25"}
+    ],
+    "地獄堂霊界通信": [
+      {"name": "AniList", "url_id": "69233"},
+      {"name": "MyAnimeList", "url_id": "39233"}
+    ],
+    "大人はわかってくれない。": [
+      {"name": "AniList", "url_id": "114251"}
+    ],
+    "LOVE SO LIFE": [
+      {"name": "AniList", "url_id": "44236"},
+      {"name": "MyAnimeList", "url_id": "14236"}
+    ],
+    "ヒストリエ": [
+      {"name": "AniList", "url_id": "32924"}
+    ],
+    "愛しの彼女は隠れオタク": [
+      {"name": "AniList", "url_id": "132872"},
+      {"name": "MyAnimeList", "url_id": "146285"}
+    ],
+    "鋼の錬金術師": [
+      {"name": "AniList", "url_id": "30025"},
+      {"name": "BOOK☆WALKER", "url_id": "1790"},
+      {"name": "Mangapedia", "url_id": "鋼の錬金術師-uninl50t6"},
+      {"name": "MyAnimeList", "url_id": "25"},
+      {"name": "Natively", "url_id": "601a12e0c1"}
+    ],
+    "レオと三日月": [
+      {"name": "AniList", "url_id": "143165"},
+      {"name": "MyAnimeList", "url_id": "148468"}
+    ],
+    "青のミブロ": [
+      {"name": "AniList", "url_id": "138883"},
+      {"name": "MyAnimeList", "url_id": "141087"},
+      {"name": "Natively", "url_id": "8ddb918db3"}
+    ],
+    "魔法科高校の劣等生 横浜騒乱編": [
+      {"name": "AniList", "url_id": "86053"},
+      {"name": "MyAnimeList", "url_id": "60975"}
+    ],
+    "アルオスメンテ": [
+      {"name": "AniList", "url_id": "50157"},
+      {"name": "MyAnimeList", "url_id": "20157"}
+    ],
+    "老後に備えて異世界で８万枚の金貨を貯めます": [
+      {"name": "AniList", "url_id": "101715"},
+      {"name": "MyAnimeList", "url_id": "111466"}
+    ],
+    "月刊少女野崎くん": [
+      {"name": "AniList", "url_id": "101156"},
+      {"name": "MyAnimeList", "url_id": "29211"}
+    ],
+    "ひかえめに言っても、これは愛": [
+      {"name": "AniList", "url_id": "136943"},
+      {"name": "MyAnimeList", "url_id": "139104"}
+    ],
+    "銀牙伝説赤目": [
+      {"name": "AniList", "url_id": "93055"}
+    ],
+    "転スラ日記　転生したらスライムだった件": [
+      {"name": "AniList", "url_id": "163660"},
+      {"name": "MyAnimeList", "url_id": "117179"},
+      {"name": "Natively", "url_id": "649c927d0d"}
+    ],
+    "銀牙伝説ノア": [
+      {"name": "AniList", "url_id": "128188"},
+      {"name": "MyAnimeList", "url_id": "121238"}
+    ],
+    "狼に鈴": [
+      {"name": "AniList", "url_id": "151558"}
+    ],
+    "うちの師匠はしっぽがない": [
+      {"name": "AniList", "url_id": "107013"},
+      {"name": "MyAnimeList", "url_id": "117988"}
+    ],
+    "君ノ声": [
+      {"name": "AniList", "url_id": "128192"},
+      {"name": "MyAnimeList", "url_id": "131242"}
+    ],
+    "マリーグレイブ": [
+      {"name": "AniList", "url_id": "101060"},
+      {"name": "MyAnimeList", "url_id": "110967"},
+      {"name": "Natively", "url_id": "b0f49fe1fd"}
+    ],
+    "アニコン": [
+      {"name": "AniList", "url_id": "34095"},
+      {"name": "MyAnimeList", "url_id": "4095"}
+    ],
+    "アシさん": [
+      {"name": "AniList", "url_id": "79125"},
+      {"name": "MyAnimeList", "url_id": "49125"},
+      {"name": "Natively", "url_id": "71889fdb04"}
+    ],
+    "寄生獣": [
+      {"name": "AniList", "url_id": "30401"},
+      {"name": "MyAnimeList", "url_id": "401"},
+      {"name": "Natively", "url_id": "1d5d334541"}
+    ],
+    "ニワトリ・ファイター": [
+      {"name": "AniList", "url_id": "127554"},
+      {"name": "MyAnimeList", "url_id": "132169"},
+      {"name": "Natively", "url_id": "22698554be"}
+    ],
+    "キミのとなりで青春中。": [
+      {"name": "AniList", "url_id": "42525"},
+      {"name": "MyAnimeList", "url_id": "12525"}
+    ],
+    "まひるの流れ星": [
+      {"name": "AniList", "url_id": "55248"},
+      {"name": "MyAnimeList", "url_id": "25248"},
+      {"name": "Natively", "url_id": "60cffb9b3d"}
+    ],
+    "野球で戦争する異世界で超高校級エースが弱小国家を救うようです。": [
+      {"name": "AniList", "url_id": "128557"},
+      {"name": "MyAnimeList", "url_id": "132636"}
+    ],
+    "魔界の主役は我々だ！": [
+      {"name": "AniList", "url_id": "111607"},
+      {"name": "MyAnimeList", "url_id": "127196"},
+      {"name": "Natively", "url_id": "734f6fe510"}
+    ],
+    "アルペンローゼ": [
+      {"name": "AniList", "url_id": "37133"},
+      {"name": "MyAnimeList", "url_id": "7133"}
+    ],
+    "からかい上手の（元）高木さん": [
+      {"name": "AniList", "url_id": "99549"},
+      {"name": "MyAnimeList", "url_id": "108187"},
+      {"name": "Natively", "url_id": "0e39aba899"}
+    ],
+    "ホリミヤ": [
+      {"name": "AniList", "url_id": "72451"},
+      {"name": "BOOK☆WALKER", "url_id": "5101"},
+      {"name": "Mangapedia", "url_id": "%E3%83%9B%E3%83%AA%E3%83%9F%E3%83%A4-lc46bjebv"},
+      {"name": "MyAnimeList", "url_id": "42451"},
+      {"name": "Natively", "url_id": "6435217243"}
+    ],
+    "ブルーロック": [
+      {"name": "AniList", "url_id": "106130"},
+      {"name": "MyAnimeList", "url_id": "114745"}
+    ],
+    "勇者名探偵": [
+      {"name": "AniList", "url_id": "114228"},
+      {"name": "MyAnimeList", "url_id": "124028"}
+    ],
+    "ドラゴンボール超": [
+      {"name": "AniList", "url_id": "86508"}
+    ],
+    "遊☆戯☆王": [
+      {"name": "AniList", "url_id": "94558"},
+      {"name": "MyAnimeList", "url_id": "54"},
+      {"name": "Natively", "url_id": "7764f320b4"}
+    ],
+    "兄が妹で妹が兄で。": [
+      {"name": "AniList", "url_id": "69987"},
+      {"name": "MyAnimeList", "url_id": "39987"}
+    ],
+    "ハツ＊ハル": [
+      {"name": "AniList", "url_id": "85353"},
+      {"name": "MyAnimeList", "url_id": "66263"}
+    ],
+    "生まれ変わってもまた、私と結婚してくれますか": [
+      {"name": "AniList", "url_id": "108251"},
+      {"name": "MyAnimeList", "url_id": "114043"}
+    ],
+    "バクマン。": [
+      {"name": "AniList", "url_id": "39711"},
+      {"name": "Natively", "url_id": "e5464080e5"}
+    ],
+    "Real Clothes": [
+      {"name": "AniList", "url_id": "44700"},
+      {"name": "MyAnimeList", "url_id": "14700"}
+    ],
+    "魔法先生ネギま！": [
+      {"name": "AniList", "url_id": "30015"},
+      {"name": "MyAnimeList", "url_id": "15"}
+    ],
+    "アサシンズプライド": [
+      {"name": "AniList", "url_id": "99350"},
+      {"name": "MyAnimeList", "url_id": "105405"}
+    ],
+    "アート・ルーマー": [
+      {"name": "AniList", "url_id": "105895"}
+    ],
+    "うる星やつら": [
+      {"name": "AniList", "url_id": "30304"},
+      {"name": "MyAnimeList", "url_id": "304"}
+    ],
+    "魔王様に召喚されたけど言葉が通じない。": [
+      {"name": "AniList", "url_id": "115735"},
+      {"name": "MyAnimeList", "url_id": "124543"},
+      {"name": "Natively", "url_id": "3cb6300d2e"}
+    ],
+    "逃げ上手の若君": [
+      {"name": "AniList", "url_id": "128666"},
+      {"name": "MyAnimeList", "url_id": "132845"}
+    ],
+    "ブラザー・トラップ": [
+      {"name": "AniList", "url_id": "138599"},
+      {"name": "MyAnimeList", "url_id": "124304"}
+    ],
+    "名探偵コナン 犯人の犯沢さん": [
+      {"name": "AniList", "url_id": "106015"},
+      {"name": "MyAnimeList", "url_id": "112744"}
+    ],
+    "妹の友達が何考えてるのかわからない": [
+      {"name": "AniList", "url_id": "118084"},
+      {"name": "MyAnimeList", "url_id": "129566"}
+    ],
+    "BINGO!": [
+      {"name": "AniList", "url_id": "42128"},
+      {"name": "Natively", "url_id": "81b08835bf"}
+    ],
+    "銀の針": [
+      {"name": "AniList", "url_id": "71591"},
+      {"name": "Natively", "url_id": "f3b1443164"}
+    ],
+    "荒ぶる季節の乙女どもよ。": [
+      {"name": "AniList", "url_id": "101719"},
+      {"name": "MyAnimeList", "url_id": "102564"},
+      {"name": "Natively", "url_id": "0e103d6fbf"}
+    ],
+    "ふしぎ遊戯　玄武開伝": [
+      {"name": "AniList", "url_id": "30929"},
+      {"name": "MyAnimeList", "url_id": "929"}
+    ],
+    "潔く柔く": [
+      {"name": "AniList", "url_id": "41016"},
+      {"name": "MyAnimeList", "url_id": "11016"},
+      {"name": "Natively", "url_id": "fd662b1d36"}
+    ],
+    "恋々こい": [
+      {"name": "AniList", "url_id": "140672"},
+      {"name": "MyAnimeList", "url_id": "150746"},
+      {"name": "Natively", "url_id": "3359a19152"}
+    ],
+    "ふしぎ遊戯": [
+      {"name": "AniList", "url_id": "30084"},
+      {"name": "MyAnimeList", "url_id": "84"}
+    ],
+    "将国のアルタイル": [
+      {"name": "AniList", "url_id": "31605"},
+      {"name": "MyAnimeList", "url_id": "1605"}
+    ],
+    "末永くよろしくお願いします": [
+      {"name": "AniList", "url_id": "113447"},
+      {"name": "MyAnimeList", "url_id": "129944"}
+    ],
+    "赤いペガサス": [
+      {"name": "AniList", "url_id": "58491"},
+      {"name": "MyAnimeList", "url_id": "28491"}
+    ],
+    "あかね噺": [
+      {"name": "AniList", "url_id": "144866"},
+      {"name": "MyAnimeList", "url_id": "144034"},
+      {"name": "Natively", "url_id": "719b10b3c5"}
+    ],
+    "アホガール": [
+      {"name": "AniList", "url_id": "77102"},
+      {"name": "MyAnimeList", "url_id": "47102"},
+      {"name": "Natively", "url_id": "7455c1642b"}
+    ],
+    "青夏　Ａｏ－Ｎａｔｓｕ": [
+      {"name": "AniList", "url_id": "88931"},
+      {"name": "MyAnimeList", "url_id": "59897"}
+    ],
+    "はたらく血小板ちゃん": [
+      {"name": "AniList", "url_id": "112394"},
+      {"name": "MyAnimeList", "url_id": "122148"},
+      {"name": "Natively", "url_id": "4dc856affe"}
+    ],
+    "グラゼニ～大リーグ編～": [
+      {"name": "AniList", "url_id": "147428"}
+    ],
+    "兄の嫁と暮らしています。": [
+      {"name": "AniList", "url_id": "97708"},
+      {"name": "BOOK☆WALKER", "url_id": "76552"},
+      {"name": "Mangapedia", "url_id": "%E5%85%84%E3%81%AE%E5%AB%81%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82-nafjmwrgm"},
+      {"name": "MyAnimeList", "url_id": "94342"},
+      {"name": "Natively", "url_id": "3db26aed7d"}
+    ],
+    "風を抜け！": [
+      {"name": "AniList", "url_id": "137917"},
+      {"name": "MyAnimeList", "url_id": "142885"}
+    ],
+    "クジラの子らは砂上に歌う": [
+      {"name": "AniList", "url_id": "86742"},
+      {"name": "MyAnimeList", "url_id": "69007"}
+    ],
+    "伯爵令嬢": [
+      {"name": "AniList", "url_id": "49776"},
+      {"name": "MyAnimeList", "url_id": "19776"}
+    ],
+    "ベルゼブブ嬢のお気に召すまま。": [
+      {"name": "AniList", "url_id": "95435"},
+      {"name": "MyAnimeList", "url_id": "91136"},
+      {"name": "Natively", "url_id": "52e7f433e7"}
+    ],
+    "ないしょのつぼみ": [
+      {"name": "AniList", "url_id": "31122"},
+      {"name": "MyAnimeList", "url_id": "1122"}
+    ],
+    "砂の城": [
+      {"name": "AniList", "url_id": "40780"},
+      {"name": "MyAnimeList", "url_id": "10780"}
+    ],
+    "今日も王子が尊いです。": [
+      {"name": "AniList", "url_id": "152854"},
+      {"name": "MyAnimeList", "url_id": "148126"}
+    ],
+    "それが声優！": [
+      {"name": "AniList", "url_id": "63143"},
+      {"name": "MyAnimeList", "url_id": "33143"}
+    ],
+    "アオハライド": [
+      {"name": "AniList", "url_id": "54294"}
+    ],
+    "今、恋をしています。": [
+      {"name": "AniList", "url_id": "113245"},
+      {"name": "MyAnimeList", "url_id": "126371"},
+      {"name": "Natively", "url_id": "7fe5821be2"}
+    ],
+    "あずみ": [
+      {"name": "AniList", "url_id": "37842"},
+      {"name": "MyAnimeList", "url_id": "7842"}
+    ],
+    "花火は醒めない夢をみる": [
+      {"name": "AniList", "url_id": "155217"},
+      {"name": "MyAnimeList", "url_id": "151245"}
+    ],
+    "雛鳥のワルツ": [
+      {"name": "AniList", "url_id": "99687"},
+      {"name": "MyAnimeList", "url_id": "87306"},
+      {"name": "Natively", "url_id": "7b2da5bec3"}
+    ],
+    "転生大聖女の異世界のんびり紀行": [
+      {"name": "AniList", "url_id": "153911"},
+      {"name": "Natively", "url_id": "dbece09574"}
+    ],
+    "正義警官　モンジュ": [
+      {"name": "AniList", "url_id": "40272"}
+    ],
+    "流れ星レンズ": [
+      {"name": "AniList", "url_id": "54877"},
+      {"name": "MyAnimeList", "url_id": "24877"}
+    ],
+    "後宮香妃物語": [
+      {"name": "AniList", "url_id": "128377"}
+    ],
+    "どうせ泣くなら恋がいい": [
+      {"name": "AniList", "url_id": "158384"},
+      {"name": "MyAnimeList", "url_id": "154015"},
+      {"name": "Natively", "url_id": "b5fc3ba797"}
+    ],
+    "天狗の台所": [
+      {"name": "AniList", "url_id": "155150"},
+      {"name": "MyAnimeList", "url_id": "152139"}
+    ],
+    "ワンルーム、日当たり普通、天使つき。": [
+      {"name": "AniList", "url_id": "122850"},
+      {"name": "MyAnimeList", "url_id": "129045"},
+      {"name": "Natively", "url_id": "95b36f9c8d"}
+    ],
+    "絶叫学級 転生": [
+      {"name": "AniList", "url_id": "97103"},
+      {"name": "MyAnimeList", "url_id": "97878"}
+    ],
+    "ＭＡＲ": [
+      {"name": "AniList", "url_id": "67259"},
+      {"name": "Natively", "url_id": "92519e0ac3"}
+    ],
+    "プライド": [
+      {"name": "AniList", "url_id": "34243"},
+      {"name": "MyAnimeList", "url_id": "4243"}
+    ],
+    "魔女のやさしい葬列": [
+      {"name": "AniList", "url_id": "108255"}
+    ],
+    "絶叫学級": [
+      {"name": "AniList", "url_id": "91155"},
+      {"name": "MyAnimeList", "url_id": "17154"},
+      {"name": "Natively", "url_id": "dce13f9579"}
+    ],
+    "璋子様のお気に召すまま": [
+      {"name": "AniList", "url_id": "152991"},
+      {"name": "BOOK☆WALKER", "url_id": "349399"}
+    ],
+    "最強！あおい坂高校野球部": [
+      {"name": "AniList", "url_id": "48666"},
+      {"name": "MyAnimeList", "url_id": "18666"}
+    ],
+    "あの山越えて": [
+      {"name": "AniList", "url_id": "144219"}
+    ],
+    "翡翠峡奇譚": [
+      {"name": "AniList", "url_id": "49166"}
+    ],
+    "錬金術無人島サヴァイブ": [
+      {"name": "AniList", "url_id": "132106"},
+      {"name": "MyAnimeList", "url_id": "140181"}
+    ],
+    "猫暮らしのゲーマーさん": [
+      {"name": "AniList", "url_id": "111304"},
+      {"name": "MyAnimeList", "url_id": "121866"}
+    ],
+    "魔女らば魔女れば": [
+      {"name": "AniList", "url_id": "124491"},
+      {"name": "MyAnimeList", "url_id": "134672"},
+      {"name": "Natively", "url_id": "bb6d2d8cbf"}
+    ],
+    "ねこ・ねこ・幻想曲": [
+      {"name": "AniList", "url_id": "95236"}
+    ],
+    "幻狼潜戦": [
+      {"name": "AniList", "url_id": "168714"},
+      {"name": "MyAnimeList", "url_id": "158770"}
+    ],
+    "蒼穹のアリアドネ": [
+      {"name": "AniList", "url_id": "100832"},
+      {"name": "MyAnimeList", "url_id": "111033"}
+    ],
+    "マズ飯エルフと遊牧暮らし": [
+      {"name": "AniList", "url_id": "110654"},
+      {"name": "MyAnimeList", "url_id": "117660"}
+    ],
+    "風のたてがみ": [
+      {"name": "AniList", "url_id": "143644"},
+      {"name": "Natively", "url_id": "d9acc15c12"}
+    ],
+    "グラゼニ～夏之介の青春～": [
+      {"name": "AniList", "url_id": "116523"}
+    ],
+    "神無月紫子の優雅な暇潰し": [
+      {"name": "AniList", "url_id": "120571"}
+    ],
+    "グラゼニ": [
+      {"name": "AniList", "url_id": "69757"},
+      {"name": "MyAnimeList", "url_id": "39757"}
+    ],
+    "9番目のムサシ レッドスクランブル": [
+      {"name": "AniList", "url_id": "109702"},
+      {"name": "BOOK☆WALKER", "url_id": "9405"},
+      {"name": "MyAnimeList", "url_id": "82819"}
+    ],
+    "あの人は昨日と同じ空を見上げてる": [
+      {"name": "AniList", "url_id": "111505"},
+      {"name": "MyAnimeList", "url_id": "147253"}
+    ],
+    "いのちの器": [
+      {"name": "AniList", "url_id": "108252"},
+      {"name": "MyAnimeList", "url_id": "155554"}
+    ],
+    "ハコイリのムスメ": [
+      {"name": "AniList", "url_id": "99990"},
+      {"name": "MyAnimeList", "url_id": "90262"}
+    ],
+    "猫神やおよろず": [
+      {"name": "AniList", "url_id": "40617"},
+      {"name": "MyAnimeList", "url_id": "10617"}
+    ],
+    "菌と鉄": [
+      {"name": "AniList", "url_id": "130973"},
+      {"name": "MyAnimeList", "url_id": "134585"},
+      {"name": "Natively", "url_id": "80e081a2be"}
+    ],
+    "ノラガミ": [
+      {"name": "AniList", "url_id": "54692"},
+      {"name": "MyAnimeList", "url_id": "24692"},
+      {"name": "Natively", "url_id": "7581e80f61"}
+    ],
+    "愛してるゲームを終わらせたい": [
+      {"name": "AniList", "url_id": "143031"},
+      {"name": "MyAnimeList", "url_id": "143031"},
+      {"name": "Natively", "url_id": "6d923d3d5a"}
+    ],
+    "ショパンの事件譜": [
+      {"name": "AniList", "url_id": "136006"},
+      {"name": "MyAnimeList", "url_id": "120701"}
+    ],
+    "胸が鳴るのは君のせい": [
+      {"name": "AniList", "url_id": "85625"},
+      {"name": "MyAnimeList", "url_id": "57961"}
+    ],
+    "わたしはあなたの犬になる": [
+      {"name": "AniList", "url_id": "164988"},
+      {"name": "MyAnimeList", "url_id": "105091"},
+      {"name": "Natively", "url_id": "c034c2fed6"}
+    ],
+    "星空のカラス": [
+      {"name": "AniList", "url_id": "76556"},
+      {"name": "MyAnimeList", "url_id": "46556"}
+    ],
+    "たいへんよくできました。": [
+      {"name": "AniList", "url_id": "102535"},
+      {"name": "MyAnimeList", "url_id": "79471"},
+      {"name": "MyAnimeList", "url_id": "18852"}
+    ],
+    "夢喰いメリー": [
+      {"name": "AniList", "url_id": "44065"},
+      {"name": "MyAnimeList", "url_id": "14065"},
+      {"name": "Natively", "url_id": "932d8fd6c8"}
+    ],
+    "恋愛代行": [
+      {"name": "AniList", "url_id": "163754"},
+      {"name": "MyAnimeList", "url_id": "157874"},
+      {"name": "Natively", "url_id": "fa37da8894"}
+    ],
+    "バーテンダー à Paris": [
+      {"name": "AniList", "url_id": "113678"},
+      {"name": "MyAnimeList", "url_id": "118340"}
+    ],
+    "はねバド！": [
+      {"name": "AniList", "url_id": "86875"},
+      {"name": "MyAnimeList", "url_id": "77989"},
+      {"name": "Natively", "url_id": "8b2e227b12"}
+    ],
+    "サクラ、サク。": [
+      {"name": "AniList", "url_id": "128427"},
+      {"name": "MyAnimeList", "url_id": "134569"},
+      {"name": "Natively", "url_id": "47b58ab598"}
+    ],
+    "スキップ・ビート！": [
+      {"name": "AniList", "url_id": "30610"},
+      {"name": "MyAnimeList", "url_id": "610"}
+    ],
+    "かめばかむほど甘くなる": [
+      {"name": "AniList", "url_id": "112812"},
+      {"name": "MyAnimeList", "url_id": "129831"}
+    ],
+    "あのなつ。": [
+      {"name": "AniList", "url_id": "103289"},
+      {"name": "MyAnimeList", "url_id": "98102"}
+    ],
+    "八月のシンデレラナインS": [
+      {"name": "AniList", "url_id": "138086"},
+      {"name": "MyAnimeList", "url_id": "140246"}
+    ],
+    "嘘よみと偽飾の王女": [
+      {"name": "AniList", "url_id": "119575"},
+      {"name": "MyAnimeList", "url_id": "147815"}
+    ],
+    "のりりん": [
+      {"name": "AniList", "url_id": "48801"},
+      {"name": "MyAnimeList", "url_id": "18801"}
+    ],
+    "柚木さんちの四兄弟。": [
+      {"name": "AniList", "url_id": "105922"},
+      {"name": "MyAnimeList", "url_id": "115475"},
+      {"name": "Natively", "url_id": "eff6edc82b"}
+    ],
+    "はたらく細胞": [
+      {"name": "AniList", "url_id": "86778"},
+      {"name": "MyAnimeList", "url_id": "91641"},
+      {"name": "Natively", "url_id": "11e83428b8"}
+    ],
+    "神様ドォルズ": [
+      {"name": "AniList", "url_id": "41118"},
+      {"name": "MyAnimeList", "url_id": "11118"}
+    ],
+    "ReReハロ": [
+      {"name": "AniList", "url_id": "79537"},
+      {"name": "MyAnimeList", "url_id": "49537"}
+    ],
+    "ベイビーステップ": [
+      {"name": "AniList", "url_id": "38300"},
+      {"name": "MyAnimeList", "url_id": "8300"},
+      {"name": "Natively", "url_id": "8b28545b12"}
+    ],
+    "キングダム": [
+      {"name": "AniList", "url_id": "46765"},
+      {"name": "MyAnimeList", "url_id": "16765"}
+    ],
+    "Papa told me": [
+      {"name": "AniList", "url_id": "46032"},
+      {"name": "Natively", "url_id": "c0439d6ebb"}
+    ],
+    "八雲さんは餌づけがしたい。": [
+      {"name": "AniList", "url_id": "98140"},
+      {"name": "MyAnimeList", "url_id": "102601"}
+    ],
+    "バーテンダー à Tokyo": [
+      {"name": "AniList", "url_id": "113679"},
+      {"name": "MyAnimeList", "url_id": "118341"}
+    ],
+    "あひるの空": [
+      {"name": "AniList", "url_id": "33367"},
+      {"name": "MyAnimeList", "url_id": "3367"},
+      {"name": "Natively", "url_id": "18340f8667"}
+    ],
+    "東京タラレバ娘": [
+      {"name": "AniList", "url_id": "91301"},
+      {"name": "MyAnimeList", "url_id": "70983"}
+    ],
+    "青空エール": [
+      {"name": "AniList", "url_id": "40868"},
+      {"name": "MyAnimeList", "url_id": "10868"}
+    ],
+    "ベルサイユのばら": [
+      {"name": "AniList", "url_id": "30660"},
+      {"name": "MyAnimeList", "url_id": "660"},
+      {"name": "Natively", "url_id": "0ae6fee101"}
+    ],
+    "月読くんの禁断お夜食": [
+      {"name": "AniList", "url_id": "150266"},
+      {"name": "MyAnimeList", "url_id": "154553"},
+      {"name": "Natively", "url_id": "a452720ae2"}
+    ],
+    "王家の紋章": [
+      {"name": "AniList", "url_id": "35284"},
+      {"name": "MyAnimeList", "url_id": "5284"},
+      {"name": "Natively", "url_id": "6ad3609cb3"}
+    ],
+    "魔法陣グルグル２": [
+      {"name": "AniList", "url_id": "90833"},
+      {"name": "MyAnimeList", "url_id": "68349"}
+    ],
+    "地縛少年 花子くん": [
+      {"name": "AniList", "url_id": "121819"},
+      {"name": "MyAnimeList", "url_id": "105084"}
+    ],
+    "バーテンダー6stp": [
+      {"name": "AniList", "url_id": "113694"},
+      {"name": "MyAnimeList", "url_id": "118343"}
+    ],
+    "12歳。": [
+      {"name": "AniList", "url_id": "85338"},
+      {"name": "BOOK☆WALKER", "url_id": "124839"},
+      {"name": "MyAnimeList", "url_id": "63183"}
+    ],
+    "公爵家の料理番様　～３００年生きる小さな料理人～": [
+      {"name": "BOOK☆WALKER", "url_id": "398295"}
+    ],
+    "1⁄3　さんぶんのいち": [
+      {"name": "BOOK☆WALKER", "url_id": "126189"},
+      {"name": "MyAnimeList", "url_id": "111196"}
+    ],
+    "57人の遺産相続人": [
+      {"name": "BOOK☆WALKER", "url_id": "355740"}
+    ],
+    "ONE PIECE モンキー・D・ルフィ": [
+      {"name": "BOOK☆WALKER", "url_id": "486626"}
+    ],
+    "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う": [
+      {"name": "BOOK☆WALKER", "url_id": "207296"},
+      {"name": "MyAnimeList", "url_id": "126103"}
+    ],
+    "カイと怪獣のタネ": [
+      {"name": "MyAnimeList", "url_id": "116390"}
+    ],
+    "ＦＡＩＲＹ　ＴＡＩＬ　１００　ＹＥＡＲＳ　ＱＵＥＳＴ": [
+      {"name": "MyAnimeList", "url_id": "114701"}
+    ],
+    "ＢＬＡＣＫ　ＬＡＧＯＯＮ　エダ　イニシャルステージ": [
+      {"name": "MyAnimeList", "url_id": "151652"}
+    ],
+    "光とともに…～自閉症児を抱えて～": [
+      {"name": "MyAnimeList", "url_id": "4258"}
+    ],
+    "ＤＥＡＲ　ＢＯＹＳ": [
+      {"name": "MyAnimeList", "url_id": "1294"}
+    ],
+    "ＤＥＡＲ　ＢＯＹＳ　ＡＣＴ４": [
+      {"name": "MyAnimeList", "url_id": "118976"},
+      {"name": "Natively", "url_id": "70686c66d2"}
+    ],
+    "鉄拳チンミＬｅｇｅｎｄｓ": [
+      {"name": "MyAnimeList", "url_id": "8113"}
+    ],
+    "ＳＨＡＭＡＮ　ＫＩＮＧ　＆ａ　ｇａｒｄｅｎ": [
+      {"name": "MyAnimeList", "url_id": "132526"}
+    ],
+    "はたらく細胞ＷＨＩＴＥ": [
+      {"name": "MyAnimeList", "url_id": "132916"}
+    ],
+    "ＳＨＡＭＡＮ　ＫＩＮＧ　ＴＨＥ　ＳＵＰＥＲ　ＳＴＡＲ": [
+      {"name": "MyAnimeList", "url_id": "114353"}
+    ],
+    "魔法史に載らない偉人　～無益な研究だと魔法省を解雇されたため、新魔法の権利は独占だった～": [
+      {"name": "MyAnimeList", "url_id": "148638"}
+    ],
+    "Papa told me Cocohana ver.": [
+      {"name": "MyAnimeList", "url_id": "72813"}
+    ],
+    "ＤＡＹＳ": [
+      {"name": "MyAnimeList", "url_id": "61009"},
+      {"name": "Natively", "url_id": "e6fed41b73"}
+    ],
+    "ＫＡＴＳＵ！": [
+      {"name": "MyAnimeList", "url_id": "1185"}
+    ],
+    "小光先生の次回作にご期待ください。": [
+      {"name": "MyAnimeList", "url_id": "128084"}
+    ],
+    "セーブ＆ロードのできる宿屋さん ～カンスト転生者が宿屋で新人育成を始めたようです～": [
+      {"name": "MyAnimeList", "url_id": "124904"}
+    ],
+    "ＤＥＡＲ　ＢＯＹＳ　ＡＣＴ II": [
+      {"name": "MyAnimeList", "url_id": "6827"}
+    ],
+    "ＳＵＰＥＲＭＡＮ　ｖｓ飯　スーパーマンのひとり飯": [
+      {"name": "MyAnimeList", "url_id": "149242"},
+      {"name": "Natively", "url_id": "ce60b301bf"}
+    ],
+    "銀の匙 Silver Spoon": [
+      {"name": "MyAnimeList", "url_id": "25096"}
+    ],
+    "はたらく細胞ＬＡＤＹ": [
+      {"name": "MyAnimeList", "url_id": "132915"}
+    ],
+    "プリプリちぃちゃん！！": [
+      {"name": "MyAnimeList", "url_id": "90269"}
+    ],
+    "JIN―仁―": [
+      {"name": "MyAnimeList", "url_id": "11493"},
+      {"name": "Natively", "url_id": "7cc3869d3f"}
+    ],
+    "はたらく細胞ＢＬＡＣＫ": [
+      {"name": "MyAnimeList", "url_id": "114638"}
+    ],
+    "カミサマ×おれさま×旦那様！？": [
+      {"name": "MyAnimeList", "url_id": "59147"}
+    ],
+    "銀牙～THE LAST WARS～": [
+      {"name": "MyAnimeList", "url_id": "92931"}
+    ],
+    "暁のＡＲＩＡ": [
+      {"name": "MyAnimeList", "url_id": "7530"}
+    ],
+    "はたらく細胞ＢＡＢＹ": [
+      {"name": "MyAnimeList", "url_id": "122285"}
+    ],
+    "ＤＥＡＤ　ＲＯＣＫ": [
+      {"name": "MyAnimeList", "url_id": "159490"},
+      {"name": "Natively", "url_id": "3570601861"}
+    ],
+    "ネコ先輩さすがです！": [
+      {"name": "MyAnimeList", "url_id": "113805"}
+    ],
+    "Ｓｐｌａｔｏｏｎ": [
+      {"name": "MyAnimeList", "url_id": "89995"}
+    ],
+    "かみちゃまかりんｃｈｕ": [
+      {"name": "MyAnimeList", "url_id": "2575"},
+      {"name": "Natively", "url_id": "4d7525d248"}
+    ],
+    "ＳＨＡＭＡＮ　ＫＩＮＧ　マルコス": [
+      {"name": "MyAnimeList", "url_id": "125731"}
+    ],
+    "ＳＨＡＭＡＮ　ＫＩＮＧ　レッドクリムゾン": [
+      {"name": "MyAnimeList", "url_id": "114665"}
+    ],
+    "じゃじゃ馬グルーミン★ＵＰ": [
+      {"name": "MyAnimeList", "url_id": "12933"},
+      {"name": "Natively", "url_id": "6ce02bb193"}
+    ],
+    "ひそひそ－silent voice－": [
+      {"name": "MyAnimeList", "url_id": "47210"}
+    ],
+    "ＳＴＡＲＴＩＮＧ　ＧＡＴＥ！　―ウマ娘プリティーダービー―": [
+      {"name": "MyAnimeList", "url_id": "106804"}
+    ],
+    "キノの旅　ｔｈｅ　Ｂｅａｕｔｉｆｕｌ　Ｗｏｒｌｄ": [
+      {"name": "MyAnimeList", "url_id": "105916"},
+      {"name": "MyAnimeList", "url_id": "104475"}
+    ],
+    "チェローフさんの魔法人形": [
+      {"name": "MyAnimeList", "url_id": "105664"}
+    ],
+    "ＦＡＩＲＹ　ＴＡＩＬ　ハッピーの大冒険": [
+      {"name": "MyAnimeList", "url_id": "114892"}
+    ],
+    "ＦＡＩＲＹ　ＴＡＩＬ": [
+      {"name": "MyAnimeList", "url_id": "69415"},
+      {"name": "MyAnimeList", "url_id": "598"}
+    ],
+    "ＥＤＥＮＳ　ＺＥＲＯ": [
+      {"name": "MyAnimeList", "url_id": "114548"}
+    ],
+    "ＦＡＩＲＹ　ＴＡＩＬ　ブルー・ミストラル": [
+      {"name": "MyAnimeList", "url_id": "75495"}
+    ],
+    "やさしく！ぐーるぐる真紀": [
+      {"name": "MyAnimeList", "url_id": "89750"}
+    ],
+    "明日の３６００秒": [
+      {"name": "MyAnimeList", "url_id": "88430"}
+    ],
+    "君の手が紡ぐ": [
+      {"name": "MyAnimeList", "url_id": "122109"}
+    ],
+    "ＦＩＲＥ　ＲＡＢＢＩＴ！！": [
+      {"name": "MyAnimeList", "url_id": "117578"}
+    ],
+    "ＧＯＬＤＥＮ★ＡＧＥ": [
+      {"name": "MyAnimeList", "url_id": "47188"}
+    ],
+    "ＳＡＬＡＤ　ＤＡＹＳ": [
+      {"name": "MyAnimeList", "url_id": "1904"}
+    ],
+    "らんま１／２": [
+      {"name": "MyAnimeList", "url_id": "23"},
+      {"name": "Natively", "url_id": "b449af7c7d"}
+    ],
+    "最後は？ストレート!!": [
+      {"name": "MyAnimeList", "url_id": "111000"}
+    ],
+    "ＬＯＳＴ　ＭＡＮ": [
+      {"name": "MyAnimeList", "url_id": "30423"}
+    ],
+    "ＣＩＴＹ": [
+      {"name": "MyAnimeList", "url_id": "101554"},
+      {"name": "Natively", "url_id": "5eb3e49eab"}
+    ],
+    "Ｃｈｅｒｒｙのまんま": [
+      {"name": "MyAnimeList", "url_id": "11097"}
+    ],
+    "Ｕ・ＢＵ　Ｕ・ＢＵ": [
+      {"name": "MyAnimeList", "url_id": "4794"}
+    ],
+    "ＨＯＰＥ": [
+      {"name": "MyAnimeList", "url_id": "57383"}
+    ],
+    "だいすき!!～ゆずの子育て日記～": [
+      {"name": "MyAnimeList", "url_id": "73023"},
+      {"name": "Natively", "url_id": "832fe63b6b"}
+    ],
+    "キン肉マンII世 究極の超人タッグ編": [
+      {"name": "MyAnimeList", "url_id": "23234"},
+      {"name": "Natively", "url_id": "efddeee123"}
+    ],
+    "ＢＬＡＣＫ　ＬＡＧＯＯＮ　掃除屋ソーヤー　解体！ゴアゴア娘": [
+      {"name": "MyAnimeList", "url_id": "132088"}
+    ],
+    "ゆずのどうぶつカルテ～小さな獣医～こちらわんニャンどうぶつ病院": [
+      {"name": "MyAnimeList", "url_id": "125146"}
+    ],
+    "ＯＨ！ＭＹコンブ": [
+      {"name": "MyAnimeList", "url_id": "75511"}
+    ],
+    "ピーチガールＮＥＸＴ": [
+      {"name": "MyAnimeList", "url_id": "100369"}
+    ],
+    "ツバサ　－ＷｏＲＬＤ　ＣＨＲｏＮｉＣＬＥ－　ニライカナイ編": [
+      {"name": "MyAnimeList", "url_id": "74339"}
+    ],
+    "８月３１日のロングサマー": [
+      {"name": "MyAnimeList", "url_id": "157396"},
+      {"name": "Natively", "url_id": "f28a337f5c"}
+    ],
+    "エスとエフ": [
+      {"name": "MyAnimeList", "url_id": "70805"}
+    ],
+    "あいみちゃんダメよ": [
+      {"name": "Natively", "url_id": "a5ebee9ac2"}
+    ],
+    "ゆう＆YOU": [
+      {"name": "Natively", "url_id": "c8a096eb7f"}
+    ],
+    "小料理みな子": [
+      {"name": "Natively", "url_id": "fde2c41b59"}
+    ],
+    "みらくるミミＫｕｎ": [
+      {"name": "Natively", "url_id": "c019cb3ee8"}
+    ],
+    "すきっぷ　なみちゃん": [
+      {"name": "Natively", "url_id": "18bb79fd76"}
+    ],
+    "新　仮面ライダーＳＰＩＲＩＴＳ": [
+      {"name": "Natively", "url_id": "f948a9cf43"}
+    ],
+    "うふふのフー坊": [
+      {"name": "Natively", "url_id": "95ed85df88"}
+    ],
+    "ダイヤのＡ　ａｃｔ２": [
+      {"name": "Natively", "url_id": "4b64113ca4"}
+    ],
+    "サビちゃんをヨロシク！": [
+      {"name": "Natively", "url_id": "fe240f1c84"}
+    ],
+    "あかつきのベイビーズ！": [
+      {"name": "Natively", "url_id": "97afd1fa01"}
+    ],
+    "×××ＨＯＬｉＣ・戻": [
+      {"name": "Natively", "url_id": "011fbe1d33"}
+    ],
+    "千鳥の一歩": [
+      {"name": "Natively", "url_id": "8bea3ceee8"}
+    ],
+    "ときめいて♡パコ": [
+      {"name": "Natively", "url_id": "de2a0064db"}
+    ],
+    "NANA―ナナ―": [
+      {"name": "Natively", "url_id": "9f81cd0b45"}
+    ],
+    "ケーキ屋さんの彼女": [
+      {"name": "Natively", "url_id": "72e6d5f26a"}
+    ],
+    "しあわせ大家族": [
+      {"name": "Natively", "url_id": "c51b4d9521"}
+    ],
+    "あだち勉物語　～あだち充を漫画家にした男～": [
+      {"name": "Natively", "url_id": "bec0ca37a5"}
+    ]
+  }
+}
